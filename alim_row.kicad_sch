@@ -210,12 +210,6 @@
 		(uuid "20a117c5-7d92-4197-90d2-956cfda1cb80")
 	)
 	(junction
-		(at 134.62 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "24786c85-2fda-42df-871b-f3cec743ffbc")
-	)
-	(junction
 		(at 66.04 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -292,12 +286,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "48b2f138-0c89-49e1-8d8f-b7510c348511")
-	)
-	(junction
-		(at 111.76 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "49b3a5bb-c8b0-4e3d-8c43-5dd5dde448b7")
 	)
 	(junction
 		(at 66.04 58.42)
@@ -648,12 +636,6 @@
 		(uuid "deab24b4-3406-4f0a-af19-f0b0bfc493fa")
 	)
 	(junction
-		(at 111.76 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dec72662-fb72-45e2-82ac-12f554501646")
-	)
-	(junction
 		(at 43.18 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -688,12 +670,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa413b6a-1dc3-49a9-bc53-7317be326ac5")
-	)
-	(junction
-		(at 134.62 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fec49fe5-5cd7-4b7e-b157-00c98e6bd030")
 	)
 	(wire
 		(pts
@@ -1377,16 +1353,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 20.32) (xy 134.62 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9152fd67-577a-4670-8a6c-9344863c5325")
-	)
-	(wire
-		(pts
 			(xy 203.2 25.4) (xy 203.2 30.48)
 		)
 		(stroke
@@ -1624,16 +1590,6 @@
 			(type default)
 		)
 		(uuid "cb747aa3-209a-4981-b4ce-a71eb3d51d53")
-	)
-	(wire
-		(pts
-			(xy 111.76 58.42) (xy 134.62 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccee7a7a-ad00-425b-9910-dccc3ee1fdc6")
 	)
 	(wire
 		(pts
@@ -1931,7 +1887,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "aea5c2fe-597b-4f26-91d6-480eb08af753")
+			(uuid "03daffec-5a26-456c-9736-8e282587bc93")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2002,7 +1958,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbbdccdb-c934-46e5-90da-ddfbc39f3462")
+			(uuid "160b7a23-9d6a-4690-a3b5-fd64b5b31bad")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2073,7 +2029,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a4a6f85d-47b7-4ff9-a1e4-03f341527ba0")
+			(uuid "ce3ee901-25f0-4f6b-9675-920a3c5cade1")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2144,7 +2100,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "23cc15b8-5ad7-4ed1-9532-f8ccaffd109f")
+			(uuid "468477b1-551a-4bca-ade9-9e345eb0b608")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2215,7 +2171,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f6d11956-76df-4b77-9e1d-d5e9e808d48f")
+			(uuid "11ac777c-a034-4915-92e6-3ac546d297f6")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2286,7 +2242,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3334100f-05ef-4ff2-8773-b812cbf24e86")
+			(uuid "27519233-510c-42d1-88e9-2849c3fec657")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2357,7 +2313,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "35651ab9-da6a-45a8-993a-19394c62c84e")
+			(uuid "3817ce18-c427-4e67-a2a6-ff673d25aedb")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2428,7 +2384,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "97f7732c-5fde-433c-becb-04b1fd42a20a")
+			(uuid "3414dca2-6f65-46fc-8a17-c3028b99484b")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2499,7 +2455,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "265d289f-461a-4e66-b3bd-01f7192dd13e")
+			(uuid "0dd7411f-0641-4d15-bb58-1be44d29ff18")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2570,7 +2526,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "40851daa-ee6b-4f01-851d-b88f980ca9d9")
+			(uuid "df1f5a23-3bb5-4862-a406-a1dea76b6e55")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2641,7 +2597,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6d531f69-6473-4faf-9f40-8c2a10fb1b94")
+			(uuid "f2b5c720-5d4b-47d6-b8c4-c46fc24aa342")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2712,7 +2668,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c0f7ec36-bc1d-4978-834f-e536c59d48b0")
+			(uuid "0dae41b3-489e-469c-9071-1918c3b61314")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2783,7 +2739,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6f1fa2de-efbe-4a29-87d3-fbe952120e85")
+			(uuid "9008c5c1-98eb-4aa7-a2ca-3c34cf982bff")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2854,7 +2810,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e42f0129-54bc-4f61-905d-c0ed4019221e")
+			(uuid "af4ee278-3f62-4e0d-ac22-dc12a9e3cc52")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2925,7 +2881,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "dca59a98-1d0d-4f80-bc45-1fc4607634f4")
+			(uuid "91fd3662-3f4d-4527-9e4e-228bca1964c0")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -2996,7 +2952,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1977c5a8-3ae0-404a-9893-383507058c55")
+			(uuid "d4e2aa89-9b68-4062-98a9-bd40f46e2112")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3067,7 +3023,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8a5b20a-3e42-4d54-9397-c735a717e720")
+			(uuid "c2218345-030d-4a7d-9a5a-566d5ff9d023")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3138,7 +3094,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "36f9a0f0-dddb-4acc-b77a-b36d1e15de98")
+			(uuid "fc0a7e20-b7e7-4eb8-bcef-16b476f92cfc")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3209,7 +3165,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7877c841-9afd-4fbc-abf0-5529e118cf29")
+			(uuid "d5110ee8-0199-4d15-be65-ea533130df11")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3280,7 +3236,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "120804b0-91cc-422d-81b4-5bc087ec580c")
+			(uuid "fab848b4-ce77-4b1f-968c-d0483c6eb4c9")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3351,7 +3307,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7fce2d4c-d5d3-46d1-871a-44e6eab6915a")
+			(uuid "defd1193-0eac-45ad-add9-47c8c91d2847")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3422,7 +3378,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fd6349ca-48b6-4090-af53-cc4f6ffed8e4")
+			(uuid "05135a2e-cba0-4a7c-9aef-eae9c81bfe80")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3493,7 +3449,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "bba3e753-ac89-4487-8200-c867a9161eda")
+			(uuid "d5cfba70-ce62-48e7-bff3-b5c8f015e88d")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3564,7 +3520,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cb90abff-35d9-4d12-b9b5-5680e58c577f")
+			(uuid "751d6940-3674-4c9d-bcc6-faf1bdf89862")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3635,7 +3591,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ec7f63b3-581f-4899-8370-d5d561e82bb5")
+			(uuid "e6c9fb0a-7ddd-4cd0-bf6b-478933dd4dcd")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3706,7 +3662,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "72e88a5e-7126-49dc-8792-df525e4e6f3a")
+			(uuid "9f4cc460-bb62-425c-8a33-646f5a6460df")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3777,7 +3733,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b6cdaa2a-61d6-41e7-96e2-4f5522aefc47")
+			(uuid "bf487217-d04f-4496-8df0-9cbad157169c")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3848,7 +3804,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5664291f-c8c3-442f-b8c6-2f9b98ce8aed")
+			(uuid "de9fc5d9-49e6-48c6-b879-52f05e731ef8")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3919,7 +3875,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "385fbc92-35d4-4d24-ab1c-3ecf47d6ad94")
+			(uuid "9262a19a-89ba-45c5-ac4f-eb2c628b5680")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -3990,7 +3946,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e16064ea-460f-4ddf-b25b-4914a319efac")
+			(uuid "61ffa9c1-daf3-4fb3-a5bf-048a4a17ffd5")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4061,7 +4017,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6a6f1d37-75a0-45ab-a33a-14196ca9c2cd")
+			(uuid "410f6e36-f53b-4d70-b778-201b2adb0f88")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4132,7 +4088,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9f414106-1724-4136-af92-65e38f4a5f00")
+			(uuid "31460d09-d472-49e9-b188-37c6e77185c3")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4203,7 +4159,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8d5c292e-dc7f-4e83-a96f-13a0fbe36c7b")
+			(uuid "aa9ac207-b84f-4351-9a29-f9ad29586be9")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4274,7 +4230,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "64941161-eb37-4809-9077-ea82adaf922b")
+			(uuid "5896f54e-99be-41f3-a409-b039af768346")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4345,7 +4301,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0826a291-27d0-467c-92ae-0390bc644336")
+			(uuid "1c3c222e-86df-40da-afd0-b0b8dc782c3a")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4416,7 +4372,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "352d5c1a-a684-4e4d-85b6-27ac7391569c")
+			(uuid "a350a5e8-6d15-4ef0-a2fe-236b16015128")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4487,7 +4443,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ec5b7945-8891-4d09-a005-87712b3ebeeb")
+			(uuid "bd491abf-4776-427b-9ea8-070c0194e2c1")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4558,7 +4514,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "84beab83-307b-4734-a469-ca1e7bf26e8b")
+			(uuid "ceeb1084-c279-4b5e-b659-b456bf05dcd0")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4629,7 +4585,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "48c497ba-ebc9-4849-91f9-f26c9535dbd8")
+			(uuid "faab6d39-b222-4b04-a45b-7b4b2ec1c23a")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4700,7 +4656,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f437904d-710f-419d-aa9b-4590893b7aff")
+			(uuid "d3196ca1-d260-495f-b9ad-ca51f95fcdc3")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4771,7 +4727,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1e36be8b-65d5-456f-b3ad-714f8a9ec751")
+			(uuid "639bf86b-9799-47de-b691-92d9e634c9f1")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4842,7 +4798,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "54008173-3666-462b-967f-dd24f91464d3")
+			(uuid "ab64917c-6d4b-4394-8d7c-43408ae9dc86")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4913,7 +4869,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f07fc94c-1b32-47d1-8471-9cc1e367de6f")
+			(uuid "342afbf7-8bb3-492f-8728-760c3dbb02cf")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -4984,7 +4940,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e30825e8-fab6-491c-b0be-d4ab19ff4f03")
+			(uuid "1cf29aab-a6e7-4be8-8f7b-e1914c481cc8")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5055,7 +5011,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a00c02e9-7881-440b-b110-bb9f8a34282d")
+			(uuid "7a1e6a3a-6013-4065-8e9e-e914b0c6a25a")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5126,7 +5082,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "84e4f6b0-7bb7-42b4-b1a2-48e3227cfa00")
+			(uuid "8e29233b-3318-47da-9d83-066314c073f8")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5197,7 +5153,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "35a67baf-f717-49b8-b851-82077c49a708")
+			(uuid "440a52ea-410e-4a15-b055-5fa2763a5ed2")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5268,7 +5224,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a22b3673-89a9-4f9a-847a-6193559ded07")
+			(uuid "1aa93b82-8ad1-474f-a1ad-01205099bbcc")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5339,7 +5295,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4eb07688-a52a-4aa1-a926-68ac193b89bf")
+			(uuid "5208cc90-4aae-4018-bcd6-a631c66d875e")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5410,7 +5366,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "99257404-615f-4745-b596-89d1168467b7")
+			(uuid "280b51b5-3c14-4b28-9ef3-77695e5f7e4d")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5481,7 +5437,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a7093934-6b0f-4c8d-8fd2-dcbfeee80541")
+			(uuid "fb4cf6af-2d9f-4e94-b4c2-f68871c72c9f")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5552,7 +5508,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3a9af1a3-bdeb-4f65-b854-134f6f05a1a0")
+			(uuid "e0d5b95e-abf9-42e2-8ad8-19edc1a31255")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5623,7 +5579,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "45cdf755-e6fa-42d1-86e8-1702bb2e74b0")
+			(uuid "55c3154b-3307-49cb-b468-c9c6a14deabc")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5694,7 +5650,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1b393590-d943-41d0-850f-4fbf03345cb3")
+			(uuid "5c0d4a49-133f-4a04-b271-7ff83399559d")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5765,7 +5721,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "47ec4e6a-b46e-4a25-9eee-c531ce1debf5")
+			(uuid "ba850c60-b1db-4424-8f19-4100c12c50d3")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5836,7 +5792,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "dc9d29fa-8b6e-48e4-9151-13658e5839b8")
+			(uuid "a698299f-bc34-41f5-ae82-7094e06d649c")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5907,7 +5863,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7f75b48a-27c7-485e-bfff-2290d10a1b78")
+			(uuid "3f8cbcdb-6dc4-420a-ac9f-3ec7fbf9dd88")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -5978,7 +5934,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ba70f91-9060-40e8-9bb5-94195a7ce698")
+			(uuid "9b8eecc7-0ad8-4481-b697-a8bfc2c0d1bb")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6049,7 +6005,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a7149f4e-0d4b-432b-b751-95985e6cfbd1")
+			(uuid "2cb481fa-4a20-42c3-bf30-6b2a1e68abaf")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6120,7 +6076,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c575cac2-f43f-4871-896d-eb571a91337e")
+			(uuid "390cde15-ecea-4be3-9b8b-caaea9c75237")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6191,7 +6147,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b09ba649-86e0-4bf7-bf17-0b48cce6ab3c")
+			(uuid "e94edd07-76f4-47a9-941b-00ad840f0036")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6262,7 +6218,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c5739de3-f269-4ccc-b1f5-f7023352ff5a")
+			(uuid "046a4a82-72b9-4096-ae4e-c5afee640be8")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6333,7 +6289,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5c034fd6-e62a-4b5f-bd86-70f670352964")
+			(uuid "e929e434-627c-4a8c-a82e-e56de02b9b58")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6404,7 +6360,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "282f50a6-b8f0-4729-86a8-1ef894c26073")
+			(uuid "b0ec2170-8900-49c7-ae0f-c0e55781fbbf")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6475,7 +6431,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c5e7fe85-6dc6-4a14-93b4-0e1cc16097a8")
+			(uuid "4cfa22ac-fd10-415f-ab5f-b4187339f4da")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6546,7 +6502,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "585de864-555d-4d01-9680-5fadd9fa56c3")
+			(uuid "62894c43-1a4e-4cbb-a496-7e4708cc4983")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6617,7 +6573,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6732c62d-17d4-4712-beb7-76f5d317863b")
+			(uuid "6a5daecc-2a65-4dee-b234-bb45bca1138a")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6688,7 +6644,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cb91b480-2d32-442b-a4d3-9fbd884309f4")
+			(uuid "31bca781-647b-4fe0-ab5f-ea37010c594e")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6759,7 +6715,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "01bc1da4-d21a-428e-8a5b-0b053306f8b8")
+			(uuid "54a7ece1-9605-4828-b35b-e573c76f808d")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6830,7 +6786,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "004b618f-3a41-4a68-a409-e9cada58b018")
+			(uuid "ed3efc2c-7941-4832-b587-8f83bfc06547")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6901,7 +6857,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cf14081e-8b5f-4f0f-ac0a-87e2a4641f21")
+			(uuid "4ca0f8d4-19d5-4bc5-a69a-d1a6b50343c6")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -6972,7 +6928,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b57ccd34-f0e6-41ef-baa1-0094b9d7afab")
+			(uuid "da7aa616-dfd3-4690-bbe4-991386efe01a")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7043,7 +6999,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1efcbe73-5786-4087-90ec-7b49affb8342")
+			(uuid "f72d6a9e-a1c1-4173-b8eb-2c295de8d56e")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7114,7 +7070,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "65d5b31d-2738-4ecb-85c6-df083fdc9572")
+			(uuid "6f2cf8cb-b22c-46cd-8afe-3452e549f8b1")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7185,7 +7141,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a9e1f636-9641-4fca-be60-30b22fd734bd")
+			(uuid "31fde361-63e7-49cc-bb61-9584c6288c67")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7256,7 +7212,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "30bc7da9-b3a5-4bc8-907d-7465310a0861")
+			(uuid "3ef58669-9b54-49be-aab7-55a238453ed9")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7327,7 +7283,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fba67f3a-66ba-4b40-be34-a7be035e8bc4")
+			(uuid "5408a06a-b993-489e-bac0-6783f1d96869")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7398,7 +7354,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f9e9ea83-dfe8-4e94-9e1d-3658adeb6bae")
+			(uuid "19664a9a-8c9c-4ee9-8008-9351afcdffa9")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7469,7 +7425,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "09e2f766-5af0-4cbd-95d3-25caa04f558f")
+			(uuid "6a724feb-61a7-4917-8c31-eefefdf1c006")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7540,7 +7496,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "004135d2-be4e-4b4b-898f-8e00247dd87b")
+			(uuid "1011a71d-ade0-46d1-b4cc-c318a85e4ab5")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7611,7 +7567,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9e0aef23-ca6c-4d10-bede-84bec09c4212")
+			(uuid "d1a2c962-0a5f-4f67-9455-bb2ea007e027")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7682,7 +7638,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "19089624-f5ca-4022-b614-d0fcd3e329c0")
+			(uuid "6a5094f6-dc99-4a70-bf1a-daacaf588b8c")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7753,7 +7709,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6db5907d-86b0-4cbe-a1f3-99e3d1eae593")
+			(uuid "11bdc7a7-2f03-418c-828e-1e4cab66cf8c")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7824,7 +7780,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "53073568-1f60-4c65-b31b-a6bf0d00edc5")
+			(uuid "dc9801b6-af12-4ac6-9cc1-faf4558ce1b9")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7895,7 +7851,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1b242727-d6a5-4793-ab69-3ba89df12d18")
+			(uuid "f6772c1a-94c4-42da-b512-b46f409ac7a9")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -7966,7 +7922,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ecfe6de3-feb7-46ea-8ae6-2df29b4464c4")
+			(uuid "49de948b-d65a-4b96-a721-c6c454ced89d")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8037,7 +7993,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0f995072-6b9b-430d-860d-9d9cf5fe1114")
+			(uuid "2594c23e-e397-4e0f-b295-96cd82341496")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8108,7 +8064,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e54862c0-03dc-4026-91a1-0317401a7d8c")
+			(uuid "f9c360f2-6176-4288-8073-bddf305317de")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8179,7 +8135,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "489d73bf-4c40-40a0-b651-abe9b4cc823c")
+			(uuid "1afb6fd0-3fe0-4e6c-9fab-7a37d39cd921")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8250,7 +8206,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "00a48ea1-fc6a-4057-a260-0ca86fa43184")
+			(uuid "506308ef-e987-411a-bea8-d8ff6c60cfbe")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8321,7 +8277,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "35fdef6b-57ea-40e7-8db7-b8529a682221")
+			(uuid "fdf6712f-235c-4395-948d-68874fdd050d")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8392,7 +8348,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "39228c40-733c-4395-8652-6ff7bff60cb0")
+			(uuid "35d20fce-0a5f-4662-aedb-690e88d16eca")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8463,7 +8419,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6c6b0253-0c56-4162-a561-6c129f172d5a")
+			(uuid "7c3b3689-0fa4-45e5-9f50-b1981d8882df")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8534,7 +8490,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6915f43a-d567-4af0-8005-ff841ccfeb8e")
+			(uuid "2e8baccd-f4b9-42cb-a9c7-dae49df0318e")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8605,7 +8561,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f59cc805-dfec-449a-9c13-e009fdede864")
+			(uuid "bd3e4ce8-1e71-4e6e-8987-3872ada0606e")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8676,7 +8632,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7e4cc78a-f8ad-4f4f-b163-a5811a6f784d")
+			(uuid "8ca11870-7924-42b2-88cf-d133c2009de1")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8747,7 +8703,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d6c6aa07-464d-49f4-8418-c96132417cb2")
+			(uuid "7a84b641-4a5f-4e81-bcd4-e4e79a9ea2e8")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8818,7 +8774,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f3d6909a-36b5-4b38-a0f2-0627bce790e4")
+			(uuid "fccbe823-38c7-4f6c-9d0a-2b84bf185006")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8889,7 +8845,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4b1f69b8-2e74-469d-962c-515c4b4bcac1")
+			(uuid "6e74acb0-a317-44b5-bd00-f87f33308291")
 		)
 		(instances
 			(project "solderbread_custm"
@@ -8960,7 +8916,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b1815e58-6798-49db-a11e-b4818c18b64b")
+			(uuid "7c99ec29-1a7d-4e40-a7d0-9bb90e588b18")
 		)
 		(instances
 			(project "solderbread_custm"

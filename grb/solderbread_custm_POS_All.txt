@@ -1,0 +1,1047 @@
+### Module positions - created on 2025-05-16 23:31
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 0.000mm, Pcb Width 0.000mm [based on Edge bounding box]
+## Side : ALL
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J1030         Conn_01x01          single_pin                    152.4000   -68.5800   152.4000   -68.5800      0.0    top       SMD
+J1029         Conn_01x01          single_pin                    152.4000   -65.8800   152.4000   -65.8800      0.0    top       SMD
+J1028         Conn_01x01          single_pin                    152.4000   -63.1800   152.4000   -63.1800      0.0    top       SMD
+J1027         Conn_01x01          single_pin                    152.4000   -60.4800   152.4000   -60.4800      0.0    top       SMD
+J1026         Conn_01x01          single_pin                    152.4000   -57.7800   152.4000   -57.7800      0.0    top       SMD
+J1025         Conn_01x01          single_pin                    152.4000   -55.0800   152.4000   -55.0800      0.0    top       SMD
+J1024         Conn_01x01          single_pin                    152.4000   -52.3800   152.4000   -52.3800      0.0    top       SMD
+J1023         Conn_01x01          single_pin                    152.4000   -49.6800   152.4000   -49.6800      0.0    top       SMD
+J1022         Conn_01x01          single_pin                    152.4000   -46.9800   152.4000   -46.9800      0.0    top       SMD
+J1021         Conn_01x01          single_pin                    152.4000   -44.2800   152.4000   -44.2800      0.0    top       SMD
+J1020         Conn_01x01          single_pin                    149.7000   -68.5800   149.7000   -68.5800      0.0    top       SMD
+J1019         Conn_01x01          single_pin                    149.7000   -65.8800   149.7000   -65.8800      0.0    top       SMD
+J1018         Conn_01x01          single_pin                    149.7000   -63.1800   149.7000   -63.1800      0.0    top       SMD
+J1017         Conn_01x01          single_pin                    149.7000   -60.4800   149.7000   -60.4800      0.0    top       SMD
+J1016         Conn_01x01          single_pin                    149.7000   -57.7800   149.7000   -57.7800      0.0    top       SMD
+J1015         Conn_01x01          single_pin                    149.7000   -55.0800   149.7000   -55.0800      0.0    top       SMD
+J1014         Conn_01x01          single_pin                    149.7000   -52.3800   149.7000   -52.3800      0.0    top       SMD
+J1013         Conn_01x01          single_pin                    149.7000   -49.6800   149.7000   -49.6800      0.0    top       SMD
+J1012         Conn_01x01          single_pin                    149.7000   -46.9800   149.7000   -46.9800      0.0    top       SMD
+J1011         Conn_01x01          single_pin                    149.7000   -44.2800   149.7000   -44.2800      0.0    top       SMD
+J1010         Conn_01x01          single_pin                    147.0000   -68.5800   147.0000   -68.5800      0.0    top       SMD
+J1009         Conn_01x01          single_pin                    147.0000   -65.8800   147.0000   -65.8800      0.0    top       SMD
+J1008         Conn_01x01          single_pin                    147.0000   -63.1800   147.0000   -63.1800      0.0    top       SMD
+J1007         Conn_01x01          single_pin                    147.0000   -60.4800   147.0000   -60.4800      0.0    top       SMD
+J1006         Conn_01x01          single_pin                    147.0000   -57.7800   147.0000   -57.7800      0.0    top       SMD
+J1005         Conn_01x01          single_pin                    147.0000   -55.0800   147.0000   -55.0800      0.0    top       SMD
+J1004         Conn_01x01          single_pin                    147.0000   -52.3800   147.0000   -52.3800      0.0    top       SMD
+J1003         Conn_01x01          single_pin                    147.0000   -49.6800   147.0000   -49.6800      0.0    top       SMD
+J1002         Conn_01x01          single_pin                    147.0000   -46.9800   147.0000   -46.9800      0.0    top       SMD
+J1001         Conn_01x01          single_pin                    147.0000   -44.2800   147.0000   -44.2800      0.0    top       SMD
+J1000         Conn_01x01          single_pin                    144.3000   -68.5800   144.3000   -68.5800      0.0    top       SMD
+J999          Conn_01x01          single_pin                    144.3000   -65.8800   144.3000   -65.8800      0.0    top       SMD
+J998          Conn_01x01          single_pin                    144.3000   -63.1800   144.3000   -63.1800      0.0    top       SMD
+J997          Conn_01x01          single_pin                    144.3000   -60.4800   144.3000   -60.4800      0.0    top       SMD
+J996          Conn_01x01          single_pin                    144.3000   -57.7800   144.3000   -57.7800      0.0    top       SMD
+J995          Conn_01x01          single_pin                    144.3000   -55.0800   144.3000   -55.0800      0.0    top       SMD
+J994          Conn_01x01          single_pin                    144.3000   -52.3800   144.3000   -52.3800      0.0    top       SMD
+J993          Conn_01x01          single_pin                    144.3000   -49.6800   144.3000   -49.6800      0.0    top       SMD
+J992          Conn_01x01          single_pin                    144.3000   -46.9800   144.3000   -46.9800      0.0    top       SMD
+J991          Conn_01x01          single_pin                    144.3000   -44.2800   144.3000   -44.2800      0.0    top       SMD
+J990          Conn_01x01          single_pin                    141.6000   -68.5800   141.6000   -68.5800      0.0    top       SMD
+J989          Conn_01x01          single_pin                    141.6000   -65.8800   141.6000   -65.8800      0.0    top       SMD
+J988          Conn_01x01          single_pin                    141.6000   -63.1800   141.6000   -63.1800      0.0    top       SMD
+J987          Conn_01x01          single_pin                    141.6000   -60.4800   141.6000   -60.4800      0.0    top       SMD
+J986          Conn_01x01          single_pin                    141.6000   -57.7800   141.6000   -57.7800      0.0    top       SMD
+J985          Conn_01x01          single_pin                    141.6000   -55.0800   141.6000   -55.0800      0.0    top       SMD
+J984          Conn_01x01          single_pin                    141.6000   -52.3800   141.6000   -52.3800      0.0    top       SMD
+J983          Conn_01x01          single_pin                    141.6000   -49.6800   141.6000   -49.6800      0.0    top       SMD
+J982          Conn_01x01          single_pin                    141.6000   -46.9800   141.6000   -46.9800      0.0    top       SMD
+J981          Conn_01x01          single_pin                    141.6000   -44.2800   141.6000   -44.2800      0.0    top       SMD
+J980          Conn_01x01          single_pin                    138.9000   -68.5800   138.9000   -68.5800      0.0    top       SMD
+J979          Conn_01x01          single_pin                    138.9000   -65.8800   138.9000   -65.8800      0.0    top       SMD
+J978          Conn_01x01          single_pin                    138.9000   -63.1800   138.9000   -63.1800      0.0    top       SMD
+J977          Conn_01x01          single_pin                    138.9000   -60.4800   138.9000   -60.4800      0.0    top       SMD
+J976          Conn_01x01          single_pin                    138.9000   -57.7800   138.9000   -57.7800      0.0    top       SMD
+J975          Conn_01x01          single_pin                    138.9000   -55.0800   138.9000   -55.0800      0.0    top       SMD
+J974          Conn_01x01          single_pin                    138.9000   -52.3800   138.9000   -52.3800      0.0    top       SMD
+J973          Conn_01x01          single_pin                    138.9000   -49.6800   138.9000   -49.6800      0.0    top       SMD
+J972          Conn_01x01          single_pin                    138.9000   -46.9800   138.9000   -46.9800      0.0    top       SMD
+J971          Conn_01x01          single_pin                    138.9000   -44.2800   138.9000   -44.2800      0.0    top       SMD
+J970          Conn_01x01          single_pin                    136.2000   -68.5800   136.2000   -68.5800      0.0    top       SMD
+J969          Conn_01x01          single_pin                    136.2000   -65.8800   136.2000   -65.8800      0.0    top       SMD
+J968          Conn_01x01          single_pin                    136.2000   -63.1800   136.2000   -63.1800      0.0    top       SMD
+J967          Conn_01x01          single_pin                    136.2000   -60.4800   136.2000   -60.4800      0.0    top       SMD
+J966          Conn_01x01          single_pin                    136.2000   -57.7800   136.2000   -57.7800      0.0    top       SMD
+J965          Conn_01x01          single_pin                    136.2000   -55.0800   136.2000   -55.0800      0.0    top       SMD
+J964          Conn_01x01          single_pin                    136.2000   -52.3800   136.2000   -52.3800      0.0    top       SMD
+J963          Conn_01x01          single_pin                    136.2000   -49.6800   136.2000   -49.6800      0.0    top       SMD
+J962          Conn_01x01          single_pin                    136.2000   -46.9800   136.2000   -46.9800      0.0    top       SMD
+J961          Conn_01x01          single_pin                    136.2000   -44.2800   136.2000   -44.2800      0.0    top       SMD
+J960          Conn_01x01          single_pin                    133.5000   -68.5800   133.5000   -68.5800      0.0    top       SMD
+J959          Conn_01x01          single_pin                    133.5000   -65.8800   133.5000   -65.8800      0.0    top       SMD
+J958          Conn_01x01          single_pin                    133.5000   -63.1800   133.5000   -63.1800      0.0    top       SMD
+J957          Conn_01x01          single_pin                    133.5000   -60.4800   133.5000   -60.4800      0.0    top       SMD
+J956          Conn_01x01          single_pin                    133.5000   -57.7800   133.5000   -57.7800      0.0    top       SMD
+J955          Conn_01x01          single_pin                    133.5000   -55.0800   133.5000   -55.0800      0.0    top       SMD
+J954          Conn_01x01          single_pin                    133.5000   -52.3800   133.5000   -52.3800      0.0    top       SMD
+J953          Conn_01x01          single_pin                    133.5000   -49.6800   133.5000   -49.6800      0.0    top       SMD
+J952          Conn_01x01          single_pin                    133.5000   -46.9800   133.5000   -46.9800      0.0    top       SMD
+J951          Conn_01x01          single_pin                    133.5000   -44.2800   133.5000   -44.2800      0.0    top       SMD
+J950          Conn_01x01          single_pin                    130.8000   -68.5800   130.8000   -68.5800      0.0    top       SMD
+J949          Conn_01x01          single_pin                    130.8000   -65.8800   130.8000   -65.8800      0.0    top       SMD
+J948          Conn_01x01          single_pin                    130.8000   -63.1800   130.8000   -63.1800      0.0    top       SMD
+J947          Conn_01x01          single_pin                    130.8000   -60.4800   130.8000   -60.4800      0.0    top       SMD
+J946          Conn_01x01          single_pin                    130.8000   -57.7800   130.8000   -57.7800      0.0    top       SMD
+J945          Conn_01x01          single_pin                    130.8000   -55.0800   130.8000   -55.0800      0.0    top       SMD
+J944          Conn_01x01          single_pin                    130.8000   -52.3800   130.8000   -52.3800      0.0    top       SMD
+J943          Conn_01x01          single_pin                    130.8000   -49.6800   130.8000   -49.6800      0.0    top       SMD
+J942          Conn_01x01          single_pin                    130.8000   -46.9800   130.8000   -46.9800      0.0    top       SMD
+J941          Conn_01x01          single_pin                    130.8000   -44.2800   130.8000   -44.2800      0.0    top       SMD
+J940          Conn_01x01          single_pin                    128.1000   -68.5800   128.1000   -68.5800      0.0    top       SMD
+J939          Conn_01x01          single_pin                    128.1000   -65.8800   128.1000   -65.8800      0.0    top       SMD
+J938          Conn_01x01          single_pin                    128.1000   -63.1800   128.1000   -63.1800      0.0    top       SMD
+J937          Conn_01x01          single_pin                    128.1000   -60.4800   128.1000   -60.4800      0.0    top       SMD
+J936          Conn_01x01          single_pin                    128.1000   -57.7800   128.1000   -57.7800      0.0    top       SMD
+J935          Conn_01x01          single_pin                    128.1000   -55.0800   128.1000   -55.0800      0.0    top       SMD
+J934          Conn_01x01          single_pin                    128.1000   -52.3800   128.1000   -52.3800      0.0    top       SMD
+J933          Conn_01x01          single_pin                    128.1000   -49.6800   128.1000   -49.6800      0.0    top       SMD
+J932          Conn_01x01          single_pin                    128.1000   -46.9800   128.1000   -46.9800      0.0    top       SMD
+J931          Conn_01x01          single_pin                    128.1000   -44.2800   128.1000   -44.2800      0.0    top       SMD
+J930          Conn_01x01          single_pin                    152.4000   -39.5800   152.4000   -39.5800      0.0    top       SMD
+J929          Conn_01x01          single_pin                    152.4000   -36.8800   152.4000   -36.8800      0.0    top       SMD
+J928          Conn_01x01          single_pin                    152.4000   -34.1800   152.4000   -34.1800      0.0    top       SMD
+J927          Conn_01x01          single_pin                    152.4000   -31.4800   152.4000   -31.4800      0.0    top       SMD
+J926          Conn_01x01          single_pin                    152.4000   -28.7800   152.4000   -28.7800      0.0    top       SMD
+J925          Conn_01x01          single_pin                    152.4000   -26.0800   152.4000   -26.0800      0.0    top       SMD
+J924          Conn_01x01          single_pin                    152.4000   -23.3800   152.4000   -23.3800      0.0    top       SMD
+J923          Conn_01x01          single_pin                    152.4000   -20.6800   152.4000   -20.6800      0.0    top       SMD
+J922          Conn_01x01          single_pin                    152.4000   -17.9800   152.4000   -17.9800      0.0    top       SMD
+J921          Conn_01x01          single_pin                    152.4000   -15.2800   152.4000   -15.2800      0.0    top       SMD
+J920          Conn_01x01          single_pin                    149.7000   -39.5800   149.7000   -39.5800      0.0    top       SMD
+J919          Conn_01x01          single_pin                    149.7000   -36.8800   149.7000   -36.8800      0.0    top       SMD
+J918          Conn_01x01          single_pin                    149.7000   -34.1800   149.7000   -34.1800      0.0    top       SMD
+J917          Conn_01x01          single_pin                    149.7000   -31.4800   149.7000   -31.4800      0.0    top       SMD
+J916          Conn_01x01          single_pin                    149.7000   -28.7800   149.7000   -28.7800      0.0    top       SMD
+J915          Conn_01x01          single_pin                    149.7000   -26.0800   149.7000   -26.0800      0.0    top       SMD
+J914          Conn_01x01          single_pin                    149.7000   -23.3800   149.7000   -23.3800      0.0    top       SMD
+J913          Conn_01x01          single_pin                    149.7000   -20.6800   149.7000   -20.6800      0.0    top       SMD
+J912          Conn_01x01          single_pin                    149.7000   -17.9800   149.7000   -17.9800      0.0    top       SMD
+J911          Conn_01x01          single_pin                    149.7000   -15.2800   149.7000   -15.2800      0.0    top       SMD
+J910          Conn_01x01          single_pin                    147.0000   -39.5800   147.0000   -39.5800      0.0    top       SMD
+J909          Conn_01x01          single_pin                    147.0000   -36.8800   147.0000   -36.8800      0.0    top       SMD
+J908          Conn_01x01          single_pin                    147.0000   -34.1800   147.0000   -34.1800      0.0    top       SMD
+J907          Conn_01x01          single_pin                    147.0000   -31.4800   147.0000   -31.4800      0.0    top       SMD
+J906          Conn_01x01          single_pin                    147.0000   -28.7800   147.0000   -28.7800      0.0    top       SMD
+J905          Conn_01x01          single_pin                    147.0000   -26.0800   147.0000   -26.0800      0.0    top       SMD
+J904          Conn_01x01          single_pin                    147.0000   -23.3800   147.0000   -23.3800      0.0    top       SMD
+J903          Conn_01x01          single_pin                    147.0000   -20.6800   147.0000   -20.6800      0.0    top       SMD
+J902          Conn_01x01          single_pin                    147.0000   -17.9800   147.0000   -17.9800      0.0    top       SMD
+J901          Conn_01x01          single_pin                    147.0000   -15.2800   147.0000   -15.2800      0.0    top       SMD
+J900          Conn_01x01          single_pin                    144.3000   -39.5800   144.3000   -39.5800      0.0    top       SMD
+J899          Conn_01x01          single_pin                    144.3000   -36.8800   144.3000   -36.8800      0.0    top       SMD
+J898          Conn_01x01          single_pin                    144.3000   -34.1800   144.3000   -34.1800      0.0    top       SMD
+J897          Conn_01x01          single_pin                    144.3000   -31.4800   144.3000   -31.4800      0.0    top       SMD
+J896          Conn_01x01          single_pin                    144.3000   -28.7800   144.3000   -28.7800      0.0    top       SMD
+J895          Conn_01x01          single_pin                    144.3000   -26.0800   144.3000   -26.0800      0.0    top       SMD
+J894          Conn_01x01          single_pin                    144.3000   -23.3800   144.3000   -23.3800      0.0    top       SMD
+J893          Conn_01x01          single_pin                    144.3000   -20.6800   144.3000   -20.6800      0.0    top       SMD
+J892          Conn_01x01          single_pin                    144.3000   -17.9800   144.3000   -17.9800      0.0    top       SMD
+J891          Conn_01x01          single_pin                    144.3000   -15.2800   144.3000   -15.2800      0.0    top       SMD
+J890          Conn_01x01          single_pin                    141.6000   -39.5800   141.6000   -39.5800      0.0    top       SMD
+J889          Conn_01x01          single_pin                    141.6000   -36.8800   141.6000   -36.8800      0.0    top       SMD
+J888          Conn_01x01          single_pin                    141.6000   -34.1800   141.6000   -34.1800      0.0    top       SMD
+J887          Conn_01x01          single_pin                    141.6000   -31.4800   141.6000   -31.4800      0.0    top       SMD
+J886          Conn_01x01          single_pin                    141.6000   -28.7800   141.6000   -28.7800      0.0    top       SMD
+J885          Conn_01x01          single_pin                    141.6000   -26.0800   141.6000   -26.0800      0.0    top       SMD
+J884          Conn_01x01          single_pin                    141.6000   -23.3800   141.6000   -23.3800      0.0    top       SMD
+J883          Conn_01x01          single_pin                    141.6000   -20.6800   141.6000   -20.6800      0.0    top       SMD
+J882          Conn_01x01          single_pin                    141.6000   -17.9800   141.6000   -17.9800      0.0    top       SMD
+J881          Conn_01x01          single_pin                    141.6000   -15.2800   141.6000   -15.2800      0.0    top       SMD
+J880          Conn_01x01          single_pin                    138.9000   -39.5800   138.9000   -39.5800      0.0    top       SMD
+J879          Conn_01x01          single_pin                    138.9000   -36.8800   138.9000   -36.8800      0.0    top       SMD
+J878          Conn_01x01          single_pin                    138.9000   -34.1800   138.9000   -34.1800      0.0    top       SMD
+J877          Conn_01x01          single_pin                    138.9000   -31.4800   138.9000   -31.4800      0.0    top       SMD
+J876          Conn_01x01          single_pin                    138.9000   -28.7800   138.9000   -28.7800      0.0    top       SMD
+J875          Conn_01x01          single_pin                    138.9000   -26.0800   138.9000   -26.0800      0.0    top       SMD
+J874          Conn_01x01          single_pin                    138.9000   -23.3800   138.9000   -23.3800      0.0    top       SMD
+J873          Conn_01x01          single_pin                    138.9000   -20.6800   138.9000   -20.6800      0.0    top       SMD
+J872          Conn_01x01          single_pin                    138.9000   -17.9800   138.9000   -17.9800      0.0    top       SMD
+J871          Conn_01x01          single_pin                    138.9000   -15.2800   138.9000   -15.2800      0.0    top       SMD
+J870          Conn_01x01          single_pin                    136.2000   -39.5800   136.2000   -39.5800      0.0    top       SMD
+J869          Conn_01x01          single_pin                    136.2000   -36.8800   136.2000   -36.8800      0.0    top       SMD
+J868          Conn_01x01          single_pin                    136.2000   -34.1800   136.2000   -34.1800      0.0    top       SMD
+J867          Conn_01x01          single_pin                    136.2000   -31.4800   136.2000   -31.4800      0.0    top       SMD
+J866          Conn_01x01          single_pin                    136.2000   -28.7800   136.2000   -28.7800      0.0    top       SMD
+J865          Conn_01x01          single_pin                    136.2000   -26.0800   136.2000   -26.0800      0.0    top       SMD
+J864          Conn_01x01          single_pin                    136.2000   -23.3800   136.2000   -23.3800      0.0    top       SMD
+J863          Conn_01x01          single_pin                    136.2000   -20.6800   136.2000   -20.6800      0.0    top       SMD
+J862          Conn_01x01          single_pin                    136.2000   -17.9800   136.2000   -17.9800      0.0    top       SMD
+J861          Conn_01x01          single_pin                    136.2000   -15.2800   136.2000   -15.2800      0.0    top       SMD
+J860          Conn_01x01          single_pin                    133.5000   -39.5800   133.5000   -39.5800      0.0    top       SMD
+J859          Conn_01x01          single_pin                    133.5000   -36.8800   133.5000   -36.8800      0.0    top       SMD
+J858          Conn_01x01          single_pin                    133.5000   -34.1800   133.5000   -34.1800      0.0    top       SMD
+J857          Conn_01x01          single_pin                    133.5000   -31.4800   133.5000   -31.4800      0.0    top       SMD
+J856          Conn_01x01          single_pin                    133.5000   -28.7800   133.5000   -28.7800      0.0    top       SMD
+J855          Conn_01x01          single_pin                    133.5000   -26.0800   133.5000   -26.0800      0.0    top       SMD
+J854          Conn_01x01          single_pin                    133.5000   -23.3800   133.5000   -23.3800      0.0    top       SMD
+J853          Conn_01x01          single_pin                    133.5000   -20.6800   133.5000   -20.6800      0.0    top       SMD
+J852          Conn_01x01          single_pin                    133.5000   -17.9800   133.5000   -17.9800      0.0    top       SMD
+J851          Conn_01x01          single_pin                    133.5000   -15.2800   133.5000   -15.2800      0.0    top       SMD
+J850          Conn_01x01          single_pin                    130.8000   -39.5800   130.8000   -39.5800      0.0    top       SMD
+J849          Conn_01x01          single_pin                    130.8000   -36.8800   130.8000   -36.8800      0.0    top       SMD
+J848          Conn_01x01          single_pin                    130.8000   -34.1800   130.8000   -34.1800      0.0    top       SMD
+J847          Conn_01x01          single_pin                    130.8000   -31.4800   130.8000   -31.4800      0.0    top       SMD
+J846          Conn_01x01          single_pin                    130.8000   -28.7800   130.8000   -28.7800      0.0    top       SMD
+J845          Conn_01x01          single_pin                    130.8000   -26.0800   130.8000   -26.0800      0.0    top       SMD
+J844          Conn_01x01          single_pin                    130.8000   -23.3800   130.8000   -23.3800      0.0    top       SMD
+J843          Conn_01x01          single_pin                    130.8000   -20.6800   130.8000   -20.6800      0.0    top       SMD
+J842          Conn_01x01          single_pin                    130.8000   -17.9800   130.8000   -17.9800      0.0    top       SMD
+J841          Conn_01x01          single_pin                    130.8000   -15.2800   130.8000   -15.2800      0.0    top       SMD
+J840          Conn_01x01          single_pin                    128.1000   -39.5800   128.1000   -39.5800      0.0    top       SMD
+J839          Conn_01x01          single_pin                    128.1000   -36.8800   128.1000   -36.8800      0.0    top       SMD
+J838          Conn_01x01          single_pin                    128.1000   -34.1800   128.1000   -34.1800      0.0    top       SMD
+J837          Conn_01x01          single_pin                    128.1000   -31.4800   128.1000   -31.4800      0.0    top       SMD
+J836          Conn_01x01          single_pin                    128.1000   -28.7800   128.1000   -28.7800      0.0    top       SMD
+J835          Conn_01x01          single_pin                    128.1000   -26.0800   128.1000   -26.0800      0.0    top       SMD
+J834          Conn_01x01          single_pin                    128.1000   -23.3800   128.1000   -23.3800      0.0    top       SMD
+J833          Conn_01x01          single_pin                    128.1000   -20.6800   128.1000   -20.6800      0.0    top       SMD
+J832          Conn_01x01          single_pin                    128.1000   -17.9800   128.1000   -17.9800      0.0    top       SMD
+J831          Conn_01x01          single_pin                    128.1000   -15.2800   128.1000   -15.2800      0.0    top       SMD
+J378          Conn_01x01 H        single_pin                    187.9600   -119.3800  187.9600   -119.3800     0.0    top       SMD
+J167          Conn_01x01 G        single_pin                    134.6200   -116.8400  134.6200   -116.8400     0.0    top       SMD
+J173          Conn_01x01 C        single_pin                    137.1600   -101.6000  137.1600   -101.6000     0.0    top       SMD
+J147          Conn_01x01 G        single_pin                    129.5400   -116.8400  129.5400   -116.8400     0.0    top       SMD
+J157          Conn_01x01 G        single_pin                    132.0800   -116.8400  132.0800   -116.8400     0.0    top       SMD
+J199          Conn_01x01 I        single_pin                    142.2400   -121.9200  142.2400   -121.9200     0.0    top       SMD
+J186          Conn_01x01 F        single_pin                    139.7000   -114.3000  139.7000   -114.3000     0.0    top       SMD
+J132          Conn_01x01 B        single_pin                    127.0000   -99.0600   127.0000   -99.0600      0.0    top       SMD
+J131          Conn_01x01 A        single_pin                    127.0000   -96.5200   127.0000   -96.5200      0.0    top       SMD
+J150          Conn_01x01 J        single_pin                    129.5400   -124.4600  129.5400   -124.4600     0.0    top       SMD
+J179          Conn_01x01 I        single_pin                    137.1600   -121.9200  137.1600   -121.9200     0.0    top       SMD
+J140          Conn_01x01 J        single_pin                    127.0000   -124.4600  127.0000   -124.4600     0.0    top       SMD
+J189          Conn_01x01 I        single_pin                    139.7000   -121.9200  139.7000   -121.9200     0.0    top       SMD
+J166          Conn_01x01 F        single_pin                    134.6200   -114.3000  134.6200   -114.3000     0.0    top       SMD
+J194          Conn_01x01 D        single_pin                    142.2400   -104.1400  142.2400   -104.1400     0.0    top       SMD
+J142          Conn_01x01 B        single_pin                    129.5400   -99.0600   129.5400   -99.0600      0.0    top       SMD
+J193          Conn_01x01 C        single_pin                    142.2400   -101.6000  142.2400   -101.6000     0.0    top       SMD
+J165          Conn_01x01 E        single_pin                    134.6200   -106.6800  134.6200   -106.6800     0.0    top       SMD
+J136          Conn_01x01 F        single_pin                    127.0000   -114.3000  127.0000   -114.3000     0.0    top       SMD
+J170          Conn_01x01 J        single_pin                    134.6200   -124.4600  134.6200   -124.4600     0.0    top       SMD
+J168          Conn_01x01 H        single_pin                    134.6200   -119.3800  134.6200   -119.3800     0.0    top       SMD
+J195          Conn_01x01 E        single_pin                    142.2400   -106.6800  142.2400   -106.6800     0.0    top       SMD
+J192          Conn_01x01 B        single_pin                    142.2400   -99.0600   142.2400   -99.0600      0.0    top       SMD
+J152          Conn_01x01 B        single_pin                    132.0800   -99.0600   132.0800   -99.0600      0.0    top       SMD
+J162          Conn_01x01 B        single_pin                    134.6200   -99.0600   134.6200   -99.0600      0.0    top       SMD
+J184          Conn_01x01 D        single_pin                    139.7000   -104.1400  139.7000   -104.1400     0.0    top       SMD
+J198          Conn_01x01 H        single_pin                    142.2400   -119.3800  142.2400   -119.3800     0.0    top       SMD
+J137          Conn_01x01 G        single_pin                    127.0000   -116.8400  127.0000   -116.8400     0.0    top       SMD
+J182          Conn_01x01 B        single_pin                    139.7000   -99.0600   139.7000   -99.0600      0.0    top       SMD
+J153          Conn_01x01 C        single_pin                    132.0800   -101.6000  132.0800   -101.6000     0.0    top       SMD
+J135          Conn_01x01 E        single_pin                    127.0000   -106.6800  127.0000   -106.6800     0.0    top       SMD
+J178          Conn_01x01 H        single_pin                    137.1600   -119.3800  137.1600   -119.3800     0.0    top       SMD
+J183          Conn_01x01 C        single_pin                    139.7000   -101.6000  139.7000   -101.6000     0.0    top       SMD
+J148          Conn_01x01 H        single_pin                    129.5400   -119.3800  129.5400   -119.3800     0.0    top       SMD
+J174          Conn_01x01 D        single_pin                    137.1600   -104.1400  137.1600   -104.1400     0.0    top       SMD
+J138          Conn_01x01 H        single_pin                    127.0000   -119.3800  127.0000   -119.3800     0.0    top       SMD
+J172          Conn_01x01 B        single_pin                    137.1600   -99.0600   137.1600   -99.0600      0.0    top       SMD
+J151          Conn_01x01 A        single_pin                    132.0800   -96.5200   132.0800   -96.5200      0.0    top       SMD
+J155          Conn_01x01 E        single_pin                    132.0800   -106.6800  132.0800   -106.6800     0.0    top       SMD
+J159          Conn_01x01 I        single_pin                    132.0800   -121.9200  132.0800   -121.9200     0.0    top       SMD
+J190          Conn_01x01 J        single_pin                    139.7000   -124.4600  139.7000   -124.4600     0.0    top       SMD
+J156          Conn_01x01 F        single_pin                    132.0800   -114.3000  132.0800   -114.3000     0.0    top       SMD
+J176          Conn_01x01 F        single_pin                    137.1600   -114.3000  137.1600   -114.3000     0.0    top       SMD
+J177          Conn_01x01 G        single_pin                    137.1600   -116.8400  137.1600   -116.8400     0.0    top       SMD
+J139          Conn_01x01 I        single_pin                    127.0000   -121.9200  127.0000   -121.9200     0.0    top       SMD
+J141          Conn_01x01 A        single_pin                    129.5400   -96.5200   129.5400   -96.5200      0.0    top       SMD
+J197          Conn_01x01 G        single_pin                    142.2400   -116.8400  142.2400   -116.8400     0.0    top       SMD
+J164          Conn_01x01 D        single_pin                    134.6200   -104.1400  134.6200   -104.1400     0.0    top       SMD
+J188          Conn_01x01 H        single_pin                    139.7000   -119.3800  139.7000   -119.3800     0.0    top       SMD
+J134          Conn_01x01 D        single_pin                    127.0000   -104.1400  127.0000   -104.1400     0.0    top       SMD
+J144          Conn_01x01 D        single_pin                    129.5400   -104.1400  129.5400   -104.1400     0.0    top       SMD
+J133          Conn_01x01 C        single_pin                    127.0000   -101.6000  127.0000   -101.6000     0.0    top       SMD
+J154          Conn_01x01 D        single_pin                    132.0800   -104.1400  132.0800   -104.1400     0.0    top       SMD
+J187          Conn_01x01 G        single_pin                    139.7000   -116.8400  139.7000   -116.8400     0.0    top       SMD
+J146          Conn_01x01 F        single_pin                    129.5400   -114.3000  129.5400   -114.3000     0.0    top       SMD
+J200          Conn_01x01 J        single_pin                    142.2400   -124.4600  142.2400   -124.4600     0.0    top       SMD
+J143          Conn_01x01 C        single_pin                    129.5400   -101.6000  129.5400   -101.6000     0.0    top       SMD
+J160          Conn_01x01 J        single_pin                    132.0800   -124.4600  132.0800   -124.4600     0.0    top       SMD
+J185          Conn_01x01 E        single_pin                    139.7000   -106.6800  139.7000   -106.6800     0.0    top       SMD
+J196          Conn_01x01 F        single_pin                    142.2400   -114.3000  142.2400   -114.3000     0.0    top       SMD
+J149          Conn_01x01 I        single_pin                    129.5400   -121.9200  129.5400   -121.9200     0.0    top       SMD
+J158          Conn_01x01 H        single_pin                    132.0800   -119.3800  132.0800   -119.3800     0.0    top       SMD
+J163          Conn_01x01 C        single_pin                    134.6200   -101.6000  134.6200   -101.6000     0.0    top       SMD
+J169          Conn_01x01 I        single_pin                    134.6200   -121.9200  134.6200   -121.9200     0.0    top       SMD
+J175          Conn_01x01 E        single_pin                    137.1600   -106.6800  137.1600   -106.6800     0.0    top       SMD
+J181          Conn_01x01 A        single_pin                    139.7000   -96.5200   139.7000   -96.5200      0.0    top       SMD
+J161          Conn_01x01 A        single_pin                    134.6200   -96.5200   134.6200   -96.5200      0.0    top       SMD
+J171          Conn_01x01 A        single_pin                    137.1600   -96.5200   137.1600   -96.5200      0.0    top       SMD
+J191          Conn_01x01 A        single_pin                    142.2400   -96.5200   142.2400   -96.5200      0.0    top       SMD
+J145          Conn_01x01 E        single_pin                    129.5400   -106.6800  129.5400   -106.6800     0.0    top       SMD
+J180          Conn_01x01 J        single_pin                    137.1600   -124.4600  137.1600   -124.4600     0.0    top       SMD
+J95           Conn_01x01 E        single_pin                    116.8400   -106.6800  116.8400   -106.6800     0.0    top       SMD
+J93           Conn_01x01 C        single_pin                    116.8400   -101.6000  116.8400   -101.6000     0.0    top       SMD
+J94           Conn_01x01 D        single_pin                    116.8400   -104.1400  116.8400   -104.1400     0.0    top       SMD
+J92           Conn_01x01 B        single_pin                    116.8400   -99.0600   116.8400   -99.0600      0.0    top       SMD
+J31           Conn_01x01 A        single_pin                    101.6000   -96.5200   101.6000   -96.5200      0.0    top       SMD
+J32           Conn_01x01 B        single_pin                    101.6000   -99.0600   101.6000   -99.0600      0.0    top       SMD
+J33           Conn_01x01 C        single_pin                    101.6000   -101.6000  101.6000   -101.6000     0.0    top       SMD
+J34           Conn_01x01 D        single_pin                    101.6000   -104.1400  101.6000   -104.1400     0.0    top       SMD
+J35           Conn_01x01 E        single_pin                    101.6000   -106.6800  101.6000   -106.6800     0.0    top       SMD
+J38           Conn_01x01 H        single_pin                    101.6000   -119.3800  101.6000   -119.3800     0.0    top       SMD
+J37           Conn_01x01 G        single_pin                    101.6000   -116.8400  101.6000   -116.8400     0.0    top       SMD
+J39           Conn_01x01 I        single_pin                    101.6000   -121.9200  101.6000   -121.9200     0.0    top       SMD
+J40           Conn_01x01 J        single_pin                    101.6000   -124.4600  101.6000   -124.4600     0.0    top       SMD
+J36           Conn_01x01 F        single_pin                    101.6000   -114.3000  101.6000   -114.3000     0.0    top       SMD
+J356          Conn_01x01 F        single_pin                    182.8800   -114.3000  182.8800   -114.3000     0.0    top       SMD
+J101          Conn_01x01 A        single_pin                    119.3800   -96.5200   119.3800   -96.5200      0.0    top       SMD
+J451          Conn_01x01 A        single_pin                    208.2800   -96.5200   208.2800   -96.5200      0.0    top       SMD
+J206          Conn_01x01 F        single_pin                    144.7800   -114.3000  144.7800   -114.3000     0.0    top       SMD
+J301          Conn_01x01 A        single_pin                    170.1800   -96.5200   170.1800   -96.5200      0.0    top       SMD
+J606          Conn_01x01 F        single_pin                    246.3800   -114.3000  246.3800   -114.3000     0.0    top       SMD
+J311          Conn_01x01 A        single_pin                    172.7200   -96.5200   172.7200   -96.5200      0.0    top       SMD
+J351          Conn_01x01 A        single_pin                    182.8800   -96.5200   182.8800   -96.5200      0.0    top       SMD
+J296          Conn_01x01 F        single_pin                    167.6400   -114.3000  167.6400   -114.3000     0.0    top       SMD
+J221          Conn_01x01 A        single_pin                    149.8600   -96.5200   149.8600   -96.5200      0.0    top       SMD
+J106          Conn_01x01 F        single_pin                    119.3800   -114.3000  119.3800   -114.3000     0.0    top       SMD
+J226          Conn_01x01 F        single_pin                    149.8600   -114.3000  149.8600   -114.3000     0.0    top       SMD
+J281          Conn_01x01 A        single_pin                    165.1000   -96.5200   165.1000   -96.5200      0.0    top       SMD
+J601          Conn_01x01 A        single_pin                    246.3800   -96.5200   246.3800   -96.5200      0.0    top       SMD
+J71           Conn_01x01 A        single_pin                    111.7600   -96.5200   111.7600   -96.5200      0.0    top       SMD
+J456          Conn_01x01 F        single_pin                    208.2800   -114.3000  208.2800   -114.3000     0.0    top       SMD
+J316          Conn_01x01 F        single_pin                    172.7200   -114.3000  172.7200   -114.3000     0.0    top       SMD
+J286          Conn_01x01 F        single_pin                    165.1000   -114.3000  165.1000   -114.3000     0.0    top       SMD
+J201          Conn_01x01 A        single_pin                    144.7800   -96.5200   144.7800   -96.5200      0.0    top       SMD
+J76           Conn_01x01 F        single_pin                    111.7600   -114.3000  111.7600   -114.3000     0.0    top       SMD
+J291          Conn_01x01 A        single_pin                    167.6400   -96.5200   167.6400   -96.5200      0.0    top       SMD
+J306          Conn_01x01 F        single_pin                    170.1800   -114.3000  170.1800   -114.3000     0.0    top       SMD
+J302          Conn_01x01 B        single_pin                    170.1800   -99.0600   170.1800   -99.0600      0.0    top       SMD
+J107          Conn_01x01 G        single_pin                    119.3800   -116.8400  119.3800   -116.8400     0.0    top       SMD
+J352          Conn_01x01 B        single_pin                    182.8800   -99.0600   182.8800   -99.0600      0.0    top       SMD
+J282          Conn_01x01 B        single_pin                    165.1000   -99.0600   165.1000   -99.0600      0.0    top       SMD
+J72           Conn_01x01 B        single_pin                    111.7600   -99.0600   111.7600   -99.0600      0.0    top       SMD
+J222          Conn_01x01 B        single_pin                    149.8600   -99.0600   149.8600   -99.0600      0.0    top       SMD
+J207          Conn_01x01 G        single_pin                    144.7800   -116.8400  144.7800   -116.8400     0.0    top       SMD
+J602          Conn_01x01 B        single_pin                    246.3800   -99.0600   246.3800   -99.0600      0.0    top       SMD
+J292          Conn_01x01 B        single_pin                    167.6400   -99.0600   167.6400   -99.0600      0.0    top       SMD
+J457          Conn_01x01 G        single_pin                    208.2800   -116.8400  208.2800   -116.8400     0.0    top       SMD
+J102          Conn_01x01 B        single_pin                    119.3800   -99.0600   119.3800   -99.0600      0.0    top       SMD
+J357          Conn_01x01 G        single_pin                    182.8800   -116.8400  182.8800   -116.8400     0.0    top       SMD
+J77           Conn_01x01 G        single_pin                    111.7600   -116.8400  111.7600   -116.8400     0.0    top       SMD
+J202          Conn_01x01 B        single_pin                    144.7800   -99.0600   144.7800   -99.0600      0.0    top       SMD
+J607          Conn_01x01 G        single_pin                    246.3800   -116.8400  246.3800   -116.8400     0.0    top       SMD
+J452          Conn_01x01 B        single_pin                    208.2800   -99.0600   208.2800   -99.0600      0.0    top       SMD
+J312          Conn_01x01 B        single_pin                    172.7200   -99.0600   172.7200   -99.0600      0.0    top       SMD
+J307          Conn_01x01 G        single_pin                    170.1800   -116.8400  170.1800   -116.8400     0.0    top       SMD
+J317          Conn_01x01 G        single_pin                    172.7200   -116.8400  172.7200   -116.8400     0.0    top       SMD
+J287          Conn_01x01 G        single_pin                    165.1000   -116.8400  165.1000   -116.8400     0.0    top       SMD
+J297          Conn_01x01 G        single_pin                    167.6400   -116.8400  167.6400   -116.8400     0.0    top       SMD
+J227          Conn_01x01 G        single_pin                    149.8600   -116.8400  149.8600   -116.8400     0.0    top       SMD
+J108          Conn_01x01 H        single_pin                    119.3800   -119.3800  119.3800   -119.3800     0.0    top       SMD
+J288          Conn_01x01 H        single_pin                    165.1000   -119.3800  165.1000   -119.3800     0.0    top       SMD
+J318          Conn_01x01 H        single_pin                    172.7200   -119.3800  172.7200   -119.3800     0.0    top       SMD
+J103          Conn_01x01 C        single_pin                    119.3800   -101.6000  119.3800   -101.6000     0.0    top       SMD
+J313          Conn_01x01 C        single_pin                    172.7200   -101.6000  172.7200   -101.6000     0.0    top       SMD
+J453          Conn_01x01 C        single_pin                    208.2800   -101.6000  208.2800   -101.6000     0.0    top       SMD
+J203          Conn_01x01 C        single_pin                    144.7800   -101.6000  144.7800   -101.6000     0.0    top       SMD
+J303          Conn_01x01 C        single_pin                    170.1800   -101.6000  170.1800   -101.6000     0.0    top       SMD
+J208          Conn_01x01 H        single_pin                    144.7800   -119.3800  144.7800   -119.3800     0.0    top       SMD
+J603          Conn_01x01 C        single_pin                    246.3800   -101.6000  246.3800   -101.6000     0.0    top       SMD
+J293          Conn_01x01 C        single_pin                    167.6400   -101.6000  167.6400   -101.6000     0.0    top       SMD
+J358          Conn_01x01 H        single_pin                    182.8800   -119.3800  182.8800   -119.3800     0.0    top       SMD
+J298          Conn_01x01 H        single_pin                    167.6400   -119.3800  167.6400   -119.3800     0.0    top       SMD
+J78           Conn_01x01 H        single_pin                    111.7600   -119.3800  111.7600   -119.3800     0.0    top       SMD
+J608          Conn_01x01 H        single_pin                    246.3800   -119.3800  246.3800   -119.3800     0.0    top       SMD
+J283          Conn_01x01 C        single_pin                    165.1000   -101.6000  165.1000   -101.6000     0.0    top       SMD
+J223          Conn_01x01 C        single_pin                    149.8600   -101.6000  149.8600   -101.6000     0.0    top       SMD
+J228          Conn_01x01 H        single_pin                    149.8600   -119.3800  149.8600   -119.3800     0.0    top       SMD
+J308          Conn_01x01 H        single_pin                    170.1800   -119.3800  170.1800   -119.3800     0.0    top       SMD
+J73           Conn_01x01 C        single_pin                    111.7600   -101.6000  111.7600   -101.6000     0.0    top       SMD
+J458          Conn_01x01 H        single_pin                    208.2800   -119.3800  208.2800   -119.3800     0.0    top       SMD
+J353          Conn_01x01 C        single_pin                    182.8800   -101.6000  182.8800   -101.6000     0.0    top       SMD
+J609          Conn_01x01 I        single_pin                    246.3800   -121.9200  246.3800   -121.9200     0.0    top       SMD
+J104          Conn_01x01 D        single_pin                    119.3800   -104.1400  119.3800   -104.1400     0.0    top       SMD
+J204          Conn_01x01 D        single_pin                    144.7800   -104.1400  144.7800   -104.1400     0.0    top       SMD
+J459          Conn_01x01 I        single_pin                    208.2800   -121.9200  208.2800   -121.9200     0.0    top       SMD
+J74           Conn_01x01 D        single_pin                    111.7600   -104.1400  111.7600   -104.1400     0.0    top       SMD
+J229          Conn_01x01 I        single_pin                    149.8600   -121.9200  149.8600   -121.9200     0.0    top       SMD
+J299          Conn_01x01 I        single_pin                    167.6400   -121.9200  167.6400   -121.9200     0.0    top       SMD
+J359          Conn_01x01 I        single_pin                    182.8800   -121.9200  182.8800   -121.9200     0.0    top       SMD
+J309          Conn_01x01 I        single_pin                    170.1800   -121.9200  170.1800   -121.9200     0.0    top       SMD
+J294          Conn_01x01 D        single_pin                    167.6400   -104.1400  167.6400   -104.1400     0.0    top       SMD
+J79           Conn_01x01 I        single_pin                    111.7600   -121.9200  111.7600   -121.9200     0.0    top       SMD
+J454          Conn_01x01 D        single_pin                    208.2800   -104.1400  208.2800   -104.1400     0.0    top       SMD
+J354          Conn_01x01 D        single_pin                    182.8800   -104.1400  182.8800   -104.1400     0.0    top       SMD
+J209          Conn_01x01 I        single_pin                    144.7800   -121.9200  144.7800   -121.9200     0.0    top       SMD
+J314          Conn_01x01 D        single_pin                    172.7200   -104.1400  172.7200   -104.1400     0.0    top       SMD
+J109          Conn_01x01 I        single_pin                    119.3800   -121.9200  119.3800   -121.9200     0.0    top       SMD
+J224          Conn_01x01 D        single_pin                    149.8600   -104.1400  149.8600   -104.1400     0.0    top       SMD
+J284          Conn_01x01 D        single_pin                    165.1000   -104.1400  165.1000   -104.1400     0.0    top       SMD
+J319          Conn_01x01 I        single_pin                    172.7200   -121.9200  172.7200   -121.9200     0.0    top       SMD
+J304          Conn_01x01 D        single_pin                    170.1800   -104.1400  170.1800   -104.1400     0.0    top       SMD
+J604          Conn_01x01 D        single_pin                    246.3800   -104.1400  246.3800   -104.1400     0.0    top       SMD
+J289          Conn_01x01 I        single_pin                    165.1000   -121.9200  165.1000   -121.9200     0.0    top       SMD
+J310          Conn_01x01 J        single_pin                    170.1800   -124.4600  170.1800   -124.4600     0.0    top       SMD
+J605          Conn_01x01 E        single_pin                    246.3800   -106.6800  246.3800   -106.6800     0.0    top       SMD
+J80           Conn_01x01 J        single_pin                    111.7600   -124.4600  111.7600   -124.4600     0.0    top       SMD
+J285          Conn_01x01 E        single_pin                    165.1000   -106.6800  165.1000   -106.6800     0.0    top       SMD
+J460          Conn_01x01 J        single_pin                    208.2800   -124.4600  208.2800   -124.4600     0.0    top       SMD
+J110          Conn_01x01 J        single_pin                    119.3800   -124.4600  119.3800   -124.4600     0.0    top       SMD
+J210          Conn_01x01 J        single_pin                    144.7800   -124.4600  144.7800   -124.4600     0.0    top       SMD
+J225          Conn_01x01 E        single_pin                    149.8600   -106.6800  149.8600   -106.6800     0.0    top       SMD
+J315          Conn_01x01 E        single_pin                    172.7200   -106.6800  172.7200   -106.6800     0.0    top       SMD
+J305          Conn_01x01 E        single_pin                    170.1800   -106.6800  170.1800   -106.6800     0.0    top       SMD
+J295          Conn_01x01 E        single_pin                    167.6400   -106.6800  167.6400   -106.6800     0.0    top       SMD
+J290          Conn_01x01 J        single_pin                    165.1000   -124.4600  165.1000   -124.4600     0.0    top       SMD
+J75           Conn_01x01 E        single_pin                    111.7600   -106.6800  111.7600   -106.6800     0.0    top       SMD
+J300          Conn_01x01 J        single_pin                    167.6400   -124.4600  167.6400   -124.4600     0.0    top       SMD
+J230          Conn_01x01 J        single_pin                    149.8600   -124.4600  149.8600   -124.4600     0.0    top       SMD
+J320          Conn_01x01 J        single_pin                    172.7200   -124.4600  172.7200   -124.4600     0.0    top       SMD
+J360          Conn_01x01 J        single_pin                    182.8800   -124.4600  182.8800   -124.4600     0.0    top       SMD
+J105          Conn_01x01 E        single_pin                    119.3800   -106.6800  119.3800   -106.6800     0.0    top       SMD
+J455          Conn_01x01 E        single_pin                    208.2800   -106.6800  208.2800   -106.6800     0.0    top       SMD
+J205          Conn_01x01 E        single_pin                    144.7800   -106.6800  144.7800   -106.6800     0.0    top       SMD
+J610          Conn_01x01 J        single_pin                    246.3800   -124.4600  246.3800   -124.4600     0.0    top       SMD
+J355          Conn_01x01 E        single_pin                    182.8800   -106.6800  182.8800   -106.6800     0.0    top       SMD
+J246          Conn_01x01 F        single_pin                    154.9400   -114.3000  154.9400   -114.3000     0.0    top       SMD
+J116          Conn_01x01 F        single_pin                    121.9200   -114.3000  121.9200   -114.3000     0.0    top       SMD
+J421          Conn_01x01 A        single_pin                    200.6600   -96.5200   200.6600   -96.5200      0.0    top       SMD
+J241          Conn_01x01 A        single_pin                    154.9400   -96.5200   154.9400   -96.5200      0.0    top       SMD
+J111          Conn_01x01 A        single_pin                    121.9200   -96.5200   121.9200   -96.5200      0.0    top       SMD
+J326          Conn_01x01 F        single_pin                    175.2600   -114.3000  175.2600   -114.3000     0.0    top       SMD
+J596          Conn_01x01 F        single_pin                    243.8400   -114.3000  243.8400   -114.3000     0.0    top       SMD
+J571          Conn_01x01 A        single_pin                    238.7600   -96.5200   238.7600   -96.5200      0.0    top       SMD
+J591          Conn_01x01 A        single_pin                    243.8400   -96.5200   243.8400   -96.5200      0.0    top       SMD
+J576          Conn_01x01 F        single_pin                    238.7600   -114.3000  238.7600   -114.3000     0.0    top       SMD
+J341          Conn_01x01 A        single_pin                    180.3400   -96.5200   180.3400   -96.5200      0.0    top       SMD
+J581          Conn_01x01 A        single_pin                    241.3000   -96.5200   241.3000   -96.5200      0.0    top       SMD
+J426          Conn_01x01 F        single_pin                    200.6600   -114.3000  200.6600   -114.3000     0.0    top       SMD
+J321          Conn_01x01 A        single_pin                    175.2600   -96.5200   175.2600   -96.5200      0.0    top       SMD
+J346          Conn_01x01 F        single_pin                    180.3400   -114.3000  180.3400   -114.3000     0.0    top       SMD
+J586          Conn_01x01 F        single_pin                    241.3000   -114.3000  241.3000   -114.3000     0.0    top       SMD
+J266          Conn_01x01 F        single_pin                    160.0200   -114.3000  160.0200   -114.3000     0.0    top       SMD
+J261          Conn_01x01 A        single_pin                    160.0200   -96.5200   160.0200   -96.5200      0.0    top       SMD
+J597          Conn_01x01 G        single_pin                    243.8400   -116.8400  243.8400   -116.8400     0.0    top       SMD
+J117          Conn_01x01 G        single_pin                    121.9200   -116.8400  121.9200   -116.8400     0.0    top       SMD
+J572          Conn_01x01 B        single_pin                    238.7600   -99.0600   238.7600   -99.0600      0.0    top       SMD
+J242          Conn_01x01 B        single_pin                    154.9400   -99.0600   154.9400   -99.0600      0.0    top       SMD
+J262          Conn_01x01 B        single_pin                    160.0200   -99.0600   160.0200   -99.0600      0.0    top       SMD
+J592          Conn_01x01 B        single_pin                    243.8400   -99.0600   243.8400   -99.0600      0.0    top       SMD
+J342          Conn_01x01 B        single_pin                    180.3400   -99.0600   180.3400   -99.0600      0.0    top       SMD
+J427          Conn_01x01 G        single_pin                    200.6600   -116.8400  200.6600   -116.8400     0.0    top       SMD
+J247          Conn_01x01 G        single_pin                    154.9400   -116.8400  154.9400   -116.8400     0.0    top       SMD
+J347          Conn_01x01 G        single_pin                    180.3400   -116.8400  180.3400   -116.8400     0.0    top       SMD
+J577          Conn_01x01 G        single_pin                    238.7600   -116.8400  238.7600   -116.8400     0.0    top       SMD
+J112          Conn_01x01 B        single_pin                    121.9200   -99.0600   121.9200   -99.0600      0.0    top       SMD
+J322          Conn_01x01 B        single_pin                    175.2600   -99.0600   175.2600   -99.0600      0.0    top       SMD
+J582          Conn_01x01 B        single_pin                    241.3000   -99.0600   241.3000   -99.0600      0.0    top       SMD
+J422          Conn_01x01 B        single_pin                    200.6600   -99.0600   200.6600   -99.0600      0.0    top       SMD
+J587          Conn_01x01 G        single_pin                    241.3000   -116.8400  241.3000   -116.8400     0.0    top       SMD
+J267          Conn_01x01 G        single_pin                    160.0200   -116.8400  160.0200   -116.8400     0.0    top       SMD
+J327          Conn_01x01 G        single_pin                    175.2600   -116.8400  175.2600   -116.8400     0.0    top       SMD
+J113          Conn_01x01 C        single_pin                    121.9200   -101.6000  121.9200   -101.6000     0.0    top       SMD
+J593          Conn_01x01 C        single_pin                    243.8400   -101.6000  243.8400   -101.6000     0.0    top       SMD
+J263          Conn_01x01 C        single_pin                    160.0200   -101.6000  160.0200   -101.6000     0.0    top       SMD
+J578          Conn_01x01 H        single_pin                    238.7600   -119.3800  238.7600   -119.3800     0.0    top       SMD
+J243          Conn_01x01 C        single_pin                    154.9400   -101.6000  154.9400   -101.6000     0.0    top       SMD
+J248          Conn_01x01 H        single_pin                    154.9400   -119.3800  154.9400   -119.3800     0.0    top       SMD
+J423          Conn_01x01 C        single_pin                    200.6600   -101.6000  200.6600   -101.6000     0.0    top       SMD
+J328          Conn_01x01 H        single_pin                    175.2600   -119.3800  175.2600   -119.3800     0.0    top       SMD
+J343          Conn_01x01 C        single_pin                    180.3400   -101.6000  180.3400   -101.6000     0.0    top       SMD
+J348          Conn_01x01 H        single_pin                    180.3400   -119.3800  180.3400   -119.3800     0.0    top       SMD
+J573          Conn_01x01 C        single_pin                    238.7600   -101.6000  238.7600   -101.6000     0.0    top       SMD
+J598          Conn_01x01 H        single_pin                    243.8400   -119.3800  243.8400   -119.3800     0.0    top       SMD
+J118          Conn_01x01 H        single_pin                    121.9200   -119.3800  121.9200   -119.3800     0.0    top       SMD
+J323          Conn_01x01 C        single_pin                    175.2600   -101.6000  175.2600   -101.6000     0.0    top       SMD
+J268          Conn_01x01 H        single_pin                    160.0200   -119.3800  160.0200   -119.3800     0.0    top       SMD
+J588          Conn_01x01 H        single_pin                    241.3000   -119.3800  241.3000   -119.3800     0.0    top       SMD
+J428          Conn_01x01 H        single_pin                    200.6600   -119.3800  200.6600   -119.3800     0.0    top       SMD
+J583          Conn_01x01 C        single_pin                    241.3000   -101.6000  241.3000   -101.6000     0.0    top       SMD
+J344          Conn_01x01 D        single_pin                    180.3400   -104.1400  180.3400   -104.1400     0.0    top       SMD
+J114          Conn_01x01 D        single_pin                    121.9200   -104.1400  121.9200   -104.1400     0.0    top       SMD
+J244          Conn_01x01 D        single_pin                    154.9400   -104.1400  154.9400   -104.1400     0.0    top       SMD
+J119          Conn_01x01 I        single_pin                    121.9200   -121.9200  121.9200   -121.9200     0.0    top       SMD
+J349          Conn_01x01 I        single_pin                    180.3400   -121.9200  180.3400   -121.9200     0.0    top       SMD
+J579          Conn_01x01 I        single_pin                    238.7600   -121.9200  238.7600   -121.9200     0.0    top       SMD
+J264          Conn_01x01 D        single_pin                    160.0200   -104.1400  160.0200   -104.1400     0.0    top       SMD
+J589          Conn_01x01 I        single_pin                    241.3000   -121.9200  241.3000   -121.9200     0.0    top       SMD
+J599          Conn_01x01 I        single_pin                    243.8400   -121.9200  243.8400   -121.9200     0.0    top       SMD
+J324          Conn_01x01 D        single_pin                    175.2600   -104.1400  175.2600   -104.1400     0.0    top       SMD
+J249          Conn_01x01 I        single_pin                    154.9400   -121.9200  154.9400   -121.9200     0.0    top       SMD
+J584          Conn_01x01 D        single_pin                    241.3000   -104.1400  241.3000   -104.1400     0.0    top       SMD
+J329          Conn_01x01 I        single_pin                    175.2600   -121.9200  175.2600   -121.9200     0.0    top       SMD
+J574          Conn_01x01 D        single_pin                    238.7600   -104.1400  238.7600   -104.1400     0.0    top       SMD
+J424          Conn_01x01 D        single_pin                    200.6600   -104.1400  200.6600   -104.1400     0.0    top       SMD
+J269          Conn_01x01 I        single_pin                    160.0200   -121.9200  160.0200   -121.9200     0.0    top       SMD
+J594          Conn_01x01 D        single_pin                    243.8400   -104.1400  243.8400   -104.1400     0.0    top       SMD
+J429          Conn_01x01 I        single_pin                    200.6600   -121.9200  200.6600   -121.9200     0.0    top       SMD
+J580          Conn_01x01 J        single_pin                    238.7600   -124.4600  238.7600   -124.4600     0.0    top       SMD
+J325          Conn_01x01 E        single_pin                    175.2600   -106.6800  175.2600   -106.6800     0.0    top       SMD
+J115          Conn_01x01 E        single_pin                    121.9200   -106.6800  121.9200   -106.6800     0.0    top       SMD
+J350          Conn_01x01 J        single_pin                    180.3400   -124.4600  180.3400   -124.4600     0.0    top       SMD
+J575          Conn_01x01 E        single_pin                    238.7600   -106.6800  238.7600   -106.6800     0.0    top       SMD
+J600          Conn_01x01 J        single_pin                    243.8400   -124.4600  243.8400   -124.4600     0.0    top       SMD
+J430          Conn_01x01 J        single_pin                    200.6600   -124.4600  200.6600   -124.4600     0.0    top       SMD
+J590          Conn_01x01 J        single_pin                    241.3000   -124.4600  241.3000   -124.4600     0.0    top       SMD
+J595          Conn_01x01 E        single_pin                    243.8400   -106.6800  243.8400   -106.6800     0.0    top       SMD
+J270          Conn_01x01 J        single_pin                    160.0200   -124.4600  160.0200   -124.4600     0.0    top       SMD
+J345          Conn_01x01 E        single_pin                    180.3400   -106.6800  180.3400   -106.6800     0.0    top       SMD
+J330          Conn_01x01 J        single_pin                    175.2600   -124.4600  175.2600   -124.4600     0.0    top       SMD
+J585          Conn_01x01 E        single_pin                    241.3000   -106.6800  241.3000   -106.6800     0.0    top       SMD
+J265          Conn_01x01 E        single_pin                    160.0200   -106.6800  160.0200   -106.6800     0.0    top       SMD
+J120          Conn_01x01 J        single_pin                    121.9200   -124.4600  121.9200   -124.4600     0.0    top       SMD
+J425          Conn_01x01 E        single_pin                    200.6600   -106.6800  200.6600   -106.6800     0.0    top       SMD
+J245          Conn_01x01 E        single_pin                    154.9400   -106.6800  154.9400   -106.6800     0.0    top       SMD
+J250          Conn_01x01 J        single_pin                    154.9400   -124.4600  154.9400   -124.4600     0.0    top       SMD
+J476          Conn_01x01 F        single_pin                    213.3600   -114.3000  213.3600   -114.3000     0.0    top       SMD
+J446          Conn_01x01 F        single_pin                    205.7400   -114.3000  205.7400   -114.3000     0.0    top       SMD
+J611          Conn_01x01 A        single_pin                    248.9200   -96.5200   248.9200   -96.5200      0.0    top       SMD
+J391          Conn_01x01 A        single_pin                    193.0400   -96.5200   193.0400   -96.5200      0.0    top       SMD
+J491          Conn_01x01 A        single_pin                    218.4400   -96.5200   218.4400   -96.5200      0.0    top       SMD
+J511          Conn_01x01 A        single_pin                    223.5200   -96.5200   223.5200   -96.5200      0.0    top       SMD
+J396          Conn_01x01 F        single_pin                    193.0400   -114.3000  193.0400   -114.3000     0.0    top       SMD
+J471          Conn_01x01 A        single_pin                    213.3600   -96.5200   213.3600   -96.5200      0.0    top       SMD
+J441          Conn_01x01 A        single_pin                    205.7400   -96.5200   205.7400   -96.5200      0.0    top       SMD
+J516          Conn_01x01 F        single_pin                    223.5200   -114.3000  223.5200   -114.3000     0.0    top       SMD
+J91           Conn_01x01 A        single_pin                    116.8400   -96.5200   116.8400   -96.5200      0.0    top       SMD
+J566          Conn_01x01 F        single_pin                    236.2200   -114.3000  236.2200   -114.3000     0.0    top       SMD
+J276          Conn_01x01 F        single_pin                    162.5600   -114.3000  162.5600   -114.3000     0.0    top       SMD
+J271          Conn_01x01 A        single_pin                    162.5600   -96.5200   162.5600   -96.5200      0.0    top       SMD
+J461          Conn_01x01 A        single_pin                    210.8200   -96.5200   210.8200   -96.5200      0.0    top       SMD
+J466          Conn_01x01 F        single_pin                    210.8200   -114.3000  210.8200   -114.3000     0.0    top       SMD
+J551          Conn_01x01 A        single_pin                    233.6800   -96.5200   233.6800   -96.5200      0.0    top       SMD
+J561          Conn_01x01 A        single_pin                    236.2200   -96.5200   236.2200   -96.5200      0.0    top       SMD
+J616          Conn_01x01 F        single_pin                    248.9200   -114.3000  248.9200   -114.3000     0.0    top       SMD
+J556          Conn_01x01 F        single_pin                    233.6800   -114.3000  233.6800   -114.3000     0.0    top       SMD
+J496          Conn_01x01 F        single_pin                    218.4400   -114.3000  218.4400   -114.3000     0.0    top       SMD
+J96           Conn_01x01 F        single_pin                    116.8400   -114.3000  116.8400   -114.3000     0.0    top       SMD
+J512          Conn_01x01 B        single_pin                    223.5200   -99.0600   223.5200   -99.0600      0.0    top       SMD
+J477          Conn_01x01 G        single_pin                    213.3600   -116.8400  213.3600   -116.8400     0.0    top       SMD
+J447          Conn_01x01 G        single_pin                    205.7400   -116.8400  205.7400   -116.8400     0.0    top       SMD
+J277          Conn_01x01 G        single_pin                    162.5600   -116.8400  162.5600   -116.8400     0.0    top       SMD
+J492          Conn_01x01 B        single_pin                    218.4400   -99.0600   218.4400   -99.0600      0.0    top       SMD
+J472          Conn_01x01 B        single_pin                    213.3600   -99.0600   213.3600   -99.0600      0.0    top       SMD
+J612          Conn_01x01 B        single_pin                    248.9200   -99.0600   248.9200   -99.0600      0.0    top       SMD
+J397          Conn_01x01 G        single_pin                    193.0400   -116.8400  193.0400   -116.8400     0.0    top       SMD
+J517          Conn_01x01 G        single_pin                    223.5200   -116.8400  223.5200   -116.8400     0.0    top       SMD
+J562          Conn_01x01 B        single_pin                    236.2200   -99.0600   236.2200   -99.0600      0.0    top       SMD
+J557          Conn_01x01 G        single_pin                    233.6800   -116.8400  233.6800   -116.8400     0.0    top       SMD
+J97           Conn_01x01 G        single_pin                    116.8400   -116.8400  116.8400   -116.8400     0.0    top       SMD
+J617          Conn_01x01 G        single_pin                    248.9200   -116.8400  248.9200   -116.8400     0.0    top       SMD
+J497          Conn_01x01 G        single_pin                    218.4400   -116.8400  218.4400   -116.8400     0.0    top       SMD
+J567          Conn_01x01 G        single_pin                    236.2200   -116.8400  236.2200   -116.8400     0.0    top       SMD
+J442          Conn_01x01 B        single_pin                    205.7400   -99.0600   205.7400   -99.0600      0.0    top       SMD
+J552          Conn_01x01 B        single_pin                    233.6800   -99.0600   233.6800   -99.0600      0.0    top       SMD
+J462          Conn_01x01 B        single_pin                    210.8200   -99.0600   210.8200   -99.0600      0.0    top       SMD
+J467          Conn_01x01 G        single_pin                    210.8200   -116.8400  210.8200   -116.8400     0.0    top       SMD
+J272          Conn_01x01 B        single_pin                    162.5600   -99.0600   162.5600   -99.0600      0.0    top       SMD
+J392          Conn_01x01 B        single_pin                    193.0400   -99.0600   193.0400   -99.0600      0.0    top       SMD
+J478          Conn_01x01 H        single_pin                    213.3600   -119.3800  213.3600   -119.3800     0.0    top       SMD
+J513          Conn_01x01 C        single_pin                    223.5200   -101.6000  223.5200   -101.6000     0.0    top       SMD
+J553          Conn_01x01 C        single_pin                    233.6800   -101.6000  233.6800   -101.6000     0.0    top       SMD
+J493          Conn_01x01 C        single_pin                    218.4400   -101.6000  218.4400   -101.6000     0.0    top       SMD
+J563          Conn_01x01 C        single_pin                    236.2200   -101.6000  236.2200   -101.6000     0.0    top       SMD
+J393          Conn_01x01 C        single_pin                    193.0400   -101.6000  193.0400   -101.6000     0.0    top       SMD
+J278          Conn_01x01 H        single_pin                    162.5600   -119.3800  162.5600   -119.3800     0.0    top       SMD
+J473          Conn_01x01 C        single_pin                    213.3600   -101.6000  213.3600   -101.6000     0.0    top       SMD
+J448          Conn_01x01 H        single_pin                    205.7400   -119.3800  205.7400   -119.3800     0.0    top       SMD
+J518          Conn_01x01 H        single_pin                    223.5200   -119.3800  223.5200   -119.3800     0.0    top       SMD
+J568          Conn_01x01 H        single_pin                    236.2200   -119.3800  236.2200   -119.3800     0.0    top       SMD
+J398          Conn_01x01 H        single_pin                    193.0400   -119.3800  193.0400   -119.3800     0.0    top       SMD
+J558          Conn_01x01 H        single_pin                    233.6800   -119.3800  233.6800   -119.3800     0.0    top       SMD
+J613          Conn_01x01 C        single_pin                    248.9200   -101.6000  248.9200   -101.6000     0.0    top       SMD
+J618          Conn_01x01 H        single_pin                    248.9200   -119.3800  248.9200   -119.3800     0.0    top       SMD
+J273          Conn_01x01 C        single_pin                    162.5600   -101.6000  162.5600   -101.6000     0.0    top       SMD
+J498          Conn_01x01 H        single_pin                    218.4400   -119.3800  218.4400   -119.3800     0.0    top       SMD
+J468          Conn_01x01 H        single_pin                    210.8200   -119.3800  210.8200   -119.3800     0.0    top       SMD
+J463          Conn_01x01 C        single_pin                    210.8200   -101.6000  210.8200   -101.6000     0.0    top       SMD
+J98           Conn_01x01 H        single_pin                    116.8400   -119.3800  116.8400   -119.3800     0.0    top       SMD
+J443          Conn_01x01 C        single_pin                    205.7400   -101.6000  205.7400   -101.6000     0.0    top       SMD
+J554          Conn_01x01 D        single_pin                    233.6800   -104.1400  233.6800   -104.1400     0.0    top       SMD
+J514          Conn_01x01 D        single_pin                    223.5200   -104.1400  223.5200   -104.1400     0.0    top       SMD
+J274          Conn_01x01 D        single_pin                    162.5600   -104.1400  162.5600   -104.1400     0.0    top       SMD
+J474          Conn_01x01 D        single_pin                    213.3600   -104.1400  213.3600   -104.1400     0.0    top       SMD
+J469          Conn_01x01 I        single_pin                    210.8200   -121.9200  210.8200   -121.9200     0.0    top       SMD
+J559          Conn_01x01 I        single_pin                    233.6800   -121.9200  233.6800   -121.9200     0.0    top       SMD
+J479          Conn_01x01 I        single_pin                    213.3600   -121.9200  213.3600   -121.9200     0.0    top       SMD
+J569          Conn_01x01 I        single_pin                    236.2200   -121.9200  236.2200   -121.9200     0.0    top       SMD
+J279          Conn_01x01 I        single_pin                    162.5600   -121.9200  162.5600   -121.9200     0.0    top       SMD
+J494          Conn_01x01 D        single_pin                    218.4400   -104.1400  218.4400   -104.1400     0.0    top       SMD
+J99           Conn_01x01 I        single_pin                    116.8400   -121.9200  116.8400   -121.9200     0.0    top       SMD
+J499          Conn_01x01 I        single_pin                    218.4400   -121.9200  218.4400   -121.9200     0.0    top       SMD
+J399          Conn_01x01 I        single_pin                    193.0400   -121.9200  193.0400   -121.9200     0.0    top       SMD
+J394          Conn_01x01 D        single_pin                    193.0400   -104.1400  193.0400   -104.1400     0.0    top       SMD
+J449          Conn_01x01 I        single_pin                    205.7400   -121.9200  205.7400   -121.9200     0.0    top       SMD
+J464          Conn_01x01 D        single_pin                    210.8200   -104.1400  210.8200   -104.1400     0.0    top       SMD
+J614          Conn_01x01 D        single_pin                    248.9200   -104.1400  248.9200   -104.1400     0.0    top       SMD
+J564          Conn_01x01 D        single_pin                    236.2200   -104.1400  236.2200   -104.1400     0.0    top       SMD
+J444          Conn_01x01 D        single_pin                    205.7400   -104.1400  205.7400   -104.1400     0.0    top       SMD
+J519          Conn_01x01 I        single_pin                    223.5200   -121.9200  223.5200   -121.9200     0.0    top       SMD
+J619          Conn_01x01 I        single_pin                    248.9200   -121.9200  248.9200   -121.9200     0.0    top       SMD
+J475          Conn_01x01 E        single_pin                    213.3600   -106.6800  213.3600   -106.6800     0.0    top       SMD
+J560          Conn_01x01 J        single_pin                    233.6800   -124.4600  233.6800   -124.4600     0.0    top       SMD
+J445          Conn_01x01 E        single_pin                    205.7400   -106.6800  205.7400   -106.6800     0.0    top       SMD
+J615          Conn_01x01 E        single_pin                    248.9200   -106.6800  248.9200   -106.6800     0.0    top       SMD
+J555          Conn_01x01 E        single_pin                    233.6800   -106.6800  233.6800   -106.6800     0.0    top       SMD
+J620          Conn_01x01 J        single_pin                    248.9200   -124.4600  248.9200   -124.4600     0.0    top       SMD
+J395          Conn_01x01 E        single_pin                    193.0400   -106.6800  193.0400   -106.6800     0.0    top       SMD
+J100          Conn_01x01 J        single_pin                    116.8400   -124.4600  116.8400   -124.4600     0.0    top       SMD
+J275          Conn_01x01 E        single_pin                    162.5600   -106.6800  162.5600   -106.6800     0.0    top       SMD
+J500          Conn_01x01 J        single_pin                    218.4400   -124.4600  218.4400   -124.4600     0.0    top       SMD
+J280          Conn_01x01 J        single_pin                    162.5600   -124.4600  162.5600   -124.4600     0.0    top       SMD
+J470          Conn_01x01 J        single_pin                    210.8200   -124.4600  210.8200   -124.4600     0.0    top       SMD
+J515          Conn_01x01 E        single_pin                    223.5200   -106.6800  223.5200   -106.6800     0.0    top       SMD
+J465          Conn_01x01 E        single_pin                    210.8200   -106.6800  210.8200   -106.6800     0.0    top       SMD
+J400          Conn_01x01 J        single_pin                    193.0400   -124.4600  193.0400   -124.4600     0.0    top       SMD
+J570          Conn_01x01 J        single_pin                    236.2200   -124.4600  236.2200   -124.4600     0.0    top       SMD
+J480          Conn_01x01 J        single_pin                    213.3600   -124.4600  213.3600   -124.4600     0.0    top       SMD
+J495          Conn_01x01 E        single_pin                    218.4400   -106.6800  218.4400   -106.6800     0.0    top       SMD
+J450          Conn_01x01 J        single_pin                    205.7400   -124.4600  205.7400   -124.4600     0.0    top       SMD
+J520          Conn_01x01 J        single_pin                    223.5200   -124.4600  223.5200   -124.4600     0.0    top       SMD
+J565          Conn_01x01 E        single_pin                    236.2200   -106.6800  236.2200   -106.6800     0.0    top       SMD
+J46           Conn_01x01 F        single_pin                    104.1400   -114.3000  104.1400   -114.3000     0.0    top       SMD
+J331          Conn_01x01 A        single_pin                    177.8000   -96.5200   177.8000   -96.5200      0.0    top       SMD
+J66           Conn_01x01 F        single_pin                    109.2200   -114.3000  109.2200   -114.3000     0.0    top       SMD
+J406          Conn_01x01 F        single_pin                    195.5800   -114.3000  195.5800   -114.3000     0.0    top       SMD
+J381          Conn_01x01 A        single_pin                    190.5000   -96.5200   190.5000   -96.5200      0.0    top       SMD
+J531          Conn_01x01 A        single_pin                    228.6000   -96.5200   228.6000   -96.5200      0.0    top       SMD
+J536          Conn_01x01 F        single_pin                    228.6000   -114.3000  228.6000   -114.3000     0.0    top       SMD
+J336          Conn_01x01 F        single_pin                    177.8000   -114.3000  177.8000   -114.3000     0.0    top       SMD
+J126          Conn_01x01 F        single_pin                    124.4600   -114.3000  124.4600   -114.3000     0.0    top       SMD
+J386          Conn_01x01 F        single_pin                    190.5000   -114.3000  190.5000   -114.3000     0.0    top       SMD
+J121          Conn_01x01 A        single_pin                    124.4600   -96.5200   124.4600   -96.5200      0.0    top       SMD
+J401          Conn_01x01 A        single_pin                    195.5800   -96.5200   195.5800   -96.5200      0.0    top       SMD
+J61           Conn_01x01 A        single_pin                    109.2200   -96.5200   109.2200   -96.5200      0.0    top       SMD
+J41           Conn_01x01 A        single_pin                    104.1400   -96.5200   104.1400   -96.5200      0.0    top       SMD
+J402          Conn_01x01 B        single_pin                    195.5800   -99.0600   195.5800   -99.0600      0.0    top       SMD
+J42           Conn_01x01 B        single_pin                    104.1400   -99.0600   104.1400   -99.0600      0.0    top       SMD
+J62           Conn_01x01 B        single_pin                    109.2200   -99.0600   109.2200   -99.0600      0.0    top       SMD
+J382          Conn_01x01 B        single_pin                    190.5000   -99.0600   190.5000   -99.0600      0.0    top       SMD
+J67           Conn_01x01 G        single_pin                    109.2200   -116.8400  109.2200   -116.8400     0.0    top       SMD
+J122          Conn_01x01 B        single_pin                    124.4600   -99.0600   124.4600   -99.0600      0.0    top       SMD
+J407          Conn_01x01 G        single_pin                    195.5800   -116.8400  195.5800   -116.8400     0.0    top       SMD
+J337          Conn_01x01 G        single_pin                    177.8000   -116.8400  177.8000   -116.8400     0.0    top       SMD
+J127          Conn_01x01 G        single_pin                    124.4600   -116.8400  124.4600   -116.8400     0.0    top       SMD
+J332          Conn_01x01 B        single_pin                    177.8000   -99.0600   177.8000   -99.0600      0.0    top       SMD
+J387          Conn_01x01 G        single_pin                    190.5000   -116.8400  190.5000   -116.8400     0.0    top       SMD
+J532          Conn_01x01 B        single_pin                    228.6000   -99.0600   228.6000   -99.0600      0.0    top       SMD
+J47           Conn_01x01 G        single_pin                    104.1400   -116.8400  104.1400   -116.8400     0.0    top       SMD
+J537          Conn_01x01 G        single_pin                    228.6000   -116.8400  228.6000   -116.8400     0.0    top       SMD
+J338          Conn_01x01 H        single_pin                    177.8000   -119.3800  177.8000   -119.3800     0.0    top       SMD
+J123          Conn_01x01 C        single_pin                    124.4600   -101.6000  124.4600   -101.6000     0.0    top       SMD
+J538          Conn_01x01 H        single_pin                    228.6000   -119.3800  228.6000   -119.3800     0.0    top       SMD
+J68           Conn_01x01 H        single_pin                    109.2200   -119.3800  109.2200   -119.3800     0.0    top       SMD
+J388          Conn_01x01 H        single_pin                    190.5000   -119.3800  190.5000   -119.3800     0.0    top       SMD
+J43           Conn_01x01 C        single_pin                    104.1400   -101.6000  104.1400   -101.6000     0.0    top       SMD
+J383          Conn_01x01 C        single_pin                    190.5000   -101.6000  190.5000   -101.6000     0.0    top       SMD
+J408          Conn_01x01 H        single_pin                    195.5800   -119.3800  195.5800   -119.3800     0.0    top       SMD
+J48           Conn_01x01 H        single_pin                    104.1400   -119.3800  104.1400   -119.3800     0.0    top       SMD
+J403          Conn_01x01 C        single_pin                    195.5800   -101.6000  195.5800   -101.6000     0.0    top       SMD
+J533          Conn_01x01 C        single_pin                    228.6000   -101.6000  228.6000   -101.6000     0.0    top       SMD
+J63           Conn_01x01 C        single_pin                    109.2200   -101.6000  109.2200   -101.6000     0.0    top       SMD
+J333          Conn_01x01 C        single_pin                    177.8000   -101.6000  177.8000   -101.6000     0.0    top       SMD
+J128          Conn_01x01 H        single_pin                    124.4600   -119.3800  124.4600   -119.3800     0.0    top       SMD
+J539          Conn_01x01 I        single_pin                    228.6000   -121.9200  228.6000   -121.9200     0.0    top       SMD
+J404          Conn_01x01 D        single_pin                    195.5800   -104.1400  195.5800   -104.1400     0.0    top       SMD
+J334          Conn_01x01 D        single_pin                    177.8000   -104.1400  177.8000   -104.1400     0.0    top       SMD
+J44           Conn_01x01 D        single_pin                    104.1400   -104.1400  104.1400   -104.1400     0.0    top       SMD
+J69           Conn_01x01 I        single_pin                    109.2200   -121.9200  109.2200   -121.9200     0.0    top       SMD
+J534          Conn_01x01 D        single_pin                    228.6000   -104.1400  228.6000   -104.1400     0.0    top       SMD
+J389          Conn_01x01 I        single_pin                    190.5000   -121.9200  190.5000   -121.9200     0.0    top       SMD
+J64           Conn_01x01 D        single_pin                    109.2200   -104.1400  109.2200   -104.1400     0.0    top       SMD
+J124          Conn_01x01 D        single_pin                    124.4600   -104.1400  124.4600   -104.1400     0.0    top       SMD
+J129          Conn_01x01 I        single_pin                    124.4600   -121.9200  124.4600   -121.9200     0.0    top       SMD
+J409          Conn_01x01 I        single_pin                    195.5800   -121.9200  195.5800   -121.9200     0.0    top       SMD
+J384          Conn_01x01 D        single_pin                    190.5000   -104.1400  190.5000   -104.1400     0.0    top       SMD
+J49           Conn_01x01 I        single_pin                    104.1400   -121.9200  104.1400   -121.9200     0.0    top       SMD
+J339          Conn_01x01 I        single_pin                    177.8000   -121.9200  177.8000   -121.9200     0.0    top       SMD
+J385          Conn_01x01 E        single_pin                    190.5000   -106.6800  190.5000   -106.6800     0.0    top       SMD
+J50           Conn_01x01 J        single_pin                    104.1400   -124.4600  104.1400   -124.4600     0.0    top       SMD
+J340          Conn_01x01 J        single_pin                    177.8000   -124.4600  177.8000   -124.4600     0.0    top       SMD
+J410          Conn_01x01 J        single_pin                    195.5800   -124.4600  195.5800   -124.4600     0.0    top       SMD
+J130          Conn_01x01 J        single_pin                    124.4600   -124.4600  124.4600   -124.4600     0.0    top       SMD
+J535          Conn_01x01 E        single_pin                    228.6000   -106.6800  228.6000   -106.6800     0.0    top       SMD
+J45           Conn_01x01 E        single_pin                    104.1400   -106.6800  104.1400   -106.6800     0.0    top       SMD
+J540          Conn_01x01 J        single_pin                    228.6000   -124.4600  228.6000   -124.4600     0.0    top       SMD
+J335          Conn_01x01 E        single_pin                    177.8000   -106.6800  177.8000   -106.6800     0.0    top       SMD
+J405          Conn_01x01 E        single_pin                    195.5800   -106.6800  195.5800   -106.6800     0.0    top       SMD
+J70           Conn_01x01 J        single_pin                    109.2200   -124.4600  109.2200   -124.4600     0.0    top       SMD
+J125          Conn_01x01 E        single_pin                    124.4600   -106.6800  124.4600   -106.6800     0.0    top       SMD
+J65           Conn_01x01 E        single_pin                    109.2200   -106.6800  109.2200   -106.6800     0.0    top       SMD
+J390          Conn_01x01 J        single_pin                    190.5000   -124.4600  190.5000   -124.4600     0.0    top       SMD
+J431          Conn_01x01 A        single_pin                    203.2000   -96.5200   203.2000   -96.5200      0.0    top       SMD
+J216          Conn_01x01 F        single_pin                    147.3200   -114.3000  147.3200   -114.3000     0.0    top       SMD
+J51           Conn_01x01 A        single_pin                    106.6800   -96.5200   106.6800   -96.5200      0.0    top       SMD
+J361          Conn_01x01 A        single_pin                    185.4200   -96.5200   185.4200   -96.5200      0.0    top       SMD
+J526          Conn_01x01 F        single_pin                    226.0600   -114.3000  226.0600   -114.3000     0.0    top       SMD
+J366          Conn_01x01 F        single_pin                    185.4200   -114.3000  185.4200   -114.3000     0.0    top       SMD
+J211          Conn_01x01 A        single_pin                    147.3200   -96.5200   147.3200   -96.5200      0.0    top       SMD
+J541          Conn_01x01 A        single_pin                    231.1400   -96.5200   231.1400   -96.5200      0.0    top       SMD
+J626          Conn_01x01 F        single_pin                    251.4600   -114.3000  251.4600   -114.3000     0.0    top       SMD
+J546          Conn_01x01 F        single_pin                    231.1400   -114.3000  231.1400   -114.3000     0.0    top       SMD
+J436          Conn_01x01 F        single_pin                    203.2000   -114.3000  203.2000   -114.3000     0.0    top       SMD
+J371          Conn_01x01 A        single_pin                    187.9600   -96.5200   187.9600   -96.5200      0.0    top       SMD
+J376          Conn_01x01 F        single_pin                    187.9600   -114.3000  187.9600   -114.3000     0.0    top       SMD
+J231          Conn_01x01 A        single_pin                    152.4000   -96.5200   152.4000   -96.5200      0.0    top       SMD
+J621          Conn_01x01 A        single_pin                    251.4600   -96.5200   251.4600   -96.5200      0.0    top       SMD
+J411          Conn_01x01 A        single_pin                    198.1200   -96.5200   198.1200   -96.5200      0.0    top       SMD
+J236          Conn_01x01 F        single_pin                    152.4000   -114.3000  152.4000   -114.3000     0.0    top       SMD
+J416          Conn_01x01 F        single_pin                    198.1200   -114.3000  198.1200   -114.3000     0.0    top       SMD
+J521          Conn_01x01 A        single_pin                    226.0600   -96.5200   226.0600   -96.5200      0.0    top       SMD
+J56           Conn_01x01 F        single_pin                    106.6800   -114.3000  106.6800   -114.3000     0.0    top       SMD
+J627          Conn_01x01 G        single_pin                    251.4600   -116.8400  251.4600   -116.8400     0.0    top       SMD
+J417          Conn_01x01 G        single_pin                    198.1200   -116.8400  198.1200   -116.8400     0.0    top       SMD
+J52           Conn_01x01 B        single_pin                    106.6800   -99.0600   106.6800   -99.0600      0.0    top       SMD
+J527          Conn_01x01 G        single_pin                    226.0600   -116.8400  226.0600   -116.8400     0.0    top       SMD
+J217          Conn_01x01 G        single_pin                    147.3200   -116.8400  147.3200   -116.8400     0.0    top       SMD
+J57           Conn_01x01 G        single_pin                    106.6800   -116.8400  106.6800   -116.8400     0.0    top       SMD
+J542          Conn_01x01 B        single_pin                    231.1400   -99.0600   231.1400   -99.0600      0.0    top       SMD
+J377          Conn_01x01 G        single_pin                    187.9600   -116.8400  187.9600   -116.8400     0.0    top       SMD
+J437          Conn_01x01 G        single_pin                    203.2000   -116.8400  203.2000   -116.8400     0.0    top       SMD
+J547          Conn_01x01 G        single_pin                    231.1400   -116.8400  231.1400   -116.8400     0.0    top       SMD
+J522          Conn_01x01 B        single_pin                    226.0600   -99.0600   226.0600   -99.0600      0.0    top       SMD
+J367          Conn_01x01 G        single_pin                    185.4200   -116.8400  185.4200   -116.8400     0.0    top       SMD
+J372          Conn_01x01 B        single_pin                    187.9600   -99.0600   187.9600   -99.0600      0.0    top       SMD
+J432          Conn_01x01 B        single_pin                    203.2000   -99.0600   203.2000   -99.0600      0.0    top       SMD
+J412          Conn_01x01 B        single_pin                    198.1200   -99.0600   198.1200   -99.0600      0.0    top       SMD
+J362          Conn_01x01 B        single_pin                    185.4200   -99.0600   185.4200   -99.0600      0.0    top       SMD
+J237          Conn_01x01 G        single_pin                    152.4000   -116.8400  152.4000   -116.8400     0.0    top       SMD
+J622          Conn_01x01 B        single_pin                    251.4600   -99.0600   251.4600   -99.0600      0.0    top       SMD
+J232          Conn_01x01 B        single_pin                    152.4000   -99.0600   152.4000   -99.0600      0.0    top       SMD
+J212          Conn_01x01 B        single_pin                    147.3200   -99.0600   147.3200   -99.0600      0.0    top       SMD
+J543          Conn_01x01 C        single_pin                    231.1400   -101.6000  231.1400   -101.6000     0.0    top       SMD
+J433          Conn_01x01 C        single_pin                    203.2000   -101.6000  203.2000   -101.6000     0.0    top       SMD
+J218          Conn_01x01 H        single_pin                    147.3200   -119.3800  147.3200   -119.3800     0.0    top       SMD
+J58           Conn_01x01 H        single_pin                    106.6800   -119.3800  106.6800   -119.3800     0.0    top       SMD
+J238          Conn_01x01 H        single_pin                    152.4000   -119.3800  152.4000   -119.3800     0.0    top       SMD
+J523          Conn_01x01 C        single_pin                    226.0600   -101.6000  226.0600   -101.6000     0.0    top       SMD
+J623          Conn_01x01 C        single_pin                    251.4600   -101.6000  251.4600   -101.6000     0.0    top       SMD
+J53           Conn_01x01 C        single_pin                    106.6800   -101.6000  106.6800   -101.6000     0.0    top       SMD
+J628          Conn_01x01 H        single_pin                    251.4600   -119.3800  251.4600   -119.3800     0.0    top       SMD
+J528          Conn_01x01 H        single_pin                    226.0600   -119.3800  226.0600   -119.3800     0.0    top       SMD
+J548          Conn_01x01 H        single_pin                    231.1400   -119.3800  231.1400   -119.3800     0.0    top       SMD
+J373          Conn_01x01 C        single_pin                    187.9600   -101.6000  187.9600   -101.6000     0.0    top       SMD
+J363          Conn_01x01 C        single_pin                    185.4200   -101.6000  185.4200   -101.6000     0.0    top       SMD
+J233          Conn_01x01 C        single_pin                    152.4000   -101.6000  152.4000   -101.6000     0.0    top       SMD
+J368          Conn_01x01 H        single_pin                    185.4200   -119.3800  185.4200   -119.3800     0.0    top       SMD
+J418          Conn_01x01 H        single_pin                    198.1200   -119.3800  198.1200   -119.3800     0.0    top       SMD
+J213          Conn_01x01 C        single_pin                    147.3200   -101.6000  147.3200   -101.6000     0.0    top       SMD
+J413          Conn_01x01 C        single_pin                    198.1200   -101.6000  198.1200   -101.6000     0.0    top       SMD
+J438          Conn_01x01 H        single_pin                    203.2000   -119.3800  203.2000   -119.3800     0.0    top       SMD
+J544          Conn_01x01 D        single_pin                    231.1400   -104.1400  231.1400   -104.1400     0.0    top       SMD
+J219          Conn_01x01 I        single_pin                    147.3200   -121.9200  147.3200   -121.9200     0.0    top       SMD
+J54           Conn_01x01 D        single_pin                    106.6800   -104.1400  106.6800   -104.1400     0.0    top       SMD
+J239          Conn_01x01 I        single_pin                    152.4000   -121.9200  152.4000   -121.9200     0.0    top       SMD
+J629          Conn_01x01 I        single_pin                    251.4600   -121.9200  251.4600   -121.9200     0.0    top       SMD
+J434          Conn_01x01 D        single_pin                    203.2000   -104.1400  203.2000   -104.1400     0.0    top       SMD
+J549          Conn_01x01 I        single_pin                    231.1400   -121.9200  231.1400   -121.9200     0.0    top       SMD
+J374          Conn_01x01 D        single_pin                    187.9600   -104.1400  187.9600   -104.1400     0.0    top       SMD
+J624          Conn_01x01 D        single_pin                    251.4600   -104.1400  251.4600   -104.1400     0.0    top       SMD
+J369          Conn_01x01 I        single_pin                    185.4200   -121.9200  185.4200   -121.9200     0.0    top       SMD
+J364          Conn_01x01 D        single_pin                    185.4200   -104.1400  185.4200   -104.1400     0.0    top       SMD
+J419          Conn_01x01 I        single_pin                    198.1200   -121.9200  198.1200   -121.9200     0.0    top       SMD
+J529          Conn_01x01 I        single_pin                    226.0600   -121.9200  226.0600   -121.9200     0.0    top       SMD
+J59           Conn_01x01 I        single_pin                    106.6800   -121.9200  106.6800   -121.9200     0.0    top       SMD
+J379          Conn_01x01 I        single_pin                    187.9600   -121.9200  187.9600   -121.9200     0.0    top       SMD
+J214          Conn_01x01 D        single_pin                    147.3200   -104.1400  147.3200   -104.1400     0.0    top       SMD
+J524          Conn_01x01 D        single_pin                    226.0600   -104.1400  226.0600   -104.1400     0.0    top       SMD
+J234          Conn_01x01 D        single_pin                    152.4000   -104.1400  152.4000   -104.1400     0.0    top       SMD
+J414          Conn_01x01 D        single_pin                    198.1200   -104.1400  198.1200   -104.1400     0.0    top       SMD
+J439          Conn_01x01 I        single_pin                    203.2000   -121.9200  203.2000   -121.9200     0.0    top       SMD
+J375          Conn_01x01 E        single_pin                    187.9600   -106.6800  187.9600   -106.6800     0.0    top       SMD
+J630          Conn_01x01 J        single_pin                    251.4600   -124.4600  251.4600   -124.4600     0.0    top       SMD
+J215          Conn_01x01 E        single_pin                    147.3200   -106.6800  147.3200   -106.6800     0.0    top       SMD
+J415          Conn_01x01 E        single_pin                    198.1200   -106.6800  198.1200   -106.6800     0.0    top       SMD
+J550          Conn_01x01 J        single_pin                    231.1400   -124.4600  231.1400   -124.4600     0.0    top       SMD
+J60           Conn_01x01 J        single_pin                    106.6800   -124.4600  106.6800   -124.4600     0.0    top       SMD
+J235          Conn_01x01 E        single_pin                    152.4000   -106.6800  152.4000   -106.6800     0.0    top       SMD
+J530          Conn_01x01 J        single_pin                    226.0600   -124.4600  226.0600   -124.4600     0.0    top       SMD
+J220          Conn_01x01 J        single_pin                    147.3200   -124.4600  147.3200   -124.4600     0.0    top       SMD
+J55           Conn_01x01 E        single_pin                    106.6800   -106.6800  106.6800   -106.6800     0.0    top       SMD
+J545          Conn_01x01 E        single_pin                    231.1400   -106.6800  231.1400   -106.6800     0.0    top       SMD
+J365          Conn_01x01 E        single_pin                    185.4200   -106.6800  185.4200   -106.6800     0.0    top       SMD
+J380          Conn_01x01 J        single_pin                    187.9600   -124.4600  187.9600   -124.4600     0.0    top       SMD
+J370          Conn_01x01 J        single_pin                    185.4200   -124.4600  185.4200   -124.4600     0.0    top       SMD
+J420          Conn_01x01 J        single_pin                    198.1200   -124.4600  198.1200   -124.4600     0.0    top       SMD
+J435          Conn_01x01 E        single_pin                    203.2000   -106.6800  203.2000   -106.6800     0.0    top       SMD
+J525          Conn_01x01 E        single_pin                    226.0600   -106.6800  226.0600   -106.6800     0.0    top       SMD
+J440          Conn_01x01 J        single_pin                    203.2000   -124.4600  203.2000   -124.4600     0.0    top       SMD
+J625          Conn_01x01 E        single_pin                    251.4600   -106.6800  251.4600   -106.6800     0.0    top       SMD
+J240          Conn_01x01 J        single_pin                    152.4000   -124.4600  152.4000   -124.4600     0.0    top       SMD
+J9            Conn_01x01 I        single_pin                    93.9800    -121.9200  93.9800    -121.9200     0.0    top       SMD
+J10           Conn_01x01 J        single_pin                    93.9800    -124.4600  93.9800    -124.4600     0.0    top       SMD
+J7            Conn_01x01 G        single_pin                    93.9800    -116.8400  93.9800    -116.8400     0.0    top       SMD
+J8            Conn_01x01 H        single_pin                    93.9800    -119.3800  93.9800    -119.3800     0.0    top       SMD
+J830          Conn_01x01 A        single_pin                    93.9800    -96.5200   93.9800    -96.5200      0.0    top       SMD
+J708          Conn_01x01          single_pin                    98.4200    -62.4000   98.4200    -62.4000      0.0    top       SMD
+J507          Conn_01x01 G        single_pin                    220.9800   -116.8400  220.9800   -116.8400     0.0    top       SMD
+J710          Conn_01x01          single_pin                    98.4200    -67.8000   98.4200    -67.8000      0.0    top       SMD
+J783          Conn_01x01          single_pin                    64.0200    -51.6000   64.0200    -51.6000      0.0    top       SMD
+J820          Conn_01x01          single_pin                    74.8200    -43.5000   74.8200    -43.5000      0.0    top       SMD
+J812          Conn_01x01          single_pin                    72.1200    -48.9000   72.1200    -48.9000      0.0    top       SMD
+J806          Conn_01x01          single_pin                    69.4200    -59.7000   69.4200    -59.7000      0.0    top       SMD
+J510          Conn_01x01 J        single_pin                    220.9800   -124.4600  220.9800   -124.4600     0.0    top       SMD
+J666          Conn_01x01          single_pin                    87.6200    -57.0000   87.6200    -57.0000      0.0    top       SMD
+J766          Conn_01x01          single_pin                    58.6200    -59.7000   58.6200    -59.7000      0.0    top       SMD
+J750          Conn_01x01          single_pin                    55.9200    -43.5000   55.9200    -43.5000      0.0    top       SMD
+J760          Conn_01x01          single_pin                    58.6200    -43.5000   58.6200    -43.5000      0.0    top       SMD
+J801          Conn_01x01          single_pin                    69.4200    -46.2000   69.4200    -46.2000      0.0    top       SMD
+J729          Conn_01x01          single_pin                    103.8200   -65.1000   103.8200   -65.1000      0.0    top       SMD
+J30           Conn_01x01 J        single_pin                    99.0600    -124.4600  99.0600    -124.4600     0.0    top       SMD
+J743          Conn_01x01          single_pin                    53.2200    -51.6000   53.2200    -51.6000      0.0    top       SMD
+J707          Conn_01x01          single_pin                    98.4200    -59.7000   98.4200    -59.7000      0.0    top       SMD
+J504          Conn_01x01 D        single_pin                    220.9800   -104.1400  220.9800   -104.1400     0.0    top       SMD
+J667          Conn_01x01          single_pin                    87.6200    -59.7000   87.6200    -59.7000      0.0    top       SMD
+J712          Conn_01x01          single_pin                    101.1200   -46.2000   101.1200   -46.2000      0.0    top       SMD
+J694          Conn_01x01          single_pin                    95.7200    -51.6000   95.7200    -51.6000      0.0    top       SMD
+J691          Conn_01x01          single_pin                    95.7200    -43.5000   95.7200    -43.5000      0.0    top       SMD
+J723          Conn_01x01          single_pin                    103.8200   -48.9000   103.8200   -48.9000      0.0    top       SMD
+J797          Conn_01x01          single_pin                    66.7200    -62.4000   66.7200    -62.4000      0.0    top       SMD
+J85           Conn_01x01 E        single_pin                    114.3000   -106.6800  114.3000   -106.6800     0.0    top       SMD
+J12           Conn_01x01 B        single_pin                    96.5200    -99.0600   96.5200    -99.0600      0.0    top       SMD
+J653          Conn_01x01          single_pin                    84.9200    -48.9000   84.9200    -48.9000      0.0    top       SMD
+J774          Conn_01x01          single_pin                    61.3200    -54.3000   61.3200    -54.3000      0.0    top       SMD
+J255          Conn_01x01 E        single_pin                    157.4800   -106.6800  157.4800   -106.6800     0.0    top       SMD
+J798          Conn_01x01          single_pin                    66.7200    -65.1000   66.7200    -65.1000      0.0    top       SMD
+J689          Conn_01x01          single_pin                    93.0200    -65.1000   93.0200    -65.1000      0.0    top       SMD
+J26           Conn_01x01 F        single_pin                    99.0600    -114.3000  99.0600    -114.3000     0.0    top       SMD
+J722          Conn_01x01          single_pin                    103.8200   -46.2000   103.8200   -46.2000      0.0    top       SMD
+J721          Conn_01x01          single_pin                    103.8200   -43.5000   103.8200   -43.5000      0.0    top       SMD
+J745          Conn_01x01          single_pin                    53.2200    -57.0000   53.2200    -57.0000      0.0    top       SMD
+J5            Conn_01x01 E        single_pin                    93.9800    -106.6800  93.9800    -106.6800     0.0    top       SMD
+J699          Conn_01x01          single_pin                    95.7200    -65.1000   95.7200    -65.1000      0.0    top       SMD
+J4            Conn_01x01 D        single_pin                    93.9800    -104.1400  93.9800    -104.1400     0.0    top       SMD
+J773          Conn_01x01          single_pin                    61.3200    -51.6000   61.3200    -51.6000      0.0    top       SMD
+J804          Conn_01x01          single_pin                    69.4200    -54.3000   69.4200    -54.3000      0.0    top       SMD
+J260          Conn_01x01 J        single_pin                    157.4800   -124.4600  157.4800   -124.4600     0.0    top       SMD
+J776          Conn_01x01          single_pin                    61.3200    -59.7000   61.3200    -59.7000      0.0    top       SMD
+J701          Conn_01x01          single_pin                    98.4200    -43.5000   98.4200    -43.5000      0.0    top       SMD
+J803          Conn_01x01          single_pin                    69.4200    -51.6000   69.4200    -51.6000      0.0    top       SMD
+J635          Conn_01x01          single_pin                    79.5200    -54.3000   79.5200    -54.3000      0.0    top       SMD
+J817          Conn_01x01          single_pin                    72.1200    -62.4000   72.1200    -62.4000      0.0    top       SMD
+J789          Conn_01x01          single_pin                    64.0200    -67.8000   64.0200    -67.8000      0.0    top       SMD
+J503          Conn_01x01 C        single_pin                    220.9800   -101.6000  220.9800   -101.6000     0.0    top       SMD
+J82           Conn_01x01 B        single_pin                    114.3000   -99.0600   114.3000   -99.0600      0.0    top       SMD
+J794          Conn_01x01          single_pin                    66.7200    -54.3000   66.7200    -54.3000      0.0    top       SMD
+J697          Conn_01x01          single_pin                    95.7200    -59.7000   95.7200    -59.7000      0.0    top       SMD
+J695          Conn_01x01          single_pin                    95.7200    -54.3000   95.7200    -54.3000      0.0    top       SMD
+J746          Conn_01x01          single_pin                    53.2200    -59.7000   53.2200    -59.7000      0.0    top       SMD
+J253          Conn_01x01 C        single_pin                    157.4800   -101.6000  157.4800   -101.6000     0.0    top       SMD
+J821          Conn_01x01          single_pin                    74.8200    -46.2000   74.8200    -46.2000      0.0    top       SMD
+J654          Conn_01x01          single_pin                    84.9200    -51.6000   84.9200    -51.6000      0.0    top       SMD
+J650          Conn_01x01          single_pin                    82.2200    -67.8000   82.2200    -67.8000      0.0    top       SMD
+J502          Conn_01x01 B        single_pin                    220.9800   -99.0600   220.9800   -99.0600      0.0    top       SMD
+J784          Conn_01x01          single_pin                    64.0200    -54.3000   64.0200    -54.3000      0.0    top       SMD
+J681          Conn_01x01          single_pin                    93.0200    -43.5000   93.0200    -43.5000      0.0    top       SMD
+J509          Conn_01x01 I        single_pin                    220.9800   -121.9200  220.9800   -121.9200     0.0    top       SMD
+J24           Conn_01x01 D        single_pin                    99.0600    -104.1400  99.0600    -104.1400     0.0    top       SMD
+J749          Conn_01x01          single_pin                    53.2200    -67.8000   53.2200    -67.8000      0.0    top       SMD
+J27           Conn_01x01 G        single_pin                    99.0600    -116.8400  99.0600    -116.8400     0.0    top       SMD
+J3            Conn_01x01 C        single_pin                    93.9800    -101.6000  93.9800    -101.6000     0.0    top       SMD
+J735          Conn_01x01          single_pin                    50.5200    -57.0000   50.5200    -57.0000      0.0    top       SMD
+J87           Conn_01x01 G        single_pin                    114.3000   -116.8400  114.3000   -116.8400     0.0    top       SMD
+J685          Conn_01x01          single_pin                    93.0200    -54.3000   93.0200    -54.3000      0.0    top       SMD
+J726          Conn_01x01          single_pin                    103.8200   -57.0000   103.8200   -57.0000      0.0    top       SMD
+J637          Conn_01x01          single_pin                    79.5200    -59.7000   79.5200    -59.7000      0.0    top       SMD
+J659          Conn_01x01          single_pin                    84.9200    -65.1000   84.9200    -65.1000      0.0    top       SMD
+J489          Conn_01x01 I        single_pin                    215.9000   -121.9200  215.9000   -121.9200     0.0    top       SMD
+J258          Conn_01x01 H        single_pin                    157.4800   -119.3800  157.4800   -119.3800     0.0    top       SMD
+J731          Conn_01x01          single_pin                    50.5200    -46.2000   50.5200    -46.2000      0.0    top       SMD
+J2            Conn_01x01 B        single_pin                    93.9800    -99.0600   93.9800    -99.0600      0.0    top       SMD
+J740          Conn_01x01          single_pin                    53.2200    -43.5000   53.2200    -43.5000      0.0    top       SMD
+J792          Conn_01x01          single_pin                    66.7200    -48.9000   66.7200    -48.9000      0.0    top       SMD
+J742          Conn_01x01          single_pin                    53.2200    -48.9000   53.2200    -48.9000      0.0    top       SMD
+J25           Conn_01x01 E        single_pin                    99.0600    -106.6800  99.0600    -106.6800     0.0    top       SMD
+J827          Conn_01x01          single_pin                    74.8200    -62.4000   74.8200    -62.4000      0.0    top       SMD
+J18           Conn_01x01 H        single_pin                    96.5200    -119.3800  96.5200    -119.3800     0.0    top       SMD
+J663          Conn_01x01          single_pin                    87.6200    -48.9000   87.6200    -48.9000      0.0    top       SMD
+J775          Conn_01x01          single_pin                    61.3200    -57.0000   61.3200    -57.0000      0.0    top       SMD
+J632          Conn_01x01          single_pin                    79.5200    -46.2000   79.5200    -46.2000      0.0    top       SMD
+J765          Conn_01x01          single_pin                    58.6200    -57.0000   58.6200    -57.0000      0.0    top       SMD
+J506          Conn_01x01 F        single_pin                    220.9800   -114.3000  220.9800   -114.3000     0.0    top       SMD
+J14           Conn_01x01 D        single_pin                    96.5200    -104.1400  96.5200    -104.1400     0.0    top       SMD
+J782          Conn_01x01          single_pin                    64.0200    -48.9000   64.0200    -48.9000      0.0    top       SMD
+J631          Conn_01x01          single_pin                    79.5200    -43.5000   79.5200    -43.5000      0.0    top       SMD
+J84           Conn_01x01 D        single_pin                    114.3000   -104.1400  114.3000   -104.1400     0.0    top       SMD
+J677          Conn_01x01          single_pin                    90.3200    -59.7000   90.3200    -59.7000      0.0    top       SMD
+J644          Conn_01x01          single_pin                    82.2200    -51.6000   82.2200    -51.6000      0.0    top       SMD
+J734          Conn_01x01          single_pin                    50.5200    -54.3000   50.5200    -54.3000      0.0    top       SMD
+J21           Conn_01x01 A        single_pin                    99.0600    -96.5200   99.0600    -96.5200      0.0    top       SMD
+J487          Conn_01x01 G        single_pin                    215.9000   -116.8400  215.9000   -116.8400     0.0    top       SMD
+J646          Conn_01x01          single_pin                    82.2200    -57.0000   82.2200    -57.0000      0.0    top       SMD
+J748          Conn_01x01          single_pin                    53.2200    -65.1000   53.2200    -65.1000      0.0    top       SMD
+J733          Conn_01x01          single_pin                    50.5200    -51.6000   50.5200    -51.6000      0.0    top       SMD
+J826          Conn_01x01          single_pin                    74.8200    -59.7000   74.8200    -59.7000      0.0    top       SMD
+J730          Conn_01x01          single_pin                    103.8200   -67.8000   103.8200   -67.8000      0.0    top       SMD
+J808          Conn_01x01          single_pin                    69.4200    -65.1000   69.4200    -65.1000      0.0    top       SMD
+J737          Conn_01x01          single_pin                    50.5200    -62.4000   50.5200    -62.4000      0.0    top       SMD
+J81           Conn_01x01 A        single_pin                    114.3000   -96.5200   114.3000   -96.5200      0.0    top       SMD
+J756          Conn_01x01          single_pin                    55.9200    -59.7000   55.9200    -59.7000      0.0    top       SMD
+J657          Conn_01x01          single_pin                    84.9200    -59.7000   84.9200    -59.7000      0.0    top       SMD
+J814          Conn_01x01          single_pin                    72.1200    -54.3000   72.1200    -54.3000      0.0    top       SMD
+J709          Conn_01x01          single_pin                    98.4200    -65.1000   98.4200    -65.1000      0.0    top       SMD
+J777          Conn_01x01          single_pin                    61.3200    -62.4000   61.3200    -62.4000      0.0    top       SMD
+J490          Conn_01x01 J        single_pin                    215.9000   -124.4600  215.9000   -124.4600     0.0    top       SMD
+J705          Conn_01x01          single_pin                    98.4200    -54.3000   98.4200    -54.3000      0.0    top       SMD
+J739          Conn_01x01          single_pin                    50.5200    -67.8000   50.5200    -67.8000      0.0    top       SMD
+J805          Conn_01x01          single_pin                    69.4200    -57.0000   69.4200    -57.0000      0.0    top       SMD
+J690          Conn_01x01          single_pin                    93.0200    -67.8000   93.0200    -67.8000      0.0    top       SMD
+J727          Conn_01x01          single_pin                    103.8200   -59.7000   103.8200   -59.7000      0.0    top       SMD
+J779          Conn_01x01          single_pin                    61.3200    -67.8000   61.3200    -67.8000      0.0    top       SMD
+J665          Conn_01x01          single_pin                    87.6200    -54.3000   87.6200    -54.3000      0.0    top       SMD
+J683          Conn_01x01          single_pin                    93.0200    -48.9000   93.0200    -48.9000      0.0    top       SMD
+J651          Conn_01x01          single_pin                    84.9200    -43.5000   84.9200    -43.5000      0.0    top       SMD
+J763          Conn_01x01          single_pin                    58.6200    -51.6000   58.6200    -51.6000      0.0    top       SMD
+J761          Conn_01x01          single_pin                    58.6200    -46.2000   58.6200    -46.2000      0.0    top       SMD
+J662          Conn_01x01          single_pin                    87.6200    -46.2000   87.6200    -46.2000      0.0    top       SMD
+J790          Conn_01x01          single_pin                    66.7200    -43.5000   66.7200    -43.5000      0.0    top       SMD
+J484          Conn_01x01 D        single_pin                    215.9000   -104.1400  215.9000   -104.1400     0.0    top       SMD
+J762          Conn_01x01          single_pin                    58.6200    -48.9000   58.6200    -48.9000      0.0    top       SMD
+J29           Conn_01x01 I        single_pin                    99.0600    -121.9200  99.0600    -121.9200     0.0    top       SMD
+J636          Conn_01x01          single_pin                    79.5200    -57.0000   79.5200    -57.0000      0.0    top       SMD
+J658          Conn_01x01          single_pin                    84.9200    -62.4000   84.9200    -62.4000      0.0    top       SMD
+J706          Conn_01x01          single_pin                    98.4200    -57.0000   98.4200    -57.0000      0.0    top       SMD
+J28           Conn_01x01 H        single_pin                    99.0600    -119.3800  99.0600    -119.3800     0.0    top       SMD
+J672          Conn_01x01          single_pin                    90.3200    -46.2000   90.3200    -46.2000      0.0    top       SMD
+J693          Conn_01x01          single_pin                    95.7200    -48.9000   95.7200    -48.9000      0.0    top       SMD
+J633          Conn_01x01          single_pin                    79.5200    -48.9000   79.5200    -48.9000      0.0    top       SMD
+J682          Conn_01x01          single_pin                    93.0200    -46.2000   93.0200    -46.2000      0.0    top       SMD
+J741          Conn_01x01          single_pin                    53.2200    -46.2000   53.2200    -46.2000      0.0    top       SMD
+J1            Conn_01x01          single_pin                    50.5200    -43.5000   50.5200    -43.5000      0.0    top       SMD
+J643          Conn_01x01          single_pin                    82.2200    -48.9000   82.2200    -48.9000      0.0    top       SMD
+J648          Conn_01x01          single_pin                    82.2200    -62.4000   82.2200    -62.4000      0.0    top       SMD
+J641          Conn_01x01          single_pin                    82.2200    -43.5000   82.2200    -43.5000      0.0    top       SMD
+J771          Conn_01x01          single_pin                    61.3200    -46.2000   61.3200    -46.2000      0.0    top       SMD
+J20           Conn_01x01 J        single_pin                    96.5200    -124.4600  96.5200    -124.4600     0.0    top       SMD
+J508          Conn_01x01 H        single_pin                    220.9800   -119.3800  220.9800   -119.3800     0.0    top       SMD
+J795          Conn_01x01          single_pin                    66.7200    -57.0000   66.7200    -57.0000      0.0    top       SMD
+J758          Conn_01x01          single_pin                    55.9200    -65.1000   55.9200    -65.1000      0.0    top       SMD
+J505          Conn_01x01 E        single_pin                    220.9800   -106.6800  220.9800   -106.6800     0.0    top       SMD
+J772          Conn_01x01          single_pin                    61.3200    -48.9000   61.3200    -48.9000      0.0    top       SMD
+J796          Conn_01x01          single_pin                    66.7200    -59.7000   66.7200    -59.7000      0.0    top       SMD
+J88           Conn_01x01 H        single_pin                    114.3000   -119.3800  114.3000   -119.3800     0.0    top       SMD
+J670          Conn_01x01          single_pin                    87.6200    -67.8000   87.6200    -67.8000      0.0    top       SMD
+J780          Conn_01x01          single_pin                    64.0200    -43.5000   64.0200    -43.5000      0.0    top       SMD
+J828          Conn_01x01          single_pin                    74.8200    -65.1000   74.8200    -65.1000      0.0    top       SMD
+J810          Conn_01x01          single_pin                    72.1200    -43.5000   72.1200    -43.5000      0.0    top       SMD
+J23           Conn_01x01 C        single_pin                    99.0600    -101.6000  99.0600    -101.6000     0.0    top       SMD
+J769          Conn_01x01          single_pin                    58.6200    -67.8000   58.6200    -67.8000      0.0    top       SMD
+J259          Conn_01x01 I        single_pin                    157.4800   -121.9200  157.4800   -121.9200     0.0    top       SMD
+J501          Conn_01x01 A        single_pin                    220.9800   -96.5200   220.9800   -96.5200      0.0    top       SMD
+J671          Conn_01x01          single_pin                    90.3200    -43.5000   90.3200    -43.5000      0.0    top       SMD
+J661          Conn_01x01          single_pin                    87.6200    -43.5000   87.6200    -43.5000      0.0    top       SMD
+J703          Conn_01x01          single_pin                    98.4200    -48.9000   98.4200    -48.9000      0.0    top       SMD
+J676          Conn_01x01          single_pin                    90.3200    -57.0000   90.3200    -57.0000      0.0    top       SMD
+J778          Conn_01x01          single_pin                    61.3200    -65.1000   61.3200    -65.1000      0.0    top       SMD
+J673          Conn_01x01          single_pin                    90.3200    -48.9000   90.3200    -48.9000      0.0    top       SMD
+J634          Conn_01x01          single_pin                    79.5200    -51.6000   79.5200    -51.6000      0.0    top       SMD
+J486          Conn_01x01 F        single_pin                    215.9000   -114.3000  215.9000   -114.3000     0.0    top       SMD
+J254          Conn_01x01 D        single_pin                    157.4800   -104.1400  157.4800   -104.1400     0.0    top       SMD
+J90           Conn_01x01 J        single_pin                    114.3000   -124.4600  114.3000   -124.4600     0.0    top       SMD
+J716          Conn_01x01          single_pin                    101.1200   -57.0000   101.1200   -57.0000      0.0    top       SMD
+J488          Conn_01x01 H        single_pin                    215.9000   -119.3800  215.9000   -119.3800     0.0    top       SMD
+J86           Conn_01x01 F        single_pin                    114.3000   -114.3000  114.3000   -114.3000     0.0    top       SMD
+J791          Conn_01x01          single_pin                    66.7200    -46.2000   66.7200    -46.2000      0.0    top       SMD
+J686          Conn_01x01          single_pin                    93.0200    -57.0000   93.0200    -57.0000      0.0    top       SMD
+J724          Conn_01x01          single_pin                    103.8200   -51.6000   103.8200   -51.6000      0.0    top       SMD
+J481          Conn_01x01 A        single_pin                    215.9000   -96.5200   215.9000   -96.5200      0.0    top       SMD
+J702          Conn_01x01          single_pin                    98.4200    -46.2000   98.4200    -46.2000      0.0    top       SMD
+J700          Conn_01x01          single_pin                    95.7200    -67.8000   95.7200    -67.8000      0.0    top       SMD
+J809          Conn_01x01          single_pin                    69.4200    -67.8000   69.4200    -67.8000      0.0    top       SMD
+J829          Conn_01x01          single_pin                    74.8200    -67.8000   74.8200    -67.8000      0.0    top       SMD
+J738          Conn_01x01          single_pin                    50.5200    -65.1000   50.5200    -65.1000      0.0    top       SMD
+J811          Conn_01x01          single_pin                    72.1200    -46.2000   72.1200    -46.2000      0.0    top       SMD
+J660          Conn_01x01          single_pin                    84.9200    -67.8000   84.9200    -67.8000      0.0    top       SMD
+J485          Conn_01x01 E        single_pin                    215.9000   -106.6800  215.9000   -106.6800     0.0    top       SMD
+J767          Conn_01x01          single_pin                    58.6200    -62.4000   58.6200    -62.4000      0.0    top       SMD
+J754          Conn_01x01          single_pin                    55.9200    -54.3000   55.9200    -54.3000      0.0    top       SMD
+J822          Conn_01x01          single_pin                    74.8200    -48.9000   74.8200    -48.9000      0.0    top       SMD
+J692          Conn_01x01          single_pin                    95.7200    -46.2000   95.7200    -46.2000      0.0    top       SMD
+J813          Conn_01x01          single_pin                    72.1200    -51.6000   72.1200    -51.6000      0.0    top       SMD
+J787          Conn_01x01          single_pin                    64.0200    -62.4000   64.0200    -62.4000      0.0    top       SMD
+J788          Conn_01x01          single_pin                    64.0200    -65.1000   64.0200    -65.1000      0.0    top       SMD
+J755          Conn_01x01          single_pin                    55.9200    -57.0000   55.9200    -57.0000      0.0    top       SMD
+J719          Conn_01x01          single_pin                    101.1200   -65.1000   101.1200   -65.1000      0.0    top       SMD
+J13           Conn_01x01 C        single_pin                    96.5200    -101.6000  96.5200    -101.6000     0.0    top       SMD
+J687          Conn_01x01          single_pin                    93.0200    -59.7000   93.0200    -59.7000      0.0    top       SMD
+J678          Conn_01x01          single_pin                    90.3200    -62.4000   90.3200    -62.4000      0.0    top       SMD
+J668          Conn_01x01          single_pin                    87.6200    -62.4000   87.6200    -62.4000      0.0    top       SMD
+J17           Conn_01x01 G        single_pin                    96.5200    -116.8400  96.5200    -116.8400     0.0    top       SMD
+J482          Conn_01x01 B        single_pin                    215.9000   -99.0600   215.9000   -99.0600      0.0    top       SMD
+J15           Conn_01x01 E        single_pin                    96.5200    -106.6800  96.5200    -106.6800     0.0    top       SMD
+J669          Conn_01x01          single_pin                    87.6200    -65.1000   87.6200    -65.1000      0.0    top       SMD
+J824          Conn_01x01          single_pin                    74.8200    -54.3000   74.8200    -54.3000      0.0    top       SMD
+J664          Conn_01x01          single_pin                    87.6200    -51.6000   87.6200    -51.6000      0.0    top       SMD
+J252          Conn_01x01 B        single_pin                    157.4800   -99.0600   157.4800   -99.0600      0.0    top       SMD
+J639          Conn_01x01          single_pin                    79.5200    -65.1000   79.5200    -65.1000      0.0    top       SMD
+J22           Conn_01x01 B        single_pin                    99.0600    -99.0600   99.0600    -99.0600      0.0    top       SMD
+J704          Conn_01x01          single_pin                    98.4200    -51.6000   98.4200    -51.6000      0.0    top       SMD
+J645          Conn_01x01          single_pin                    82.2200    -54.3000   82.2200    -54.3000      0.0    top       SMD
+J732          Conn_01x01          single_pin                    50.5200    -48.9000   50.5200    -48.9000      0.0    top       SMD
+J799          Conn_01x01          single_pin                    66.7200    -67.8000   66.7200    -67.8000      0.0    top       SMD
+J785          Conn_01x01          single_pin                    64.0200    -57.0000   64.0200    -57.0000      0.0    top       SMD
+J770          Conn_01x01          single_pin                    61.3200    -43.5000   61.3200    -43.5000      0.0    top       SMD
+J823          Conn_01x01          single_pin                    74.8200    -51.6000   74.8200    -51.6000      0.0    top       SMD
+J83           Conn_01x01 C        single_pin                    114.3000   -101.6000  114.3000   -101.6000     0.0    top       SMD
+J728          Conn_01x01          single_pin                    103.8200   -62.4000   103.8200   -62.4000      0.0    top       SMD
+J16           Conn_01x01 F        single_pin                    96.5200    -114.3000  96.5200    -114.3000     0.0    top       SMD
+J257          Conn_01x01 G        single_pin                    157.4800   -116.8400  157.4800   -116.8400     0.0    top       SMD
+J752          Conn_01x01          single_pin                    55.9200    -48.9000   55.9200    -48.9000      0.0    top       SMD
+J251          Conn_01x01 A        single_pin                    157.4800   -96.5200   157.4800   -96.5200      0.0    top       SMD
+J715          Conn_01x01          single_pin                    101.1200   -54.3000   101.1200   -54.3000      0.0    top       SMD
+J781          Conn_01x01          single_pin                    64.0200    -46.2000   64.0200    -46.2000      0.0    top       SMD
+J6            Conn_01x01 F        single_pin                    93.9800    -114.3000  93.9800    -114.3000     0.0    top       SMD
+J818          Conn_01x01          single_pin                    72.1200    -65.1000   72.1200    -65.1000      0.0    top       SMD
+J698          Conn_01x01          single_pin                    95.7200    -62.4000   95.7200    -62.4000      0.0    top       SMD
+J753          Conn_01x01          single_pin                    55.9200    -51.6000   55.9200    -51.6000      0.0    top       SMD
+J786          Conn_01x01          single_pin                    64.0200    -59.7000   64.0200    -59.7000      0.0    top       SMD
+J768          Conn_01x01          single_pin                    58.6200    -65.1000   58.6200    -65.1000      0.0    top       SMD
+J11           Conn_01x01 A        single_pin                    96.5200    -96.5200   96.5200    -96.5200      0.0    top       SMD
+J759          Conn_01x01          single_pin                    55.9200    -67.8000   55.9200    -67.8000      0.0    top       SMD
+J647          Conn_01x01          single_pin                    82.2200    -59.7000   82.2200    -59.7000      0.0    top       SMD
+J802          Conn_01x01          single_pin                    69.4200    -48.9000   69.4200    -48.9000      0.0    top       SMD
+J680          Conn_01x01          single_pin                    90.3200    -67.8000   90.3200    -67.8000      0.0    top       SMD
+J744          Conn_01x01          single_pin                    53.2200    -54.3000   53.2200    -54.3000      0.0    top       SMD
+J815          Conn_01x01          single_pin                    72.1200    -57.0000   72.1200    -57.0000      0.0    top       SMD
+J800          Conn_01x01          single_pin                    69.4200    -43.5000   69.4200    -43.5000      0.0    top       SMD
+J89           Conn_01x01 I        single_pin                    114.3000   -121.9200  114.3000   -121.9200     0.0    top       SMD
+J640          Conn_01x01          single_pin                    79.5200    -67.8000   79.5200    -67.8000      0.0    top       SMD
+J256          Conn_01x01 F        single_pin                    157.4800   -114.3000  157.4800   -114.3000     0.0    top       SMD
+J714          Conn_01x01          single_pin                    101.1200   -51.6000   101.1200   -51.6000      0.0    top       SMD
+J638          Conn_01x01          single_pin                    79.5200    -62.4000   79.5200    -62.4000      0.0    top       SMD
+J807          Conn_01x01          single_pin                    69.4200    -62.4000   69.4200    -62.4000      0.0    top       SMD
+J718          Conn_01x01          single_pin                    101.1200   -62.4000   101.1200   -62.4000      0.0    top       SMD
+J675          Conn_01x01          single_pin                    90.3200    -54.3000   90.3200    -54.3000      0.0    top       SMD
+J751          Conn_01x01          single_pin                    55.9200    -46.2000   55.9200    -46.2000      0.0    top       SMD
+J720          Conn_01x01          single_pin                    101.1200   -67.8000   101.1200   -67.8000      0.0    top       SMD
+J757          Conn_01x01          single_pin                    55.9200    -62.4000   55.9200    -62.4000      0.0    top       SMD
+J649          Conn_01x01          single_pin                    82.2200    -65.1000   82.2200    -65.1000      0.0    top       SMD
+J679          Conn_01x01          single_pin                    90.3200    -65.1000   90.3200    -65.1000      0.0    top       SMD
+J725          Conn_01x01          single_pin                    103.8200   -54.3000   103.8200   -54.3000      0.0    top       SMD
+J717          Conn_01x01          single_pin                    101.1200   -59.7000   101.1200   -59.7000      0.0    top       SMD
+J483          Conn_01x01 C        single_pin                    215.9000   -101.6000  215.9000   -101.6000     0.0    top       SMD
+J747          Conn_01x01          single_pin                    53.2200    -62.4000   53.2200    -62.4000      0.0    top       SMD
+J652          Conn_01x01          single_pin                    84.9200    -46.2000   84.9200    -46.2000      0.0    top       SMD
+J825          Conn_01x01          single_pin                    74.8200    -57.0000   74.8200    -57.0000      0.0    top       SMD
+J656          Conn_01x01          single_pin                    84.9200    -57.0000   84.9200    -57.0000      0.0    top       SMD
+J793          Conn_01x01          single_pin                    66.7200    -51.6000   66.7200    -51.6000      0.0    top       SMD
+J713          Conn_01x01          single_pin                    101.1200   -48.9000   101.1200   -48.9000      0.0    top       SMD
+J19           Conn_01x01 I        single_pin                    96.5200    -121.9200  96.5200    -121.9200     0.0    top       SMD
+J696          Conn_01x01          single_pin                    95.7200    -57.0000   95.7200    -57.0000      0.0    top       SMD
+J819          Conn_01x01          single_pin                    72.1200    -67.8000   72.1200    -67.8000      0.0    top       SMD
+J711          Conn_01x01          single_pin                    101.1200   -43.5000   101.1200   -43.5000      0.0    top       SMD
+J642          Conn_01x01          single_pin                    82.2200    -46.2000   82.2200    -46.2000      0.0    top       SMD
+J674          Conn_01x01          single_pin                    90.3200    -51.6000   90.3200    -51.6000      0.0    top       SMD
+J655          Conn_01x01          single_pin                    84.9200    -54.3000   84.9200    -54.3000      0.0    top       SMD
+J688          Conn_01x01          single_pin                    93.0200    -62.4000   93.0200    -62.4000      0.0    top       SMD
+J816          Conn_01x01          single_pin                    72.1200    -59.7000   72.1200    -59.7000      0.0    top       SMD
+J764          Conn_01x01          single_pin                    58.6200    -54.3000   58.6200    -54.3000      0.0    top       SMD
+J684          Conn_01x01          single_pin                    93.0200    -51.6000   93.0200    -51.6000      0.0    top       SMD
+J736          Conn_01x01          single_pin                    50.5200    -59.7000   50.5200    -59.7000      0.0    top       SMD
+## End
+## 1030 SMD pads
+## 0 TH pads
+## 0 Virtual pads
+## 0 Top TH modules
+## 0 Bot TH modules
+## 1030 Top SMD modules
+## 0 Bot SMD modules
+## 0 Top Virtual modules
+## 0 Bot Virtual modules
