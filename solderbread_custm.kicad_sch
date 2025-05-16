@@ -1,0 +1,2744 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "010244ba-b459-43d0-9189-99817ad16ee9")
+		(property "Sheetname" "pin row 2"
+			(at 22.86 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 86.36)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "016e330a-7c33-4980-8d3d-8eedfeb2c957")
+		(property "Sheetname" "pin row 26"
+			(at 81.28 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 128.27)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "02d80adb-a5e7-4fb0-8f07-ee8dbdd7040d")
+		(property "Sheetname" "pin row 49"
+			(at 139.7 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "50")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 72.39)
+		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "072fa771-d07e-43d1-b595-b0e6035fb33b")
+		(property "Sheetname" "alim row1"
+			(at 198.12 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "alim_row.kicad_sch"
+			(at 198.12 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "66")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0c9c53b0-d9c0-425a-bc6c-f60d6da800fa")
+		(property "Sheetname" "pin row 51"
+			(at 168.91 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "52")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 128.27)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "154762b8-5ef2-4e31-88dc-0d65a0077471")
+		(property "Sheetname" "pin row 9"
+			(at 22.86 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 86.36)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2608f317-1d76-4ec8-9ad0-d2aeb0ca5d4d")
+		(property "Sheetname" "pin row 36"
+			(at 110.49 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "37")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 142.24)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ef212bf-23da-4f89-a7f0-00b9bad65dab")
+		(property "Sheetname" "pin row 60"
+			(at 168.91 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "61")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 114.3)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30d4936d-6ace-469d-9fd2-c575b4b4eaef")
+		(property "Sheetname" "pin row 28"
+			(at 81.28 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 128.27)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "33da9005-e0c1-4025-b582-7188bba8029f")
+		(property "Sheetname" "pin row 19"
+			(at 52.07 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 86.36)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37563292-0dc4-48dd-bfaa-66a572fe19bd")
+		(property "Sheetname" "pin row 6"
+			(at 22.86 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3c84d1c7-f916-4d2d-8697-a453457381b9")
+		(property "Sheetname" "pin row 1"
+			(at 22.86 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 114.3)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3d78e162-6c7a-4f1e-8af1-ed304957f422")
+		(property "Sheetname" "pin row 58"
+			(at 168.91 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "59")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 86.36)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3dc0baf6-241e-4ac7-8911-2ddf648af76e")
+		(property "Sheetname" "pin row 56"
+			(at 168.91 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "57")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 72.39)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4061ce90-f682-4a66-b090-9e287a33a812")
+		(property "Sheetname" "pin row 15"
+			(at 52.07 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40d4b3a5-f6df-4823-8014-e27f4d817445")
+		(property "Sheetname" "pin row 42"
+			(at 139.7 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "43")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40e59e53-e3a1-40f9-8efb-56bd5136985d")
+		(property "Sheetname" "pin row 21"
+			(at 81.28 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 72.39)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "43885cb7-c405-4f8b-9fe1-ee244334d622")
+		(property "Sheetname" "pin row 35"
+			(at 110.49 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "36")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "43e785ac-989f-4ce3-9ef1-27016825ccf0")
+		(property "Sheetname" "pin row 52"
+			(at 168.91 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "53")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 58.42)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "46498db3-7956-4275-a165-af8e4da83eaf")
+		(property "Sheetname" "pin row 34"
+			(at 110.49 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "35")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4856f381-3bbc-4f1f-807e-a0ba76da9390")
+		(property "Sheetname" "pin row 63"
+			(at 198.12 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 198.12 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "64")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 142.24)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e273c7a-151b-4c31-bd73-3c6e585afc29")
+		(property "Sheetname" "pin row 30"
+			(at 81.28 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 128.27)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e52f344-6a99-4731-8680-d93f79731469")
+		(property "Sheetname" "pin row 29"
+			(at 81.28 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "30")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ef63628-8ba9-49e6-a448-553376606dd5")
+		(property "Sheetname" "pin row 32"
+			(at 110.49 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "33")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 86.36)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "54951a71-20ea-40fe-97c5-b568eb91069b")
+		(property "Sheetname" "pin row 46"
+			(at 139.7 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "47")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "59c1a704-b163-4a86-a9f1-39de9f5927c2")
+		(property "Sheetname" "pin row 31"
+			(at 110.49 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 114.3)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5bac0915-e86e-49b9-81f9-23e609a7a28e")
+		(property "Sheetname" "pin row 8"
+			(at 22.86 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "618a33cb-529b-4425-a59e-3ed304ebd2cf")
+		(property "Sheetname" "pin row 11"
+			(at 52.07 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "61e0bfe2-4778-4cfa-86d6-3350298c78f6")
+		(property "Sheetname" "pin row 23"
+			(at 81.28 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "64bd646c-3bba-4df4-87c2-e5dcd4efed82")
+		(property "Sheetname" "pin row 61"
+			(at 198.12 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 198.12 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "62")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "65fbc034-9cb8-41a9-9d1b-9a324e28dabc")
+		(property "Sheetname" "pin row 43"
+			(at 139.7 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "44")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 142.24)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "679242e2-9ffe-4de5-bfb1-b031118ac734")
+		(property "Sheetname" "pin row 10"
+			(at 22.86 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 58.42)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67aa851b-9811-427e-938e-62c63245778e")
+		(property "Sheetname" "pin row 54"
+			(at 168.91 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "55")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 100.33)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6cf467ce-c496-4af3-84e3-2493ae4fb2fb")
+		(property "Sheetname" "pin row 37"
+			(at 110.49 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "38")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6f9a8d04-78b6-4b06-afac-b46c3de1a3a8")
+		(property "Sheetname" "pin row 12"
+			(at 52.07 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78947d0b-476b-4ac3-8981-f2687cb1bfae")
+		(property "Sheetname" "pin row 62"
+			(at 198.12 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 198.12 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "63")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 100.33)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7cc6eea7-a9e1-4bc4-8c29-fc339c82e422")
+		(property "Sheetname" "pin row 7"
+			(at 22.86 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 58.42)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7db2faf4-5c08-46c4-a3dd-cd41ec036a5d")
+		(property "Sheetname" "pin row 24"
+			(at 81.28 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 58.42)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83611c22-73eb-41e7-9631-d6ba654fd37b")
+		(property "Sheetname" "pin row 4"
+			(at 22.86 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 72.39)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "876b852a-3745-4f5e-b379-4a656ed10afb")
+		(property "Sheetname" "pin row 25"
+			(at 81.28 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ac5936c-61bd-4139-abe0-9b103526063a")
+		(property "Sheetname" "pin row 33"
+			(at 110.49 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "34")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 100.33)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f745efd-6fb2-43ca-8481-e5cf0c5ffca7")
+		(property "Sheetname" "pin row 27"
+			(at 81.28 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 128.27)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "91c3334c-991a-4c3c-8332-f5475a085444")
+		(property "Sheetname" "pin row 59"
+			(at 168.91 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "60")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94717184-e46c-4076-87f0-95f3c9f924fb")
+		(property "Sheetname" "pin row 3"
+			(at 22.86 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 58.42)
+		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9efd5aa0-254d-400b-bacc-6b02e003c5a6")
+		(property "Sheetname" "alim row"
+			(at 198.12 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "alim_row.kicad_sch"
+			(at 198.12 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "65")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 100.33)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9f59e9b5-a5ed-4797-9764-453f3fa628f1")
+		(property "Sheetname" "pin row 57"
+			(at 168.91 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "58")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 72.39)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a315ed1e-23e8-4684-ac86-47f7bb5100f1")
+		(property "Sheetname" "pin row 5"
+			(at 22.86 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 22.86 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a490b75b-d606-4e65-9f8e-782d5ce85b9b")
+		(property "Sheetname" "pin row 53"
+			(at 168.91 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "54")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 72.39)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a49e5546-0634-4cce-9fbc-99e89ec03329")
+		(property "Sheetname" "pin row 45"
+			(at 139.7 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "46")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 44.45)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aadf1ad6-b18e-4a53-9ba6-0c69e62def02")
+		(property "Sheetname" "pin row 13"
+			(at 52.07 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 30.48)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "acc6aaa0-026f-4b09-bf13-10abd0fba7fe")
+		(property "Sheetname" "pin row 22"
+			(at 81.28 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 81.28 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 100.33)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad9d94f1-84e6-4961-bdd4-cecd51bce1a8")
+		(property "Sheetname" "pin row 47"
+			(at 139.7 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "48")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 142.24)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "afcd020c-080d-4ff6-abcd-efcedd9f47c7")
+		(property "Sheetname" "pin row 50"
+			(at 139.7 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "51")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 142.24)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c1036ed4-a6a7-4c8a-853f-8ed89a479f7d")
+		(property "Sheetname" "pin row 40"
+			(at 110.49 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "41")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 114.3)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c765355b-9d90-4f42-b96e-3085db498a54")
+		(property "Sheetname" "pin row 48"
+			(at 139.7 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "49")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 86.36)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cb9cd9b1-01f6-487d-abfa-2be20361803b")
+		(property "Sheetname" "pin row 16"
+			(at 52.07 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 128.27)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cc81d100-37cb-4aec-8f79-d0d3a85cf2dd")
+		(property "Sheetname" "pin row 39"
+			(at 110.49 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "40")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 58.42)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d28c7549-cc77-4078-9dac-bb5b9fc529f0")
+		(property "Sheetname" "pin row 14"
+			(at 52.07 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 16.51)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dea14c4d-f8b7-44bc-aa99-f264b03990f2")
+		(property "Sheetname" "pin row 41"
+			(at 139.7 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "42")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 72.39)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e16b03fe-fd08-45bb-bb53-43a4c7f003e8")
+		(property "Sheetname" "pin row 55"
+			(at 168.91 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 168.91 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "56")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 114.3)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e5b9df07-60d5-4e11-89ea-1ff795a37047")
+		(property "Sheetname" "pin row 18"
+			(at 52.07 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 100.33)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6977c13-a236-4bef-87a7-915f877a0e94")
+		(property "Sheetname" "pin row 17"
+			(at 52.07 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 142.24)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ef9f2312-8a31-4925-9dd7-873897545b62")
+		(property "Sheetname" "pin row 20"
+			(at 52.07 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 52.07 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 58.42)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb39cbce-f62e-452c-85f2-e6f359f9b0e8")
+		(property "Sheetname" "pin row 44"
+			(at 139.7 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 139.7 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "45")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 114.3)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fdb4f3fb-e543-4645-971d-92977db55d98")
+		(property "Sheetname" "pin row 38"
+			(at 110.49 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_row.kicad_sch"
+			(at 110.49 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f"
+					(page "39")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

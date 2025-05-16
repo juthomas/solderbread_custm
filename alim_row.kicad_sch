@@ -1,0 +1,8978 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9a022c2c-9d6f-49e2-95a2-ebbd4c754dcb")
+	(paper "A4")
+	(lib_symbols
+		(symbol "solderbread:Conn_01x01"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x01"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "solderbread:single_pin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x01_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 111.76 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0400acf9-0d64-4bf6-a4c1-bc98d6940ed4")
+	)
+	(junction
+		(at 111.76 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "064426e3-aad3-46bf-9ee2-65c240c6a46d")
+	)
+	(junction
+		(at 88.9 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0712753f-2365-4466-bde3-9b05e7c2a1bb")
+	)
+	(junction
+		(at 134.62 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08c53b69-4179-461f-a9cc-2155b61ca324")
+	)
+	(junction
+		(at 134.62 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "097c3dc0-047e-4b94-85b2-e15d5e7b5a16")
+	)
+	(junction
+		(at 134.62 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a434a53-fb42-431d-94e5-96aa02ca7cdb")
+	)
+	(junction
+		(at 66.04 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1100c93c-edf3-4efc-b7cf-e3e3396ecaad")
+	)
+	(junction
+		(at 43.18 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12467bc1-bb01-40a1-a551-cb08d9289e34")
+	)
+	(junction
+		(at 43.18 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1508cf67-f377-41b6-b0b6-f04d4793fa36")
+	)
+	(junction
+		(at 43.18 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15d64a11-afc7-40de-adc1-1f3b7bc2d4ef")
+	)
+	(junction
+		(at 203.2 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18164ddb-fa2a-4eba-914f-d20277c8ef3c")
+	)
+	(junction
+		(at 134.62 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19b02617-e3e1-46dc-ad4c-fe9785b917a8")
+	)
+	(junction
+		(at 226.06 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19d3cd66-1f0f-45aa-be0a-d4c0dfd1c456")
+	)
+	(junction
+		(at 180.34 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cffaa54-dcf4-4390-92fe-b72526c7adc6")
+	)
+	(junction
+		(at 226.06 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20a117c5-7d92-4197-90d2-956cfda1cb80")
+	)
+	(junction
+		(at 134.62 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24786c85-2fda-42df-871b-f3cec743ffbc")
+	)
+	(junction
+		(at 66.04 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2648ae64-a278-4018-9c7e-53151c446c3c")
+	)
+	(junction
+		(at 88.9 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2839b443-bc1f-48c2-9afc-6582a2f6b781")
+	)
+	(junction
+		(at 66.04 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "306c75ea-127b-46f1-8398-4495efccd729")
+	)
+	(junction
+		(at 111.76 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31d2c9ba-0a0c-4f7d-9c94-47f2b806ffc9")
+	)
+	(junction
+		(at 20.32 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3547bac3-f07b-47a3-901c-223df52edc50")
+	)
+	(junction
+		(at 43.18 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "358f0c5a-3f70-4c56-8e06-f02e60e446fe")
+	)
+	(junction
+		(at 66.04 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a8cb1b6-dd84-4fe7-afa4-774a7ef7dea2")
+	)
+	(junction
+		(at 43.18 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "426f4090-0752-40fb-af60-c2a33b53417a")
+	)
+	(junction
+		(at 20.32 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "428b00d1-823a-4892-a572-20f8f6cbe433")
+	)
+	(junction
+		(at 157.48 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42e8a7d3-975b-4abf-8900-b695934f98b6")
+	)
+	(junction
+		(at 180.34 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4466f374-ff99-4abc-a561-79733b3469e1")
+	)
+	(junction
+		(at 88.9 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46ce33c1-36e1-4916-a0fa-7038ac951a1a")
+	)
+	(junction
+		(at 180.34 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48b2f138-0c89-49e1-8d8f-b7510c348511")
+	)
+	(junction
+		(at 111.76 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49b3a5bb-c8b0-4e3d-8c43-5dd5dde448b7")
+	)
+	(junction
+		(at 66.04 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c5ae027-2001-437e-bf2c-c6bb2dfbf603")
+	)
+	(junction
+		(at 180.34 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dc2b541-d113-4c34-8cd3-763bc1014a31")
+	)
+	(junction
+		(at 226.06 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50355ab7-6103-4f25-889b-cb0711690111")
+	)
+	(junction
+		(at 203.2 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52054095-1101-455b-a70c-123705140552")
+	)
+	(junction
+		(at 66.04 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "520c2a9a-3d39-4993-8604-a466f1407a26")
+	)
+	(junction
+		(at 180.34 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54abc8f9-5330-472e-8a28-1f4eb25c3d0c")
+	)
+	(junction
+		(at 157.48 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57355f89-0685-4b19-a301-c9307ec9930f")
+	)
+	(junction
+		(at 226.06 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57b7dba5-e8d9-40ab-bf25-5bb9e8857f29")
+	)
+	(junction
+		(at 20.32 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b8c7ad4-c548-4d64-afc2-9887da373e9c")
+	)
+	(junction
+		(at 20.32 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c46f816-1ed3-4ab9-b8a2-35385b99fff9")
+	)
+	(junction
+		(at 134.62 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c6e5727-f034-493c-b478-f64bc3a116e4")
+	)
+	(junction
+		(at 180.34 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62acb50c-f3d4-4bbd-8afc-f7ad36c40648")
+	)
+	(junction
+		(at 157.48 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "63604c54-791b-4953-b953-f3deeac4d58c")
+	)
+	(junction
+		(at 88.9 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6429c314-5e94-4c62-bfb1-8eaf37955007")
+	)
+	(junction
+		(at 88.9 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65790bcc-94f5-4e0e-8f80-275507cbc646")
+	)
+	(junction
+		(at 203.2 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a6d0546-948e-4b6b-ad28-b8e9c12e97cb")
+	)
+	(junction
+		(at 180.34 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b7f7d15-cad5-472c-b92d-d35d9b3714aa")
+	)
+	(junction
+		(at 66.04 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f221118-3f8c-489a-800e-8adf879070f4")
+	)
+	(junction
+		(at 203.2 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f49c548-c08b-4620-b800-aba00ccc8f89")
+	)
+	(junction
+		(at 226.06 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71de7f6a-dcdb-4d94-ac72-4de5068b4f8d")
+	)
+	(junction
+		(at 20.32 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "728cdc8d-7924-4c56-b9a3-0d724a9a80dd")
+	)
+	(junction
+		(at 88.9 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74603701-ac34-49b7-ad97-8cec73924f3f")
+	)
+	(junction
+		(at 226.06 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "755d3856-afb1-4848-bc77-b0c517d9ba78")
+	)
+	(junction
+		(at 134.62 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78f4a652-bf86-47c3-b16d-6f61267ff4e3")
+	)
+	(junction
+		(at 134.62 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b9ad1e3-60c8-48a3-af19-b1609645f1c7")
+	)
+	(junction
+		(at 134.62 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7bbea687-93fa-43ef-b8dc-7a46d041fffe")
+	)
+	(junction
+		(at 43.18 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c76e1ec-7c9f-4692-8b52-2a0d8c752ef9")
+	)
+	(junction
+		(at 111.76 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e19f98d-2ccd-4953-8080-caa361eeed90")
+	)
+	(junction
+		(at 111.76 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84ebbb46-a202-4ff5-b8b9-d2b02bbeea3f")
+	)
+	(junction
+		(at 157.48 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87423ebe-0670-424e-baec-eed2dd4e559d")
+	)
+	(junction
+		(at 20.32 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87cb3fb9-394b-4dc5-8b86-1b43ea28113a")
+	)
+	(junction
+		(at 157.48 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88db5eca-3200-4a4e-85a6-cf2894346c7f")
+	)
+	(junction
+		(at 180.34 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c03ac27-437b-45f0-99db-f7794777b389")
+	)
+	(junction
+		(at 203.2 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9061bd8d-a85d-48d1-b46e-5ab6ed80d1e4")
+	)
+	(junction
+		(at 180.34 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91d52d70-1cbb-48cd-b208-c8fb97e37dfb")
+	)
+	(junction
+		(at 88.9 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98f1c89f-f056-4b67-9c41-a4ee243c8d7f")
+	)
+	(junction
+		(at 157.48 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bc0c917-bb05-40a6-8b03-eb1d0c0ac254")
+	)
+	(junction
+		(at 203.2 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a84ece64-3512-4e92-82d0-ba978fd5fcf2")
+	)
+	(junction
+		(at 111.76 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "adfe8894-c0bc-4a54-8edf-285b4ff5f798")
+	)
+	(junction
+		(at 43.18 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af2a4730-5263-4385-af15-52efe6d4897d")
+	)
+	(junction
+		(at 88.9 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0413b3d-2803-4a65-a0a8-9cf1dbbaff45")
+	)
+	(junction
+		(at 66.04 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8a48ede-2f24-4991-905f-3b5adb64a16c")
+	)
+	(junction
+		(at 226.06 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9de5684-ffbf-4e9b-b806-205b89d91063")
+	)
+	(junction
+		(at 180.34 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "befa23e2-5e54-4e82-82f4-c690d15e2f64")
+	)
+	(junction
+		(at 66.04 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf4465a4-96dc-41ae-aeef-345056dedb32")
+	)
+	(junction
+		(at 157.48 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c607c6b6-20a2-475b-9d9c-3ef2747ba07c")
+	)
+	(junction
+		(at 43.18 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c61be3ad-66b2-4fbc-8f23-27370cc7895f")
+	)
+	(junction
+		(at 20.32 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c826e718-da28-461c-9bf2-649270f1c51a")
+	)
+	(junction
+		(at 226.06 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c856b81b-d461-42b4-b8eb-bd197c06660c")
+	)
+	(junction
+		(at 157.48 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c896574d-4458-4113-baf4-c5a39c25c6bf")
+	)
+	(junction
+		(at 203.2 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9dc75b5-8e9e-4a04-a4be-1da90bb8ac5e")
+	)
+	(junction
+		(at 157.48 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc68e74e-cc4e-487b-bdd2-03bbbcb82fc3")
+	)
+	(junction
+		(at 111.76 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cfd27afb-724a-4286-85f2-ca146a33632b")
+	)
+	(junction
+		(at 203.2 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d46b0776-5bb5-4b66-b843-1e6b2835333b")
+	)
+	(junction
+		(at 203.2 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4d5a756-aec5-4afc-8519-63ec996062a9")
+	)
+	(junction
+		(at 203.2 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc4c3c8b-5e31-45f5-8516-2055229e5516")
+	)
+	(junction
+		(at 157.48 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd38c8db-fbf2-4ef2-8600-8fb7e2b5af7d")
+	)
+	(junction
+		(at 88.9 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "deab24b4-3406-4f0a-af19-f0b0bfc493fa")
+	)
+	(junction
+		(at 111.76 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dec72662-fb72-45e2-82ac-12f554501646")
+	)
+	(junction
+		(at 43.18 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1aab78f-689a-4507-8eb9-dfb8c56ce587")
+	)
+	(junction
+		(at 66.04 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5285bdc-e732-474c-b581-7f39c93bdb1a")
+	)
+	(junction
+		(at 111.76 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3b5215d-4581-41e4-aa8b-58d4807d121d")
+	)
+	(junction
+		(at 88.9 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8ac3a69-5e02-4160-b90e-871bbe141d6a")
+	)
+	(junction
+		(at 43.18 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8f59ae1-51f0-4799-a224-815d2d5fa9a4")
+	)
+	(junction
+		(at 20.32 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa413b6a-1dc3-49a9-bc53-7317be326ac5")
+	)
+	(junction
+		(at 134.62 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fec49fe5-5cd7-4b7e-b157-00c98e6bd030")
+	)
+	(wire
+		(pts
+			(xy 88.9 30.48) (xy 88.9 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05fc8d58-188f-49c9-8639-5de0fcbb4db1")
+	)
+	(wire
+		(pts
+			(xy 157.48 63.5) (xy 157.48 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0671e59a-d6e0-4434-a3d7-8f1191ad34cb")
+	)
+	(wire
+		(pts
+			(xy 43.18 25.4) (xy 43.18 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "072ee802-a2a5-441c-968e-e539c4660d8c")
+	)
+	(wire
+		(pts
+			(xy 157.48 40.64) (xy 157.48 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09301715-3f92-4d08-af7e-67d8c1cc9d17")
+	)
+	(wire
+		(pts
+			(xy 88.9 78.74) (xy 88.9 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a43c6fb-a1b6-40d2-986f-5747570e4c33")
+	)
+	(wire
+		(pts
+			(xy 203.2 20.32) (xy 226.06 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11fccec9-e1aa-46e5-ab71-7674930ec22f")
+	)
+	(wire
+		(pts
+			(xy 226.06 20.32) (xy 226.06 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13305854-c3e0-4032-b07c-a471121032d9")
+	)
+	(wire
+		(pts
+			(xy 66.04 30.48) (xy 66.04 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "157f3548-aacd-45d1-8458-83be807be70c")
+	)
+	(wire
+		(pts
+			(xy 111.76 68.58) (xy 111.76 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b6127e-2b65-4d42-98b8-d404caa76b93")
+	)
+	(wire
+		(pts
+			(xy 226.06 30.48) (xy 226.06 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176b5ca7-a5ff-41f6-b30c-ef0a74fcec5c")
+	)
+	(wire
+		(pts
+			(xy 20.32 78.74) (xy 20.32 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e496a35-60c5-4170-a75b-d58357f5dc64")
+	)
+	(wire
+		(pts
+			(xy 43.18 58.42) (xy 43.18 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2086e4bf-93d4-4cc5-8cec-535237bdd1fe")
+	)
+	(wire
+		(pts
+			(xy 88.9 68.58) (xy 88.9 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22c03d89-67d7-465d-a749-d7215a95966b")
+	)
+	(wire
+		(pts
+			(xy 20.32 30.48) (xy 20.32 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "232c58f1-403b-4a77-adfe-1500aeacc1a3")
+	)
+	(wire
+		(pts
+			(xy 134.62 20.32) (xy 134.62 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26537585-0add-472d-8f81-a3d3eeb5b272")
+	)
+	(wire
+		(pts
+			(xy 203.2 20.32) (xy 203.2 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2685db69-0560-4cf1-9a0e-0394760e56ec")
+	)
+	(wire
+		(pts
+			(xy 43.18 73.66) (xy 43.18 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2864e892-cb04-40c5-bf3f-3d8f5a57d81e")
+	)
+	(wire
+		(pts
+			(xy 226.06 40.64) (xy 226.06 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "291ae08b-6608-414a-94b3-38fa1f9bde17")
+	)
+	(wire
+		(pts
+			(xy 226.06 25.4) (xy 226.06 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a8412b0-e1bf-4213-9edd-7da45501433c")
+	)
+	(wire
+		(pts
+			(xy 66.04 73.66) (xy 66.04 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c57dc05-073c-4e71-9887-41bfe5e50b17")
+	)
+	(wire
+		(pts
+			(xy 157.48 73.66) (xy 157.48 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ebb84ec-921f-4b5c-8f1f-a9e3b53f4562")
+	)
+	(wire
+		(pts
+			(xy 88.9 20.32) (xy 88.9 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "301210a1-2f89-4ce8-b5a3-91854e85612b")
+	)
+	(wire
+		(pts
+			(xy 43.18 20.32) (xy 43.18 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "312e1a66-80c1-44d1-ae66-168435f36cc8")
+	)
+	(wire
+		(pts
+			(xy 66.04 63.5) (xy 66.04 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32f05804-a809-4fa0-bc0f-c84f7b3d2b4e")
+	)
+	(wire
+		(pts
+			(xy 20.32 40.64) (xy 20.32 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34e33041-41a5-41aa-b73b-1d71cfe1ccd9")
+	)
+	(wire
+		(pts
+			(xy 180.34 68.58) (xy 180.34 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37e9e179-7293-4b50-bb8e-499c221db071")
+	)
+	(wire
+		(pts
+			(xy 134.62 40.64) (xy 134.62 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38566e6e-2458-4a67-9128-f19da5ce3481")
+	)
+	(wire
+		(pts
+			(xy 134.62 58.42) (xy 157.48 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38c1b2b8-c0b3-405d-8be0-e2e17885a11b")
+	)
+	(wire
+		(pts
+			(xy 20.32 83.82) (xy 20.32 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39f2612d-25bd-4123-8662-9bd4751e70de")
+	)
+	(wire
+		(pts
+			(xy 134.62 68.58) (xy 134.62 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b56087a-604a-41b6-aaee-fa2bfea242d1")
+	)
+	(wire
+		(pts
+			(xy 134.62 30.48) (xy 134.62 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e65f1b5-3278-48f6-b43e-8a2c3f75b46d")
+	)
+	(wire
+		(pts
+			(xy 180.34 35.56) (xy 180.34 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "442d7441-a0d9-49f7-ac0e-b32591489635")
+	)
+	(wire
+		(pts
+			(xy 111.76 30.48) (xy 111.76 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "481b3a73-21fa-4301-a1b6-6e651aa9b737")
+	)
+	(wire
+		(pts
+			(xy 134.62 20.32) (xy 157.48 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b579eeb-7bc9-4396-893f-041c568cf6a9")
+	)
+	(wire
+		(pts
+			(xy 180.34 20.32) (xy 180.34 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9082b1-c520-4bc7-a9ad-1c76947c80e0")
+	)
+	(wire
+		(pts
+			(xy 20.32 25.4) (xy 20.32 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ce62092-1339-470c-ac1e-cdfc95fa0652")
+	)
+	(wire
+		(pts
+			(xy 226.06 78.74) (xy 226.06 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e556bd4-7d01-4c58-9ca2-35a900b0d60b")
+	)
+	(wire
+		(pts
+			(xy 180.34 30.48) (xy 180.34 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e810dfd-dcf9-45d3-8478-c3c49365dcb8")
+	)
+	(wire
+		(pts
+			(xy 43.18 63.5) (xy 43.18 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f05fffe-0257-4ada-be2d-d19fdcedf1c2")
+	)
+	(wire
+		(pts
+			(xy 134.62 78.74) (xy 134.62 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54ecb549-7071-4ea0-a681-90abd7d783a5")
+	)
+	(wire
+		(pts
+			(xy 157.48 68.58) (xy 157.48 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "563459af-ba47-40df-9360-65592d244025")
+	)
+	(wire
+		(pts
+			(xy 203.2 30.48) (xy 203.2 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57f747da-f73b-47e2-855e-746187074d7d")
+	)
+	(wire
+		(pts
+			(xy 111.76 78.74) (xy 111.76 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "592317bf-1635-4b73-aebc-add000da70ce")
+	)
+	(wire
+		(pts
+			(xy 157.48 35.56) (xy 157.48 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594df4a8-7c70-4126-a9f4-22c93b8f1a8c")
+	)
+	(wire
+		(pts
+			(xy 111.76 40.64) (xy 111.76 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "606960bc-6983-4fbf-a792-2d4638780764")
+	)
+	(wire
+		(pts
+			(xy 111.76 35.56) (xy 111.76 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62da3615-3c7a-48f6-ad39-65581f2b9a38")
+	)
+	(wire
+		(pts
+			(xy 226.06 63.5) (xy 226.06 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "630659a6-2f46-4099-8701-4e8ae9a1efcd")
+	)
+	(wire
+		(pts
+			(xy 88.9 35.56) (xy 88.9 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6441135d-4ca7-4a43-b9ba-f1e7a679edd2")
+	)
+	(wire
+		(pts
+			(xy 20.32 45.72) (xy 20.32 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d568393-3de1-45ce-a649-f2fadddb085a")
+	)
+	(wire
+		(pts
+			(xy 20.32 73.66) (xy 20.32 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fedae89-c9ae-48be-ab53-daca03090eb9")
+	)
+	(wire
+		(pts
+			(xy 157.48 25.4) (xy 157.48 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "701ba22c-3aaa-440d-a49a-18f2923f7cab")
+	)
+	(wire
+		(pts
+			(xy 88.9 40.64) (xy 88.9 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71ca0549-cabd-43f6-9020-88d8587e5d89")
+	)
+	(wire
+		(pts
+			(xy 66.04 20.32) (xy 88.9 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7297fb7a-4d3e-46e3-9b8d-1365a93702d8")
+	)
+	(wire
+		(pts
+			(xy 180.34 40.64) (xy 180.34 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72ad8bee-3457-4da5-82d8-a6769b8c7f28")
+	)
+	(wire
+		(pts
+			(xy 157.48 20.32) (xy 157.48 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72e944fa-bac6-4a2e-a4ce-5bbc2e28e01c")
+	)
+	(wire
+		(pts
+			(xy 134.62 25.4) (xy 134.62 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "752594ae-c28b-4cb7-96a2-63261b427c3c")
+	)
+	(wire
+		(pts
+			(xy 20.32 58.42) (xy 43.18 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "770c0412-f554-4b6e-af4d-0d609691f1cf")
+	)
+	(wire
+		(pts
+			(xy 157.48 58.42) (xy 180.34 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a7d902a-6390-4ff5-aa5c-25b8ffce1114")
+	)
+	(wire
+		(pts
+			(xy 111.76 25.4) (xy 111.76 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e4b6294-b11f-42e2-859d-b6a82650b9de")
+	)
+	(wire
+		(pts
+			(xy 180.34 25.4) (xy 180.34 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f270019-fe1a-4e8c-8830-dfa81962337b")
+	)
+	(wire
+		(pts
+			(xy 43.18 78.74) (xy 43.18 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8079157e-5f53-43a5-8c0e-aedc85f0819b")
+	)
+	(wire
+		(pts
+			(xy 66.04 58.42) (xy 88.9 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81ec88ac-3c2b-4453-ae3c-3471d80013e8")
+	)
+	(wire
+		(pts
+			(xy 180.34 58.42) (xy 180.34 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85894d99-8ab5-4748-a9f5-14d93afb1c5d")
+	)
+	(wire
+		(pts
+			(xy 180.34 78.74) (xy 180.34 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86e0df3a-539c-48e0-b040-4f6e3c641c20")
+	)
+	(wire
+		(pts
+			(xy 226.06 58.42) (xy 226.06 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b36ec59-6e39-4c31-be90-178e2deb4957")
+	)
+	(wire
+		(pts
+			(xy 180.34 58.42) (xy 203.2 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b88d833-3bb6-4d5b-8b32-63a895f581be")
+	)
+	(wire
+		(pts
+			(xy 88.9 73.66) (xy 88.9 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e69364a-fd07-46fa-bbca-6fc6d4b194cd")
+	)
+	(wire
+		(pts
+			(xy 20.32 35.56) (xy 20.32 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f8e1022-952b-4cf2-a4ed-c02004ae847d")
+	)
+	(wire
+		(pts
+			(xy 111.76 20.32) (xy 134.62 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9152fd67-577a-4670-8a6c-9344863c5325")
+	)
+	(wire
+		(pts
+			(xy 203.2 25.4) (xy 203.2 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91701e5f-1f3f-48dc-bdad-f040f389d91d")
+	)
+	(wire
+		(pts
+			(xy 88.9 20.32) (xy 111.76 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92b9c62a-fc0c-400e-a029-425aa1bc5166")
+	)
+	(wire
+		(pts
+			(xy 226.06 68.58) (xy 226.06 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95d58c25-d561-4207-8a55-b873dfc4e5fa")
+	)
+	(wire
+		(pts
+			(xy 203.2 68.58) (xy 203.2 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "992496d4-62be-427e-ba0b-573e89ffdcd6")
+	)
+	(wire
+		(pts
+			(xy 20.32 20.32) (xy 43.18 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aff02ef-922f-4f5c-af5d-01e4a6949697")
+	)
+	(wire
+		(pts
+			(xy 66.04 68.58) (xy 66.04 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c51d275-bfff-4dab-831a-c3b51823c78f")
+	)
+	(wire
+		(pts
+			(xy 134.62 58.42) (xy 134.62 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fee4edc-1e3f-4121-b530-abf378b74b49")
+	)
+	(wire
+		(pts
+			(xy 157.48 78.74) (xy 157.48 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a400a3a8-330e-4fe6-8c5c-8fc0f49a88e0")
+	)
+	(wire
+		(pts
+			(xy 203.2 63.5) (xy 203.2 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a731dcc6-0b73-49d6-8630-3bf26692c0c4")
+	)
+	(wire
+		(pts
+			(xy 111.76 20.32) (xy 111.76 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a827ceb6-0211-4fc3-b687-99df9e6cb52d")
+	)
+	(wire
+		(pts
+			(xy 43.18 58.42) (xy 66.04 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab69c5e5-0551-4e6c-8a8c-9ac4062cc46e")
+	)
+	(wire
+		(pts
+			(xy 66.04 20.32) (xy 66.04 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad257a2a-e990-447b-80e4-336f2b1dfd11")
+	)
+	(wire
+		(pts
+			(xy 66.04 40.64) (xy 66.04 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad67e919-76d7-4f0c-b9bf-97ddafaf0f7f")
+	)
+	(wire
+		(pts
+			(xy 180.34 20.32) (xy 203.2 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0cc0774-5999-4bc1-89ed-1979d06fbefa")
+	)
+	(wire
+		(pts
+			(xy 157.48 30.48) (xy 157.48 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2c983ee-41d9-4531-8f68-e313df6c2989")
+	)
+	(wire
+		(pts
+			(xy 20.32 68.58) (xy 20.32 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3d97749-a3b0-4f5a-ac78-c06aa42bfad5")
+	)
+	(wire
+		(pts
+			(xy 66.04 25.4) (xy 66.04 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b79ae077-01ab-455b-9c1f-8f5281578ff4")
+	)
+	(wire
+		(pts
+			(xy 226.06 73.66) (xy 226.06 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb2c40bf-00d6-44f1-ac39-dd18dcfa6ab1")
+	)
+	(wire
+		(pts
+			(xy 111.76 73.66) (xy 111.76 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdb4f6ca-9c9e-4a7e-ad31-1b657089593f")
+	)
+	(wire
+		(pts
+			(xy 203.2 40.64) (xy 203.2 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfef7e5b-d093-475b-ada0-7e1383b7b8d2")
+	)
+	(wire
+		(pts
+			(xy 134.62 35.56) (xy 134.62 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8edbecb-764e-4651-aba0-de0329bfff9e")
+	)
+	(wire
+		(pts
+			(xy 43.18 30.48) (xy 43.18 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caa073df-572c-4346-8180-fe5af689944a")
+	)
+	(wire
+		(pts
+			(xy 88.9 58.42) (xy 88.9 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cae58968-f871-4c78-af69-e6638574709a")
+	)
+	(wire
+		(pts
+			(xy 203.2 58.42) (xy 203.2 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb747aa3-209a-4981-b4ce-a71eb3d51d53")
+	)
+	(wire
+		(pts
+			(xy 111.76 58.42) (xy 134.62 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccee7a7a-ad00-425b-9910-dccc3ee1fdc6")
+	)
+	(wire
+		(pts
+			(xy 88.9 63.5) (xy 88.9 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce6822b4-797a-47c6-a5e8-64857218698b")
+	)
+	(wire
+		(pts
+			(xy 88.9 58.42) (xy 111.76 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2166365-e159-466d-8c9b-bedd6f66a8c6")
+	)
+	(wire
+		(pts
+			(xy 180.34 73.66) (xy 180.34 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d31a0f5f-01f3-4284-9c5f-7433468c4c28")
+	)
+	(wire
+		(pts
+			(xy 43.18 20.32) (xy 66.04 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d44fa66e-0cda-499e-a37c-a066e2f778cf")
+	)
+	(wire
+		(pts
+			(xy 111.76 63.5) (xy 111.76 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d505de7d-a481-4773-b6fd-6989754f6032")
+	)
+	(wire
+		(pts
+			(xy 203.2 58.42) (xy 226.06 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d91e134e-ba60-431b-9dbc-1f98b75de3d8")
+	)
+	(wire
+		(pts
+			(xy 20.32 63.5) (xy 20.32 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dab35956-d639-43bb-8ed6-0b6a7be69fbb")
+	)
+	(wire
+		(pts
+			(xy 157.48 58.42) (xy 157.48 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db0f9e90-2850-4658-8fa7-3e3b6a6f9f2e")
+	)
+	(wire
+		(pts
+			(xy 66.04 35.56) (xy 66.04 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "debd3888-9315-4341-82a7-1808880a335d")
+	)
+	(wire
+		(pts
+			(xy 134.62 63.5) (xy 134.62 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e21a09f9-5c3f-4a88-b9a5-337341983409")
+	)
+	(wire
+		(pts
+			(xy 226.06 35.56) (xy 226.06 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e42f99c4-b6c4-47d1-8f8b-8f5c0b246ab1")
+	)
+	(wire
+		(pts
+			(xy 43.18 40.64) (xy 43.18 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e79f6862-107f-4c6f-8685-e6dd43a1ca14")
+	)
+	(wire
+		(pts
+			(xy 203.2 35.56) (xy 203.2 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e88baa7e-b76b-47c3-a62c-a12b9119491c")
+	)
+	(wire
+		(pts
+			(xy 66.04 58.42) (xy 66.04 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9dbbe4d-f259-4ca9-911c-cb36cdce5cbb")
+	)
+	(wire
+		(pts
+			(xy 43.18 35.56) (xy 43.18 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea4ce69a-8fce-4897-b348-0ab2ff3d6974")
+	)
+	(wire
+		(pts
+			(xy 66.04 78.74) (xy 66.04 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec657137-98ef-4791-b495-ac93f274f5f5")
+	)
+	(wire
+		(pts
+			(xy 203.2 73.66) (xy 203.2 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edfcf9b7-8787-4d19-a7be-8cd3afb5cd35")
+	)
+	(wire
+		(pts
+			(xy 157.48 20.32) (xy 180.34 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f411da54-6faa-4e85-a3ee-0ca2e7a17133")
+	)
+	(wire
+		(pts
+			(xy 88.9 25.4) (xy 88.9 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f489fe39-4439-4617-aa7a-af78f92e7058")
+	)
+	(wire
+		(pts
+			(xy 111.76 58.42) (xy 111.76 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5a8f8d0-d539-420b-8d26-c7d296e107fa")
+	)
+	(wire
+		(pts
+			(xy 203.2 78.74) (xy 203.2 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9011fe3-1816-425a-8b91-5302e5082ed3")
+	)
+	(wire
+		(pts
+			(xy 134.62 73.66) (xy 134.62 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f985c5bd-2401-469d-a4d7-a9f48a063d89")
+	)
+	(wire
+		(pts
+			(xy 180.34 63.5) (xy 180.34 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdf9dd1b-98ff-4ded-b7d6-ca8c8593dfbe")
+	)
+	(wire
+		(pts
+			(xy 43.18 68.58) (xy 43.18 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe678416-83d2-4af1-8d69-92df863472ea")
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ec61bfa-3bb3-4216-9090-5a19f51fcb08")
+		(property "Reference" "J711"
+			(at 165.1 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aea5c2fe-597b-4f26-91d6-480eb08af753")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J795")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J711")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0facdb1f-64e1-440c-9473-4d3d45f751ce")
+		(property "Reference" "J638"
+			(at 50.8 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fbbdccdb-c934-46e5-90da-ddfbc39f3462")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J742")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J638")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1020578f-11ef-4068-972e-b314d7165dbc")
+		(property "Reference" "J660"
+			(at 142.24 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a4a6f85d-47b7-4ff9-a1e4-03f341527ba0")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J784")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J660")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "133c7a75-caf1-4a87-8852-7cfb14fe4afd")
+		(property "Reference" "J719"
+			(at 187.96 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23cc15b8-5ad7-4ed1-9532-f8ccaffd109f")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J808")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J719")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1422393f-f6a3-4387-833d-55823632ff93")
+		(property "Reference" "J663"
+			(at 165.1 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6d11956-76df-4b77-9e1d-d5e9e808d48f")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J792")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J663")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15c2f737-9cb0-4595-a1b1-5ccd20970b53")
+		(property "Reference" "J669"
+			(at 187.96 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3334100f-05ef-4ff2-8773-b812cbf24e86")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J803")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J669")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16fa620b-80e4-4e62-a866-0ad46f22eb9b")
+		(property "Reference" "J696"
+			(at 96.52 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35651ab9-da6a-45a8-993a-19394c62c84e")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J765")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J696")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18857261-4ab7-4832-9916-7e0c4e55f87c")
+		(property "Reference" "J723"
+			(at 210.82 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97f7732c-5fde-433c-becb-04b1fd42a20a")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J817")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J723")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c6661f5-c5ad-4693-b1db-b235f67c9ff2")
+		(property "Reference" "J714"
+			(at 165.1 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "265d289f-461a-4e66-b3bd-01f7192dd13e")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J798")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J714")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1dd2055e-1a34-492b-a6ab-0c6319e6ae28")
+		(property "Reference" "J684"
+			(at 27.94 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40851daa-ee6b-4f01-851d-b88f980ca9d9")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J738")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J684")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1f187ee7-c3a8-48e7-8624-6b131eb8423b")
+		(property "Reference" "J671"
+			(at 210.82 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d531f69-6473-4faf-9f40-8c2a10fb1b94")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J810")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J671")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2323866d-332a-4f5d-84ea-8b068ec8369d")
+		(property "Reference" "J685"
+			(at 27.94 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0f7ec36-bc1d-4978-834f-e536c59d48b0")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J739")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J685")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "241155fa-4be3-4390-be51-72eba75e7ced")
+		(property "Reference" "J679"
+			(at 233.68 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f1fa2de-efbe-4a29-87d3-fbe952120e85")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J823")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J679")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "297c1f24-52ec-4051-a6f5-f1776bba70a5")
+		(property "Reference" "J725"
+			(at 210.82 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e42f0129-54bc-4f61-905d-c0ed4019221e")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J819")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J725")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29a2f5f8-21ab-4236-a02d-eb460438c776")
+		(property "Reference" "J681"
+			(at 27.94 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dca59a98-1d0d-4f80-bc45-1fc4607634f4")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J735")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J681")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29b1514b-28a6-4574-8e46-5dab3aa7b491")
+		(property "Reference" "J646"
+			(at 96.52 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1977c5a8-3ae0-404a-9893-383507058c55")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J760")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J646")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "313365b2-32a6-4be7-8676-ea98d4ef7434")
+		(property "Reference" "J657"
+			(at 142.24 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8a5b20a-3e42-4d54-9397-c735a717e720")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J781")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J657")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33159423-9f07-44db-911b-e0983251b0b0")
+		(property "Reference" "J697"
+			(at 96.52 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36f9a0f0-dddb-4acc-b77a-b36d1e15de98")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J766")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J697")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33340632-2d0b-45fc-9ea5-1bc457c5832d")
+		(property "Reference" "J701"
+			(at 119.38 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7877c841-9afd-4fbc-abf0-5529e118cf29")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J775")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J701")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "349b6d90-4403-46fe-8a34-ad3c10b70214")
+		(property "Reference" "J662"
+			(at 165.1 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "120804b0-91cc-422d-81b4-5bc087ec580c")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J791")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J662")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34d03339-20c4-494e-be2f-33a999f1ed4f")
+		(property "Reference" "J631"
+			(at 27.94 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fce2d4c-d5d3-46d1-871a-44e6eab6915a")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J1")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J631")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "358bdf99-ff63-477c-bc5a-1cc1c2e62a6c")
+		(property "Reference" "J720"
+			(at 187.96 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd6349ca-48b6-4090-af53-cc4f6ffed8e4")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J809")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J720")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "377639ec-2632-4ba7-a128-91e19ca9603b")
+		(property "Reference" "J640"
+			(at 50.8 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bba3e753-ac89-4487-8200-c867a9161eda")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J744")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J640")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "389de417-c126-455a-b614-66d33ef9f00a")
+		(property "Reference" "J651"
+			(at 119.38 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb90abff-35d9-4d12-b9b5-5680e58c577f")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J770")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J651")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3fa0ce04-aa98-4fe9-8f3f-d7a33bb2a7b5")
+		(property "Reference" "J712"
+			(at 165.1 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec7f63b3-581f-4899-8370-d5d561e82bb5")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J796")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J712")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41bc022c-8e81-46ff-be1a-0b176e1cfc80")
+		(property "Reference" "J704"
+			(at 119.38 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72e88a5e-7126-49dc-8792-df525e4e6f3a")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J778")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J704")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4452453e-98a7-403b-9aa3-4e8f5c496552")
+		(property "Reference" "J661"
+			(at 165.1 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6cdaa2a-61d6-41e7-96e2-4f5522aefc47")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J790")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J661")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4664c855-f917-4b6f-a93f-69fff52437eb")
+		(property "Reference" "J678"
+			(at 233.68 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5664291f-c8c3-442f-b8c6-2f9b98ce8aed")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J822")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J678")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "485cb101-fd3e-408d-8228-31e029c8a34d")
+		(property "Reference" "J664"
+			(at 165.1 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "385fbc92-35d4-4d24-ab1c-3ecf47d6ad94")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J793")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J664")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "493850da-bffb-4a39-97b2-1d59c966815c")
+		(property "Reference" "J710"
+			(at 142.24 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e16064ea-460f-4ddf-b25b-4914a319efac")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J789")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J710")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a8eac67-e677-4186-a3a1-8df5a65f969b")
+		(property "Reference" "J705"
+			(at 119.38 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a6f1d37-75a0-45ab-a33a-14196ca9c2cd")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J779")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J705")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b88c266-ef22-467a-8b3c-755eb5c4ccd1")
+		(property "Reference" "J659"
+			(at 142.24 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f414106-1724-4136-af92-65e38f4a5f00")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J783")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J659")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4dbe4088-2978-4472-ab3e-4372bf34967f")
+		(property "Reference" "J650"
+			(at 96.52 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d5c292e-dc7f-4e83-a96f-13a0fbe36c7b")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J764")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J650")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50149d5d-7ace-4dc6-83e5-60f351ef325e")
+		(property "Reference" "J666"
+			(at 187.96 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "64941161-eb37-4809-9077-ea82adaf922b")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J800")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J666")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51943611-5be6-4ebc-9b33-6dcbf9da3899")
+		(property "Reference" "J653"
+			(at 119.38 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0826a291-27d0-467c-92ae-0390bc644336")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J772")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J653")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "564e34b5-1cd4-44c0-a83f-9bbcd0f127c3")
+		(property "Reference" "J636"
+			(at 50.8 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "352d5c1a-a684-4e4d-85b6-27ac7391569c")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J740")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J636")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5cd4ee82-fa3c-4d81-abe1-da73db036c9c")
+		(property "Reference" "J665"
+			(at 165.1 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec5b7945-8891-4d09-a005-87712b3ebeeb")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J794")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J665")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e44c1ee-0ee9-49ac-9a70-a66b69dd9655")
+		(property "Reference" "J689"
+			(at 50.8 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84beab83-307b-4734-a469-ca1e7bf26e8b")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J748")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J689")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f0610da-dde9-4301-bfca-a105f54209d9")
+		(property "Reference" "J716"
+			(at 187.96 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48c497ba-ebc9-4849-91f9-f26c9535dbd8")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J805")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J716")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "643eede3-8b9b-49cc-b5cc-d03a07f115b8")
+		(property "Reference" "J633"
+			(at 27.94 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f437904d-710f-419d-aa9b-4590893b7aff")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J732")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J633")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6452c156-715c-4325-b4d1-deb6465b35d6")
+		(property "Reference" "J694"
+			(at 73.66 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e36be8b-65d5-456f-b3ad-714f8a9ec751")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J758")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J694")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "662e165d-a986-4172-8323-7e683181109b")
+		(property "Reference" "J668"
+			(at 187.96 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54008173-3666-462b-967f-dd24f91464d3")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J802")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J668")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66750709-91df-4a96-957d-ee58b0c5460b")
+		(property "Reference" "J726"
+			(at 233.68 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f07fc94c-1b32-47d1-8471-9cc1e367de6f")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J825")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J726")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e94c72e-f9f4-4cd3-8bb6-1437f8e573ba")
+		(property "Reference" "J642"
+			(at 73.66 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e30825e8-fab6-491c-b0be-d4ab19ff4f03")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J751")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J642")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f065700-022f-44d5-84a8-fa6a57870cc0")
+		(property "Reference" "J649"
+			(at 96.52 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a00c02e9-7881-440b-b110-bb9f8a34282d")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J763")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J649")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70ebe01d-2dbb-47dc-af45-1acf50a5da4d")
+		(property "Reference" "J691"
+			(at 73.66 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84e4f6b0-7bb7-42b4-b1a2-48e3227cfa00")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J755")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J691")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7733cdea-e7f8-4a9e-a8a0-8c6a49c83f46")
+		(property "Reference" "J729"
+			(at 233.68 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35a67baf-f717-49b8-b851-82077c49a708")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J828")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J729")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7814a18b-254b-439d-ae80-87e672982ca9")
+		(property "Reference" "J635"
+			(at 27.94 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a22b3673-89a9-4f9a-847a-6193559ded07")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J734")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J635")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b3ce7eb-157d-40a7-b251-b78a0e8db986")
+		(property "Reference" "J695"
+			(at 73.66 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4eb07688-a52a-4aa1-a926-68ac193b89bf")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J759")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J695")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bc0325b-cdab-4e2d-b889-2386e5b7dc32")
+		(property "Reference" "J670"
+			(at 187.96 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "99257404-615f-4745-b596-89d1168467b7")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J804")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J670")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bdb3f92-2089-4db2-aec5-375959001e00")
+		(property "Reference" "J709"
+			(at 142.24 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7093934-6b0f-4c8d-8fd2-dcbfeee80541")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J788")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J709")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7de97e8a-a712-4193-9373-d6130faa40e5")
+		(property "Reference" "J675"
+			(at 210.82 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a9af1a3-bdeb-4f65-b854-134f6f05a1a0")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J814")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J675")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7eaeb798-10bd-4f89-9a73-509c1e47ced3")
+		(property "Reference" "J727"
+			(at 233.68 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45cdf755-e6fa-42d1-86e8-1702bb2e74b0")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J826")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J727")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80a4a541-9a72-4e73-a433-905782b97e71")
+		(property "Reference" "J707"
+			(at 142.24 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b393590-d943-41d0-850f-4fbf03345cb3")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J786")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J707")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80ff8c11-6bed-4528-9b93-4d6a49911d6b")
+		(property "Reference" "J637"
+			(at 50.8 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "47ec4e6a-b46e-4a25-9eee-c531ce1debf5")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J741")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J637")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "827dd6ad-cbd3-4d32-aae0-6a8f6e3ef130")
+		(property "Reference" "J647"
+			(at 96.52 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc9d29fa-8b6e-48e4-9151-13658e5839b8")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J761")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J647")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84c66da8-2008-4cd2-9be0-f196fb73e674")
+		(property "Reference" "J721"
+			(at 210.82 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f75b48a-27c7-485e-bfff-2290d10a1b78")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J815")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J721")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87f68eb4-3e74-4df7-8bda-9dca9c56d0f9")
+		(property "Reference" "J724"
+			(at 210.82 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ba70f91-9060-40e8-9bb5-94195a7ce698")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J818")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J724")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d58d660-047d-4c96-b8ab-8485eba1f5fb")
+		(property "Reference" "J688"
+			(at 50.8 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7149f4e-0d4b-432b-b751-95985e6cfbd1")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J747")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J688")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d8331cb-836d-42ba-917e-acd981d604a2")
+		(property "Reference" "J715"
+			(at 165.1 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c575cac2-f43f-4871-896d-eb571a91337e")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J799")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J715")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f186ae4-5bc7-4ec7-8a13-f47226296956")
+		(property "Reference" "J698"
+			(at 96.52 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b09ba649-86e0-4bf7-bf17-0b48cce6ab3c")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J767")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J698")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91a8417b-ac67-4a87-b856-5e572b148f9d")
+		(property "Reference" "J658"
+			(at 142.24 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c5739de3-f269-4ccc-b1f5-f7023352ff5a")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J782")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J658")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "96634fc9-2d2a-4285-bd6f-592e15c5f018")
+		(property "Reference" "J680"
+			(at 233.68 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c034fd6-e62a-4b5f-bd86-70f670352964")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J824")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J680")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a6c2536-3e6d-49a9-be0a-0d29f84b0c61")
+		(property "Reference" "J655"
+			(at 119.38 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "282f50a6-b8f0-4729-86a8-1ef894c26073")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J774")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J655")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9ca0fb92-7e31-4873-80d4-8d949740cf2b")
+		(property "Reference" "J687"
+			(at 50.8 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c5e7fe85-6dc6-4a14-93b4-0e1cc16097a8")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J746")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J687")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e9411b1-526e-44c2-9ef7-f7b8dd844901")
+		(property "Reference" "J690"
+			(at 50.8 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "585de864-555d-4d01-9680-5fadd9fa56c3")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J749")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J690")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0815154-ee2b-4548-8510-3032ecfbdbd1")
+		(property "Reference" "J676"
+			(at 233.68 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6732c62d-17d4-4712-beb7-76f5d317863b")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J820")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J676")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0df79ca-c6fd-451c-acdc-6c7e4e0283d0")
+		(property "Reference" "J677"
+			(at 233.68 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb91b480-2d32-442b-a4d3-9fbd884309f4")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J821")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J677")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1ae102f-1346-4d35-94f0-d7f0c4baf073")
+		(property "Reference" "J703"
+			(at 119.38 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01bc1da4-d21a-428e-8a5b-0b053306f8b8")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J777")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J703")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a37630e1-2627-49a5-87fa-02099c82e507")
+		(property "Reference" "J673"
+			(at 210.82 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "004b618f-3a41-4a68-a409-e9cada58b018")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J812")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J673")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a59de483-604b-460e-8d59-928deac8871b")
+		(property "Reference" "J730"
+			(at 233.68 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf14081e-8b5f-4f0f-ac0a-87e2a4641f21")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J829")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J730")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a6cdde70-b46f-4393-8c19-ce4d06b4caa5")
+		(property "Reference" "J644"
+			(at 73.66 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b57ccd34-f0e6-41ef-baa1-0094b9d7afab")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J753")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J644")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 231.14 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad4d461d-1207-4974-a906-f7253dabbf48")
+		(property "Reference" "J728"
+			(at 233.68 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 233.68 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 231.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1efcbe73-5786-4087-90ec-7b49affb8342")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J827")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J728")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0b3b072-e9ac-49d0-9e65-673e37bdeaac")
+		(property "Reference" "J674"
+			(at 210.82 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65d5b31d-2738-4ecb-85c6-df083fdc9572")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J813")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J674")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3e1fe93-b8ea-409d-b291-123785972905")
+		(property "Reference" "J683"
+			(at 27.94 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9e1f636-9641-4fca-be60-30b22fd734bd")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J737")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J683")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3e99457-f085-4dca-a015-6fb4d64104e5")
+		(property "Reference" "J718"
+			(at 187.96 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30bc7da9-b3a5-4bc8-907d-7465310a0861")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J807")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J718")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4bcea73-2362-4106-b455-bec176920af5")
+		(property "Reference" "J686"
+			(at 50.8 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fba67f3a-66ba-4b40-be34-a7be035e8bc4")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J745")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J686")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b658377c-142a-4932-9ab4-797ad56f273d")
+		(property "Reference" "J648"
+			(at 96.52 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9e9ea83-dfe8-4e94-9e1d-3658adeb6bae")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J762")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J648")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b74bb9dd-38ae-4d19-88f1-2a9eabc02306")
+		(property "Reference" "J717"
+			(at 187.96 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09e2f766-5af0-4cbd-95d3-25caa04f558f")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J806")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J717")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b769a8c1-6663-4a38-8c14-c369eaef18f0")
+		(property "Reference" "J702"
+			(at 119.38 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "004135d2-be4e-4b4b-898f-8e00247dd87b")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J776")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J702")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7a3a2ef-76be-41bd-9d4f-59f3e02b6fba")
+		(property "Reference" "J645"
+			(at 73.66 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e0aef23-ca6c-4d10-bede-84bec09c4212")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J754")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J645")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b93fc043-73bf-4ec4-973f-f88468351bc4")
+		(property "Reference" "J699"
+			(at 96.52 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19089624-f5ca-4022-b614-d0fcd3e329c0")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J768")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J699")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc10b29a-861d-414c-975b-b01ac5eb2c9c")
+		(property "Reference" "J654"
+			(at 119.38 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6db5907d-86b0-4cbe-a1f3-99e3d1eae593")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J773")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J654")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 93.98 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc6be445-6c1c-4d10-b03a-0381641e6adc")
+		(property "Reference" "J700"
+			(at 96.52 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 96.52 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 93.98 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 93.98 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53073568-1f60-4c65-b31b-a6bf0d00edc5")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J769")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J700")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd3044c0-1d70-49ea-ac11-5859dd89eb10")
+		(property "Reference" "J641"
+			(at 73.66 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b242727-d6a5-4793-ab69-3ba89df12d18")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J750")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J641")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd997178-6fb6-4aef-8668-e11477af1d0f")
+		(property "Reference" "J634"
+			(at 27.94 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ecfe6de3-feb7-46ea-8ae6-2df29b4464c4")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J733")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J634")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdba55cb-1458-4a30-aef2-f89f8351fd96")
+		(property "Reference" "J656"
+			(at 142.24 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f995072-6b9b-430d-860d-9d9cf5fe1114")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J780")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J656")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 185.42 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4f111ce-255d-41e7-b20e-05f0c64c3125")
+		(property "Reference" "J667"
+			(at 187.96 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 187.96 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 185.42 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e54862c0-03dc-4026-91a1-0317401a7d8c")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J801")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J667")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca76339c-f9c5-4e59-8985-c781fb114ab7")
+		(property "Reference" "J693"
+			(at 73.66 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "489d73bf-4c40-40a0-b651-abe9b4cc823c")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J757")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J693")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb7a772e-57e5-44e8-a083-e41f6b7a667d")
+		(property "Reference" "J643"
+			(at 73.66 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00a48ea1-fc6a-4057-a260-0ca86fa43184")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J752")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J643")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 162.56 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ce6b1e92-a034-4733-990d-787a4b3f579f")
+		(property "Reference" "J713"
+			(at 165.1 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 162.56 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35fdef6b-57ea-40e7-8db7-b8529a682221")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J797")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J713")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d98a344f-071c-4515-998e-acf5792bfb7b")
+		(property "Reference" "J708"
+			(at 142.24 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39228c40-733c-4395-8652-6ff7bff60cb0")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J787")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J708")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc9ea6e4-49cd-4131-a3e3-9a696e1611a1")
+		(property "Reference" "J672"
+			(at 210.82 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c6b0253-0c56-4162-a561-6c129f172d5a")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J811")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J672")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de07b8ab-3407-4884-afe5-8aa6fd7fd95a")
+		(property "Reference" "J682"
+			(at 27.94 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6915f43a-d567-4af0-8005-ff841ccfeb8e")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J736")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J682")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 48.26 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df0d30ce-21a3-4d3c-a8e8-8a2b9795933d")
+		(property "Reference" "J639"
+			(at 50.8 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 50.8 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f59cc805-dfec-449a-9c13-e009fdede864")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J743")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J639")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 116.84 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef44306e-7fe0-4237-8dec-4ac3c00b1f56")
+		(property "Reference" "J652"
+			(at 119.38 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 119.38 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 116.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 116.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e4cc78a-f8ad-4f4f-b163-a5811a6f784d")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J771")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J652")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 71.12 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f1be8130-d6e9-4f0f-baf4-2f8b9345edac")
+		(property "Reference" "J692"
+			(at 73.66 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 73.66 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 71.12 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6c6aa07-464d-49f4-8418-c96132417cb2")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J756")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J692")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 25.4 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5965f78-62a4-415b-b323-ad0be7428f64")
+		(property "Reference" "J632"
+			(at 27.94 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 27.94 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 25.4 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3d6909a-36b5-4b38-a0f2-0627bce790e4")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J731")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J632")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 139.7 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7f5ac82-4108-465f-842e-ad079ba84084")
+		(property "Reference" "J706"
+			(at 142.24 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 142.24 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 139.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 139.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b1f69b8-2e74-469d-962c-515c4b4bcac1")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J785")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J706")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "solderbread:Conn_01x01")
+		(at 208.28 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f85e97a7-23a9-4ff4-94dd-fb0c130784cb")
+		(property "Reference" "J722"
+			(at 210.82 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 210.82 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "solderbread:single_pin"
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1815e58-6798-49db-a11e-b4818c18b64b")
+		)
+		(instances
+			(project "solderbread_custm"
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/072fa771-d07e-43d1-b595-b0e6035fb33b"
+					(reference "J816")
+					(unit 1)
+				)
+				(path "/e605fdad-5778-44d0-9fa4-8d0c1f5f8e4f/9efd5aa0-254d-400b-bacc-6b02e003c5a6"
+					(reference "J722")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
